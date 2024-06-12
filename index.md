@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Biennial International Congress on Mental Health
+      title: Biennial International Congress on Mental Health 2024
       subtitle: 19 - 22 November 2024, One Farrer Hotel
       background: /images/hero-banner.png
       url: /contact-us/
