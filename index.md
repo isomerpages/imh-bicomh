@@ -24,6 +24,7 @@ sections:
   - infopic:
       title: International Society of Addiction Medicine International C
       id: infopic
-      description: 21 - 22 November 2024
+      description: Fostering Community Support for Behavioural Addiction Recovery
       alt: Image alt text
+      subtitle: 21 - 22 November 2024
 ---
