@@ -18,7 +18,7 @@ sections:
       description: 19 - 20 November 2024
       alt: Image alt text
   - infopic:
-      title: ISAM
+      title: International Society of Addiction Medicine International C
       id: infopic
       description: 21 - 22 November 2024
       alt: Image alt text
