@@ -12,10 +12,9 @@ sections:
       background: /images/hero-banner.png
       url: /contact-us/
       variant: center
-      key_highlights:
-        - title: Buildng Bridges for an Effective Mental Health Ecosystem
-          description: ""
-          url: ""
+  - infobar:
+      title: Buildng Bridges for an Effective Mental Health Ecosystem
+      id: infobar
   - infopic:
       title: Asian Congress of Schizophrenia 2024 (ACSR)
       id: infopic
