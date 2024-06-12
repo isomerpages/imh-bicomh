@@ -13,7 +13,7 @@ sections:
       url: /contact-us/
       variant: center
   - infopic:
-      title: ACSR
+      title: Asian Congress of Schizophrenia 2024 (ACSR)
       id: infopic
       description: 19 - 20 November 2024
       alt: Image alt text
