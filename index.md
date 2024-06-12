@@ -13,7 +13,7 @@ sections:
       url: /contact-us/
       variant: center
   - infobar:
-      title: Buildng Bridges for an Effective Mental Health Ecosystem
+      title: Building Bridges for an Effective Mental Health Ecosystem
       id: infobar
   - infopic:
       title: Asian Congress of Schizophrenia 2024 (ACSR)
