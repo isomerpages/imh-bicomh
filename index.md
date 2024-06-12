@@ -14,13 +14,11 @@ sections:
       variant: center
   - infopic:
       title: ACSR
-      subtitle: Add an image and text
       id: infopic
       description: 19 - 20 November 2024
       alt: Image alt text
   - infopic:
       title: ISAM
-      subtitle: Add an image and text
       id: infopic
       description: 21 - 22 November 2024
       alt: Image alt text
