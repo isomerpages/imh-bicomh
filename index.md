@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Biennial International Congress on Mental Health 2024
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
