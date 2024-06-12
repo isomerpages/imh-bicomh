@@ -18,8 +18,9 @@ sections:
   - infopic:
       title: Asian Congress of Schizophrenia 2024 (ACSR)
       id: infopic
-      description: 19 - 20 November 2024
+      description: Strategies for Optimising Psychosis Recovery in Asia
       alt: Image alt text
+      subtitle: 19 - 20 November 2024
   - infopic:
       title: International Society of Addiction Medicine International C
       id: infopic
