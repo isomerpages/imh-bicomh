@@ -27,4 +27,8 @@ sections:
       description: Fostering Community Support for Behavioural Addiction Recovery
       alt: Image alt text
       subtitle: 21 - 22 November 2024
+  - infopic:
+      title: "Organised by:"
+      id: infopic
+      alt: Image alt text
 ---
