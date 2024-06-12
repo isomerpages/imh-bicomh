@@ -8,10 +8,14 @@ notification: ""
 sections:
   - hero:
       title: Biennial International Congress on Mental Health 2024
-      subtitle: 19 - 22 November 2024, One Farrer Hotel
+      subtitle: 19 - 22 November 2024, One Farrer Hotel, Singapore
       background: /images/hero-banner.png
       url: /contact-us/
       variant: center
+      key_highlights:
+        - title: Buildng Bridges for an Effective Mental Health Ecosystem
+          description: ""
+          url: ""
   - infopic:
       title: Asian Congress of Schizophrenia 2024 (ACSR)
       id: infopic
