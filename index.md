@@ -30,6 +30,6 @@ sections:
   - infopic:
       id: infopic
       alt: Image alt text
-      subtitle: "Organised by:"
       image: /images/Organiser.png
+      title: "Organised by:"
 ---
