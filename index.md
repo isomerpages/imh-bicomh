@@ -28,7 +28,8 @@ sections:
       alt: Image alt text
       subtitle: 21 - 22 November 2024
   - infopic:
-      title: "Organised by:"
       id: infopic
       alt: Image alt text
+      subtitle: "Organised by:"
+      image: /images/Organiser.png
 ---
