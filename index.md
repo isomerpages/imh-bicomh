@@ -31,5 +31,5 @@ sections:
       id: infopic
       alt: Image alt text
       image: /images/Logos/Organiser2.png
-      title: "Organised by:"
+      subtitle: "Organised by:"
 ---
