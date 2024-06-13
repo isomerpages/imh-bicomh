@@ -12,6 +12,9 @@ sections:
       background: /images/Hero1.png
       url: /
       variant: center
+      size: md
+      alignment: left
+      backgroundColor: gray
   - infobar:
       title: Building Bridges for an Effective Mental Health Ecosystem
       id: infobar
