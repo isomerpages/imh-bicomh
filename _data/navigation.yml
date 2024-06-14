@@ -2,7 +2,3 @@ logo: /images/Logos/BICOMH_Logo.png
 links:
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
