@@ -10,11 +10,12 @@ sections:
       title: Biennial International Congress on Mental Health 2024
       subtitle: 19 - 22 November 2024, One Farrer Hotel, Singapore
       background: /images/Hero1.png
-      url: /
+      url: "-"
       variant: center
       size: md
       alignment: left
       backgroundColor: gray
+      button: save the date
   - infobar:
       title: Building Bridges for an Effective Mental Health Ecosystem
       id: infobar
