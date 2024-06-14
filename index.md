@@ -34,6 +34,6 @@ sections:
   - infopic:
       id: infopic
       alt: Image alt text
-      image: /images/Logos/org3.png
+      image: /images/Logos/org4.png
       subtitle: "Organised by:"
 ---
