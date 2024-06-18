@@ -20,7 +20,7 @@ sections:
       title: Building Bridges for an Effective Mental Health Ecosystem
       id: infobar
   - infopic:
-      title: Asian Congress of Schizophrenia Research 2024 (ACSR)
+      title: Asian Congress of Schizophrenia Research 2024
       id: infopic
       description: Strategies for Optimising Psychosis Recovery in Asia
       alt: Image alt text
