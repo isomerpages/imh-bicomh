@@ -26,7 +26,7 @@ sections:
       alt: Image alt text
       subtitle: 19 - 20 November 2024
   - infopic:
-      title: International Society of Addiction Medicine Regional Confere
+      title: International Society of Addiction Medicine Regional Conf
       id: infopic
       description: Fostering Community Support for Behavioural Addiction Recovery
       alt: Image alt text
