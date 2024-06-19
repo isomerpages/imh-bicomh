@@ -23,13 +23,13 @@ sections:
       id: infopic
       description: Strategies for Optimising Psychosis Recovery in Asia
       subtitle: 19 - 20 November 2024
-      image: /images/Hero1.png
+      image: /images/ACSR.png
   - infopic:
       id: infopic
       description: Fostering Community Support for Behavioural Addiction Recovery
       alt: Image alt text
       subtitle: 21 - 22 November 2024
-      image: /images/isam.png
+      image: /images/ISAM.png
   - infopic:
       id: infopic
       alt: Image alt text
