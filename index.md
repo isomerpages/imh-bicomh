@@ -23,6 +23,7 @@ sections:
       id: infopic
       subtitle: 19 - 20 November 2024
       image: /images/acsr_2.png
+      alt: Image alt text
   - infopic:
       id: infopic
       alt: Image alt text
