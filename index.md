@@ -20,17 +20,16 @@ sections:
       title: Building Bridges for an Effective Mental Health Ecosystem
       id: infobar
   - infopic:
-      title: Asian Congress of Schizophrenia Research 2024
       id: infopic
       description: Strategies for Optimising Psychosis Recovery in Asia
-      alt: Image alt text
       subtitle: 19 - 20 November 2024
+      image: /images/Hero1.png
   - infopic:
-      title: International Society of Addiction Medicine Regional Conf
       id: infopic
       description: Fostering Community Support for Behavioural Addiction Recovery
       alt: Image alt text
       subtitle: 21 - 22 November 2024
+      image: /images/isam.png
   - infopic:
       id: infopic
       alt: Image alt text
