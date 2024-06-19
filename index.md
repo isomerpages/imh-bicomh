@@ -15,6 +15,9 @@ sections:
       size: md
       alignment: left
       backgroundColor: gray
+  - infobar:
+      title: Building Bridges for an Effective Mental Health Ecosystem
+      id: infobar
   - infopic:
       id: infopic
       subtitle: 19 - 20 November 2024
@@ -30,7 +33,4 @@ sections:
       alt: Image alt text
       image: /images/Logos/org4.png
       subtitle: "Organised by:"
-  - infobar:
-      title: Building Bridges for an Effective Mental Health Ecosystem
-      id: infobar
 ---
