@@ -23,10 +23,10 @@ sections:
       id: infopic
       subtitle: 19 - 20 November 2024
       image: /images/acsr_2.png
-      alt: Image alt text
+      alt: acsr_2
   - infopic:
       id: infopic
-      alt: Image alt text
+      alt: isam_2
       subtitle: 21 - 22 November 2024
       image: /images/isam_2.png
   - infopic:
