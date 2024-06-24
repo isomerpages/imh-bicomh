@@ -15,6 +15,7 @@ sections:
       size: md
       alignment: left
       backgroundColor: gray
+      button: SaVE THE DATE
   - infobar:
       title: Building Bridges for an Effective Mental Health Ecosystem
       id: infobar
