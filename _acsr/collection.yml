@@ -2,4 +2,5 @@ collections:
   acsr:
     output: true
     order:
+      - ACSR Speakers.md
       - Asian Congress of Schizophrenia Research 2024.md
