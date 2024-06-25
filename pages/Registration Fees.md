@@ -190,5 +190,5 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>&lt;p style color="red"&gt; 9% GST will apply &lt;/p&gt;</p>
+<p>&lt;p style color="red"&gt; <strong>9% GST will apply</strong> &lt;/p&gt;</p>
 <p></p>
