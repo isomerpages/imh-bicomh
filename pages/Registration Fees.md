@@ -21,7 +21,7 @@ description: ""
 <p>Category A</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Category B</p>
+<p>Category B *</p>
 </th>
 </tr>
 <tr>
@@ -190,5 +190,9 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>&lt;p style color="red"&gt; <strong>9% GST will apply</strong> &lt;/p&gt;</p>
+<h4><strong>9% GST will apply</strong></h4>
+<p><strong>*Category B: </strong>(1) India, (2) Vietnam, (3) Philippines,
+(4) Cambodia, (5) Myanmar, (6) Laos, (7) Bangladesh, (8) Nepal, (9) Sri
+Lanka, (10) Pakistan.</p>
+<p></p>
 <p></p>
