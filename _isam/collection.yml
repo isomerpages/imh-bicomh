@@ -2,7 +2,7 @@ collections:
   isam:
     output: true
     order:
-      - ISAM Programme/ISAM Programme.md
+      - ISAM Programme/Day 1 Programme.md
       - ISAM Programme/.keep
       - International Society of Addiction Medicine Regional Conference 2024.md
       - ISAM Speakers.md
