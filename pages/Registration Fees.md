@@ -29,8 +29,14 @@ description: ""
 <p><strong>Single</strong>
 </p>
 </td>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="1">
 <p>In-Person <strong>2-Day </strong>Pass</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -132,7 +138,7 @@ description: ""
 <p>Early Bird</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$630</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -143,7 +149,7 @@ description: ""
 <p>Normal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$760</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -165,7 +171,7 @@ description: ""
 <p>Early Bird</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$1,040</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -176,7 +182,7 @@ description: ""
 <p>Normal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$1,320</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
