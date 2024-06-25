@@ -1,4 +1,5 @@
 collections:
   isam:
     output: true
-    order: []
+    order:
+      - International Society of Addiction Medicine Regional Conference 2024.md
