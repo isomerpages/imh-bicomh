@@ -24,7 +24,7 @@ sections:
       subtitle: 19 - 20 November 2024
       image: /images/acsr_2.png
       alt: acsr_2
-      url: /asian-congress-of-schizophrenia-research-2024/
+      url: /acsr-2024/
       button: Learn more
   - infopic:
       id: infopic
