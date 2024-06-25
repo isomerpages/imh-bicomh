@@ -2,7 +2,7 @@ collections:
   acsr:
     output: true
     order:
-      - Asian Congress of Schizophrenia Research 2024.md
+      - Welcome Message.md
       - Speakers.md
       - Programme/.keep
       - Programme/Day 1 Programme.md
