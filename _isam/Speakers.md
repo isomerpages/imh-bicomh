@@ -4,4 +4,4 @@ permalink: /isam-speakers/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<p>More details coming soon!</p>
