@@ -24,14 +24,12 @@ sections:
       image: /images/acsr_2.png
       alt: acsr_2
       url: /acsr-2024/
-      button: Learn more
   - infopic:
       id: infopic
       alt: isam_2
       subtitle: 21 - 22 November 2024
       image: /images/isam_2.png
       url: /isam-2024/
-      button: Learn More
   - infopic:
       id: infopic
       alt: Image alt text
