@@ -2,7 +2,7 @@ collections:
   isam:
     output: true
     order:
-      - International Society of Addiction Medicine Regional Conference 2024.md
+      - Welcome Message.md
       - Speakers.md
       - Programme/.keep
       - Programme/Day 1 Programme.md
