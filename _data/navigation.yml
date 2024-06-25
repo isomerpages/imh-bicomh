@@ -4,3 +4,17 @@ links:
     url: /contact-us/
   - title: Registration Fees
     url: /registration-fees/
+  - title: ACSR
+    url: /permalink
+    sublinks:
+      - title: Speakers
+        url: /permalink
+      - title: Programme
+        url: /permalink
+  - title: ISAM
+    url: /permalink
+    sublinks:
+      - title: Speakers
+        url: /permalink
+      - title: Programme
+        url: /permalink
