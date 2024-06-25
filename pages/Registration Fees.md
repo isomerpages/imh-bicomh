@@ -190,9 +190,5 @@ description: ""
 </tr>
 </tbody>
 </table>
-<ul data-tight="true" class="tight">
-<li>
-<p>9% GST will apply</p>
-</li>
-</ul>
+<p>&lt;p style colour="red"&gt; 9% GST will apply &lt;/p&gt;</p>
 <p></p>
