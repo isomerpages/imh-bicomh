@@ -5,4 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Programme
 ---
-<p>More details coming soon!</p>
+<h1>Overview of ACSR Programme</h1>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ACSR Programme Outline - day1" src="/images/ACSR_day_1.png">
+</div>
+<p></p>
