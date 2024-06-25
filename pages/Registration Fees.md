@@ -5,6 +5,11 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Registration will open soon!</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RegFeesV2.png">
+</div>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -198,6 +203,5 @@ Lanka, (10) Pakistan.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
 <p></p>
