@@ -2,7 +2,7 @@ collections:
   acsr:
     output: true
     order:
-      - ACSR Programme Day 1/.keep
       - Asian Congress of Schizophrenia Research 2024.md
-      - ACSR Programme.md
       - ACSR Speakers.md
+      - ACSR Programme.md
+      - ACSR Programme Day 1/.keep
