@@ -47,7 +47,7 @@ description: ""
 <p>$690</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$520</p>
 </td>
 </tr>
 <tr>
@@ -58,7 +58,7 @@ description: ""
 <p>$830</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$660</p>
 </td>
 </tr>
 <tr>
@@ -80,7 +80,7 @@ description: ""
 <p>$1,180</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$830</p>
 </td>
 </tr>
 <tr>
@@ -91,7 +91,7 @@ description: ""
 <p>$1,450</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$1,110</p>
 </td>
 </tr>
 <tr>
@@ -102,7 +102,7 @@ description: ""
 <p>$280</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$280</p>
 </td>
 </tr>
 <tr>
@@ -113,12 +113,12 @@ description: ""
 <p>$620</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$410</p>
 </td>
 </tr>
 <tr>
 <td rowspan="6" colspan="1">
-<p><strong>Group</strong> 
+<p><strong>Group</strong>
 </p>
 <p>(3 or more pax)</p>
 <p>Price is per pax</p>
@@ -141,7 +141,7 @@ description: ""
 <p>$630</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$450</p>
 </td>
 </tr>
 <tr>
@@ -152,7 +152,7 @@ description: ""
 <p>$760</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$590</p>
 </td>
 </tr>
 <tr>
@@ -174,7 +174,7 @@ description: ""
 <p>$1,040</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$690</p>
 </td>
 </tr>
 <tr>
@@ -185,7 +185,7 @@ description: ""
 <p>$1,320</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$970</p>
 </td>
 </tr>
 </tbody>
