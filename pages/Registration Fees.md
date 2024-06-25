@@ -4,7 +4,7 @@ permalink: /registration-fees/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<h3><strong>Registration will open soon!</strong></h3>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -190,4 +190,9 @@ description: ""
 </tr>
 </tbody>
 </table>
+<ul data-tight="true" class="tight">
+<li>
+<p>9% GST will apply</p>
+</li>
+</ul>
 <p></p>
