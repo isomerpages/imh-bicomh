@@ -2,4 +2,5 @@ collections:
   isam:
     output: true
     order:
+      - ISAM Speakers.md
       - International Society of Addiction Medicine Regional Conference 2024.md
