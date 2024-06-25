@@ -31,7 +31,7 @@ sections:
       alt: isam_2
       subtitle: 21 - 22 November 2024
       image: /images/isam_2.png
-      url: /international-society-of-addiction-medicine-regional-conference-2024/
+      url: /isam-2024/
       button: Learn More
   - infopic:
       id: infopic
