@@ -188,9 +188,13 @@ description: ""
 <p>$970</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="4">
+<h4><strong>9% GST will apply</strong></h4>
+</td>
+</tr>
 </tbody>
 </table>
-<h4><strong>9% GST will apply</strong></h4>
 <p><strong>*Category B: </strong>(1) India, (2) Vietnam, (3) Philippines,
 (4) Cambodia, (5) Myanmar, (6) Laos, (7) Bangladesh, (8) Nepal, (9) Sri
 Lanka, (10) Pakistan.</p>
