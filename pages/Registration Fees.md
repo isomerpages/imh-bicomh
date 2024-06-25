@@ -190,7 +190,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<h4><strong>9% GST will apply</strong></h4>
+<h4><strong>9% GST will apply.</strong></h4>
 </td>
 </tr>
 </tbody>
