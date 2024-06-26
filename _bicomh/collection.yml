@@ -2,6 +2,6 @@ collections:
   bicomh:
     output: true
     order:
-      - Advisory Committee.md
       - Welcome Message.md
       - About BICOMH.md
+      - Advisory Committee.md
