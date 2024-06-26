@@ -6,7 +6,8 @@ description: ""
 third_nav_title: Programme
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAMProgD1_V1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAMProgD1_V2.png">
 </div>
 <p></p>
