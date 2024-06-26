@@ -2,4 +2,5 @@ collections:
   bicomh:
     output: true
     order:
+      - Welcome Message.md
       - About BICOMH.md
