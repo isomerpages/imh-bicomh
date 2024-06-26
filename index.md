@@ -16,9 +16,6 @@ sections:
       backgroundColor: gray
       button: 19 - 22 November 2024, One Farrer Hotel, Singapore
       subtitle: Building Bridges for an Effective Mental Health Ecosystem
-  - infobar:
-      title: Building Bridges for an Effective Mental Health Ecosystem
-      id: infobar
   - infopic:
       id: infopic
       subtitle: 19 - 20 November 2024
