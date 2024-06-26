@@ -16,6 +16,10 @@ sections:
       backgroundColor: gray
       button: 19 - 22 November 2024, One Farrer Hotel, Singapore
       subtitle: Building Bridges for an Effective Mental Health Ecosystem
+      key_highlights:
+        - title: Call for abstracts
+          description: Click here
+          url: https://form.gov.sg/6644601f91cbd7c5fa6d8b14
   - infopic:
       id: infopic
       subtitle: 19 - 20 November 2024
