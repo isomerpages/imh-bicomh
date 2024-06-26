@@ -1,5 +1,12 @@
 logo: /images/Logos/BICOMHLogo2.png
 links:
+  - title: About BICOMH
+    url: /bicomh/
+    sublinks:
+      - title: Welcome Message
+        url: /bicomh-welcome/
+      - title: Advisory Committee
+        url: /bicomh-ac/
   - title: ACSR
     url: /acsr-2024/
     sublinks:
