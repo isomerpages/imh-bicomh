@@ -1,4 +1,5 @@
 collections:
   bicomh:
     output: true
-    order: []
+    order:
+      - About BICOMH.md
