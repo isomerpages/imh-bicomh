@@ -2,9 +2,9 @@ collections:
   acsr:
     output: true
     order:
-      - Sponsors and Exhibitor Profiles.md
       - Welcome Message.md
       - Speakers.md
       - Programme/.keep
       - Programme/Day 1 Programme.md
       - Programme/Day 2 Programme.md
+      - Sponsors and Exhibitor Profiles.md
