@@ -10,22 +10,24 @@ links:
   - title: ACSR
     url: /acsr-2024/
     sublinks:
+      - title: Working Committee
+        url: /acsr-wc/
       - title: Speakers
         url: /acsr-speakers/
       - title: Programme
         url: /acsr-programme-d1/
       - title: Sponsor and Exhibitor Profiles
         url: /acsr-sponsors/
-      - title: Working Committee
-        url: /acsr-wc/
   - title: ISAM
     url: /isam-2024/
     sublinks:
+      - title: Working Committee
+        url: /isam-wc/
       - title: Speakers
         url: /isam-speakers/
       - title: Programme
         url: /isam-programme-d1/
-      - title: Sponsors
+      - title: Sponsor and Exhibitor Profiles
         url: /isam-sponsors/
   - title: Registration Fees
     url: /registration-fees/
