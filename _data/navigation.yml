@@ -21,6 +21,8 @@ links:
   - title: ISAM
     url: /isam-2024/
     sublinks:
+      - title: Welcome Message
+        url: /isam-welcome/
       - title: Working Committee
         url: /isam-wc/
       - title: Speakers
