@@ -10,6 +10,8 @@ links:
   - title: ACSR
     url: /acsr-2024/
     sublinks:
+      - title: Welcome Message
+        url: /ascr-2024/
       - title: Working Committee
         url: /acsr-wc/
       - title: Speakers
@@ -18,8 +20,6 @@ links:
         url: /acsr-programme-d1/
       - title: Sponsor and Exhibitor Profiles
         url: /acsr-sponsors/
-      - title: Welcome Message
-        url: /ascr-welcome/
   - title: ISAM
     url: /isam-2024/
     sublinks:
