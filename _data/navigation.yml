@@ -1,7 +1,7 @@
 logo: /images/Logos/BICOMHLogo2.png
 links:
   - title: About BICOMH
-    url: /bicomh/
+    url: /bicomh-welcome/
     sublinks:
       - title: Welcome Message
         url: /bicomh-welcome/
