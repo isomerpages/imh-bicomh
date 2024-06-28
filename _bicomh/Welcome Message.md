@@ -4,4 +4,4 @@ permalink: /bicomh-welcome/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<p>More details coming soon!</p>
