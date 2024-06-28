@@ -34,7 +34,7 @@ sections:
       id: infopic
       description: Strategies for Optimising Psychosis Recovery in Asia
       button: learn more
-      url: /acsr/
+      url: /acsr-2024/
       image: /images/Screenshot_2024_06_28_at_3_56_26_PM.png
       alt: Image alt text
   - infopic:
