@@ -29,24 +29,6 @@ sections:
       button: learn more
       url: /bicomh-welcome/
   - infopic:
-      title: ACSR
-      subtitle: 19 - 20 November 2024
-      id: infopic
-      description: Strategies for Optimising Psychosis Recovery in Asia
-      button: learn more
-      url: /acsr-2024/
-      image: /images/Screenshot_2024_06_28_at_3_56_26_PM.png
-      alt: Image alt text
-  - infopic:
-      title: ISAM
-      subtitle: 21 - 22 November 2024
-      id: infopic
-      description: Fostering Community Support for Behavioural Addiction Recovery
-      button: learn more
-      url: /isam-2024/
-      image: /images/Screenshot_2024_06_28_at_3_56_31_PM.png
-      alt: Image alt text
-  - infopic:
       id: infopic
       subtitle: 19 - 20 November 2024
       image: /images/acsr_2.png
