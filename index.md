@@ -37,4 +37,10 @@ sections:
       alt: Image alt text
       image: /images/Logos/org4.png
       subtitle: "Organised by:"
+  - infobar:
+      title: Infobar
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar description
+      button: Button Text
 ---
