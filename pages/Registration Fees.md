@@ -5,13 +5,13 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Registration will open soon!</strong></h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/RegfeesV4.png">
 </div>
-<p><strong>*Category B:</strong> (1) India, (2) Vietnam, (3) Philippines,
-(4) Cambodia, (5) Myanmar, (6) Laos, (7) Bangladesh, (8) Nepal, (9) Sri
-Lanka, (10) Pakistan</p>
+<p><strong>Category A:</strong> All countries not listed under category B</p>
+<p><strong>Category B:</strong> (1) Bangladesh, (2) Cambodia, (3) India, (4)
+Laos, (5) Myanmar, (6) Nepal, (7) Pakistan, (8) Philippines, (9) Sri Lanka,
+(10) Vietnam</p>
 <p></p>
 <p></p>
 <p></p>

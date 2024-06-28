@@ -20,6 +20,14 @@ sections:
         - title: Call for abstracts
           description: Click here
           url: https://form.gov.sg/6644601f91cbd7c5fa6d8b14
+  - infobar:
+      title: About The Congress
+      id: infobar
+      description: This congress features two conferences where we focus on optimising
+        psychosis recovery and fostering community support for behavioural
+        addiction recovery.
+      button: learn more
+      url: /bicomh-welcome/
   - infopic:
       id: infopic
       subtitle: 19 - 20 November 2024

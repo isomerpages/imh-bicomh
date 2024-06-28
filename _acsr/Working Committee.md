@@ -1,6 +1,6 @@
 ---
-title: Sponsor and Exhibitor Profiles
-permalink: /acsr-sponsors/
+title: Working Committee
+permalink: /acsr-wc/
 variant: tiptap
 description: ""
 ---
