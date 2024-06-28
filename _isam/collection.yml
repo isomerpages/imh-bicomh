@@ -2,6 +2,7 @@ collections:
   isam:
     output: true
     order:
+      - Working Committee.md
       - Welcome Message.md
       - Speakers.md
       - Programme/.keep
