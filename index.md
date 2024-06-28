@@ -38,9 +38,11 @@ sections:
       image: /images/Logos/org4.png
       subtitle: "Organised by:"
   - infobar:
-      title: Infobar
-      subtitle: Add informational text
+      title: About The Congress
       id: infobar
-      description: Infobar description
-      button: Button Text
+      description: This congress features two conferences where we focus on optimising
+        psychosis recovery and fostering community support for behavioural
+        addiction recovery.
+      button: learn more
+      url: /about-bicomh/
 ---
