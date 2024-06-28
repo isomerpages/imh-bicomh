@@ -1,0 +1,10 @@
+collections:
+  acsr:
+    output: true
+    order:
+      - Welcome Message.md
+      - Speakers.md
+      - Programme/.keep
+      - Programme/Day 1 Programme.md
+      - Programme/Day 2 Programme.md
+      - Sponsor and Exhibitor Profiles.md

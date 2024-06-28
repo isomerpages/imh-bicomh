@@ -1,15 +1,41 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/Logos/BICOMHLogo2.png
 links:
+  - title: About BICOMH
+    url: /bicomh/
+    sublinks:
+      - title: Welcome Message
+        url: /bicomh-welcome/
+      - title: Advisory Committee
+        url: /bicomh-ac/
+  - title: ACSR
+    url: /acsr-2024/
+    sublinks:
+      - title: Welcome Message
+        url: /acsr-2024/
+      - title: Working Committee
+        url: /acsr-wc/
+      - title: Speakers
+        url: /acsr-speakers/
+      - title: Programme
+        url: /acsr-programme-d1/
+      - title: Sponsor and Exhibitor Profiles
+        url: /acsr-sponsors/
+  - title: ISAM
+    url: /isam-2024/
+    sublinks:
+      - title: Welcome Message
+        url: /isam-2024/
+      - title: Working Committee
+        url: /isam-wc/
+      - title: Speakers
+        url: /isam-speakers/
+      - title: Programme
+        url: /isam-programme-d1/
+      - title: Sponsor and Exhibitor Profiles
+        url: /isam-sponsors/
+  - title: Registration Fees
+    url: /registration-fees/
+  - title: Call for Abstracts
+    url: /abstracts/
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
