@@ -43,7 +43,7 @@ sections:
       id: infopic
       description: Fostering Community Support for Behavioural Addiction Recovery
       button: learn more
-      url: /acsr/
+      url: /isam-2024/
       image: /images/Screenshot_2024_06_28_at_3_56_31_PM.png
       alt: Image alt text
   - infopic:
