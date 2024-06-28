@@ -44,5 +44,5 @@ sections:
         psychosis recovery and fostering community support for behavioural
         addiction recovery.
       button: learn more
-      url: /about-bicomh/
+      url: /bicomh-welcome/
 ---
