@@ -32,6 +32,9 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ASCR Sponsors/LeeFoundation.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
