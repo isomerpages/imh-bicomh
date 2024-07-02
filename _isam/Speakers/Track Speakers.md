@@ -5,4 +5,4 @@ variant: tiptap
 description: ""
 third_nav_title: Speakers
 ---
-<p></p>
+<p>More details coming soon!</p>
