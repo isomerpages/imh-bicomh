@@ -22,27 +22,8 @@ and the community. It is an excellent platform for clinicians, researchers,
 academicians, and social service providers in Singapore and the region
 to network, exchange information and explore collaboration opportunities.</p>
 <p>We look forward to welcoming you in November 2024.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Adj A/Prof Lee Cheng</p>
-<p>Co-Chairman, ACSR 2024 Working Committee</p>
-<p>Clinical Director, Office of Population Health, IMH</p>
-<p>President, Asian College of Schizophrenia Research</p>
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Prof Eric Chen</p>
-<p>Co-Chairman, ACSR 2024 Working Committee</p>
-<p>Senior Consultant, Department of Psychosis, IMH</p>
-<p></p>
-</th>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/acsr_welcome_v1.png">
+</div>
 <p></p>
