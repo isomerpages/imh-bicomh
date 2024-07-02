@@ -28,5 +28,6 @@ on their recovery journey.</p>
 <p>We look forward to seeing you in November 2024!</p>
 <p></p>
 <p><em>Adj A/Prof Lee Cheng</em>
-<br>Chairman, BICOMH 2024 Organising Committee
+<br>Chairman, ISAM Regional Conference 2024 Working Committee
 <br>Clinical Director, Office of Population Health, IMH</p>
+<p></p>
