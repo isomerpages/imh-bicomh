@@ -38,8 +38,11 @@ sections:
       id: infopic
       alt: isam_2
       subtitle: 21 - 22 November 2024
-      image: /images/isam_2.png
+      image: /images/Switch_off_power_supply_sign.jpg
       url: /isam-2024/
+      title: ISAM 2024
+      description: Fostering Community Support for Behavioural Addiction Recovery
+      button: learn more
   - infopic:
       id: infopic
       alt: Image alt text
