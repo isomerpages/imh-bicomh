@@ -31,9 +31,12 @@ sections:
   - infopic:
       id: infopic
       subtitle: 19 - 20 November 2024
-      image: /images/acsr_2.png
+      image: /images/Strategies.jpg
       alt: acsr_2
       url: /acsr-2024/
+      title: ACSR 2024
+      description: Strategies for Optimising Psychosis Recovery in Asia
+      button: learn more
   - infopic:
       id: infopic
       alt: isam_2
