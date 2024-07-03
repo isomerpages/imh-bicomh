@@ -23,7 +23,7 @@ third_nav_title: Speakers
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/1_Marc_Potenza_v1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/empty_block.png">
 </div>
 </th>
 </tr>
