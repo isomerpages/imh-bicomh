@@ -2,4 +2,5 @@ collections:
   isam-speakers:
     output: true
     order:
+      - Anise Wu.md
       - Marc Potenza.md
