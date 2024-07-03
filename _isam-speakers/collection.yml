@@ -1,0 +1,4 @@
+collections:
+  isam-speakers:
+    output: true
+    order: []
