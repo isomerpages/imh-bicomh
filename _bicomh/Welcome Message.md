@@ -39,7 +39,7 @@ support systems for individuals on their recovery journey.</p>
 a unique opportunity to learn, forge valuable connections, and contribute
 to shaping a brighter future for mental health worldwide.</p>
 <p>We look forward to welcoming you to BICOMH 2024.</p>
-<p><strong><em> A/Prof Daniel Fung</em></strong>
+<p><strong><em>A/Prof Daniel Fung</em></strong>
 <br>Chairman, 2024 BICOMH Advisory Committee, and
 <br>Chief Executive Officer, Institute of Mental Health</p>
 <p></p>
