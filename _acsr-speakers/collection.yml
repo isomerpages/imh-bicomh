@@ -1,0 +1,4 @@
+collections:
+  acsr-speakers:
+    output: true
+    order: []
