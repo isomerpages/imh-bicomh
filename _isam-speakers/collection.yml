@@ -2,7 +2,7 @@ collections:
   isam-speakers:
     output: true
     order:
-      - Track Speakers/.keep
+      - Plenary Speakers/.keep
       - Plenary Speakers/Anise Wu.md
       - Plenary Speakers/Marc Potenza.md
-      - Plenary Speakers/.keep
+      - Track Speakers/.keep
