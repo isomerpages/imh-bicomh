@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Plenary Speakers/.keep
-      - Plenary Speakers/Anise Wu.md
+      - Plenary Speakers/Prof Anise Wu.md
       - Plenary Speakers/Dr Marc Potenza.md
       - Track Speakers/.keep
