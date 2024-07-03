@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h2>Keynote and Plenary Speakers</h2>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -22,6 +23,12 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock01.png">
 </div>
 </th>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock01.png">
+</div>
+</td>
 </tr>
 </tbody>
 </table>
