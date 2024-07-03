@@ -2,9 +2,9 @@ collections:
   isam:
     output: true
     order:
-      - Speakerss.md
       - Welcome Message.md
       - Working Committee.md
+      - Speakerss.md
       - Programme/.keep
       - Programme/Day 1 Programme.md
       - Programme/Day 2 Programme.md
