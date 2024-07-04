@@ -2,9 +2,9 @@ collections:
   isam:
     output: true
     order:
-      - Speakers/Track Speakers.md
-      - Speakers/Keynote & Plenary Speakers.md
       - Speakers/.keep
+      - Speakers/Keynote & Plenary Speakers.md
+      - Speakers/Track Speakers.md
       - Welcome Message.md
       - Working Committee.md
       - Programme/.keep
