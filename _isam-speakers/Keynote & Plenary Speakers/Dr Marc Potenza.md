@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Keynote & Plenary Speakers
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/2_Marc_Potenza_Profile.png">
 </div>
