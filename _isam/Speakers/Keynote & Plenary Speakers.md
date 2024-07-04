@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Speakers
 ---
-<h2>Keynote and Plenary Speakers</h2>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -32,5 +31,4 @@ third_nav_title: Speakers
 </tr>
 </tbody>
 </table>
-<h2>Track Speakers</h2>
-<p>More details coming soon!</p>
+<p></p>
