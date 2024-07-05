@@ -2,7 +2,7 @@ collections:
   isam-speakers:
     output: true
     order:
-      - Overview of ISAM Speakers.md
+      - ISAM Speakers.md
       - Keynote & Plenary Speakers/.keep
       - Keynote & Plenary Speakers/Prof Anise Wu.md
       - Keynote & Plenary Speakers/Dr Marc Potenza.md
