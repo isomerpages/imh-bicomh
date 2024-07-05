@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Keynote & Plenary Speakers
 ---
+<h3>Plenary Speaker</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/1_Anise_Wu_Profile.png">
 </div>
