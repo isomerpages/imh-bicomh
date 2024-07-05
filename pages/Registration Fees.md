@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Registration will open soon!</strong></h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/reg_fees_v2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/reg_fees_v3.png">
 </div>
 <p><strong>Category A:</strong> All countries not listed under category B</p>
 <p><strong>Category B:</strong> (1) Bangladesh, (2) Cambodia, (3) India, (4)
