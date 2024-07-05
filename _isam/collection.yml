@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Welcome Message.md
-      - Working Committee.md
+      - Organising Committee.md
       - Speakers/.keep
       - Speakers/Keynote & Plenary Speakers.md
       - Speakers/Track Speakers.md
