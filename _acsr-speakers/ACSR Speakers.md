@@ -54,7 +54,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Plenary_HiroyoshiTakeuchi_v1.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Plenary_HiroyoshiTakeuchi_v2.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
