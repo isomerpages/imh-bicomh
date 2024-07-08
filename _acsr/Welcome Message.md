@@ -22,8 +22,7 @@ and the community. It is an excellent platform for clinicians, researchers,
 academicians, and social service providers in Singapore and the region
 to network, exchange information and explore collaboration opportunities.</p>
 <p>We look forward to welcoming you in November 2024.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/acsr_welcome_v1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/acsr_welcome_v2.png">
 </div>
 <p></p>
