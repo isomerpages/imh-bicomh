@@ -1,4 +1,5 @@
 collections:
   public-forum:
     output: true
-    order: []
+    order:
+      - Outline.md
