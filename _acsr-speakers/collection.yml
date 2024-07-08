@@ -2,5 +2,6 @@ collections:
   acsr-speakers:
     output: true
     order:
+      - ACSR Speakers.md
       - Plenary Speakers/.keep
       - Track Speakers/.keep
