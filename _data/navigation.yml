@@ -1,7 +1,7 @@
 logo: /images/Logos/BICOMHLogo2.png
 links:
   - title: About BICOMH
-    url: /bicomh-welcome/
+    url: /about-bicomh-2024/
     sublinks:
       - title: Welcome Message
         url: /bicomh-welcome/
@@ -12,10 +12,10 @@ links:
     sublinks:
       - title: Welcome Message
         url: /acsr-2024/
-      - title: Working Committee
+      - title: Organising Committee
         url: /acsr-wc/
       - title: Speakers
-        url: /acsr-speakers/
+        url: /acsr-plenary-speakers/
       - title: Programme
         url: /acsr-programme-d1/
       - title: Sponsor and Exhibitor Profiles
@@ -25,14 +25,21 @@ links:
     sublinks:
       - title: Welcome Message
         url: /isam-2024/
-      - title: Working Committee
+      - title: Organising Committee
         url: /isam-wc/
       - title: Speakers
-        url: /isam-speakers/
+        url: /isam-keynote-plenary-speakers/
       - title: Programme
         url: /isam-programme-d1/
       - title: Sponsor and Exhibitor Profiles
         url: /isam-sponsors/
+  - title: Public Forum
+    url: /acsr-pf/
+    sublinks:
+      - title: ACSR Public Forum
+        url: /acsr-pf/
+      - title: ISAM Public Forum
+        url: /isam-pf/
   - title: Registration Fees
     url: /registration-fees/
   - title: Call for Abstracts

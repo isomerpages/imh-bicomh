@@ -1,6 +1,6 @@
 ---
-title: Speakers
-permalink: /isam-speakers/
+title: ISAM Public Forum
+permalink: /isam-pf/
 variant: tiptap
 description: ""
 ---

@@ -31,15 +31,21 @@ sections:
   - infopic:
       id: infopic
       subtitle: 19 - 20 November 2024
-      image: /images/acsr_2.png
+      image: /images/Strategies.jpg
       alt: acsr_2
       url: /acsr-2024/
+      title: ACSR 2024
+      description: Strategies for Optimising Psychosis Recovery in Asia
+      button: learn more
   - infopic:
       id: infopic
       alt: isam_2
       subtitle: 21 - 22 November 2024
-      image: /images/isam_2.png
+      image: /images/Switch_off_power_supply_sign.jpg
       url: /isam-2024/
+      title: ISAM 2024
+      description: Fostering Community Support for Behavioural Addiction Recovery
+      button: learn more
   - infopic:
       id: infopic
       alt: Image alt text

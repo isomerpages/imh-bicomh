@@ -1,6 +1,6 @@
 ---
-title: Working Committee
-permalink: /isam-wc/
+title: ACSR Public Forum
+permalink: /acsr-pf/
 variant: tiptap
 description: ""
 ---

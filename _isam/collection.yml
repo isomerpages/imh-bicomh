@@ -3,10 +3,11 @@ collections:
     output: true
     order:
       - Welcome Message.md
-      - Working Committee.md
-      - Speakers.md
+      - Organising Committee.md
+      - Speakers/.keep
+      - Speakers/Keynote & Plenary Speakers.md
+      - Speakers/Track Speakers.md
       - Programme/.keep
       - Programme/Day 1 Programme.md
       - Programme/Day 2 Programme.md
-      - Programme/Day 2 Public Forum (Open to Public).md
       - Sponsor and Exhibitor Profiles.md
