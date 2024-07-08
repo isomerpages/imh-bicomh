@@ -1,5 +1,0 @@
-collections:
-  public-forum:
-    output: true
-    order:
-      - Outline.md
