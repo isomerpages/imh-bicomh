@@ -1,5 +1,4 @@
 collections:
   public-forum:
     output: true
-    order:
-      - ISAM Public Forum.md
+    order: []
