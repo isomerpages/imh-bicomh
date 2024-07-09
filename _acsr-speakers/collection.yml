@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - ACSR Speakers.md
+      - Keynote and Plenary Speakers/Prof Raymond Chan.md
       - Keynote and Plenary Speakers/Prof Takeuchi Hiroyoshi.md
       - Keynote and Plenary Speakers/.keep
       - Track Speakers/.keep
