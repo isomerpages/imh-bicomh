@@ -52,15 +52,9 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Plenary_RaymondChan_v1.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/raymond-chan/"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Plenary_RaymondChan_v1.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Plenary_HiroyoshiTakeuchi_v2.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/takeuchi-hiroyoshi/"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Plenary_HiroyoshiTakeuchi_v2.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -76,6 +70,7 @@ description: ""
 </tbody>
 </table>
 <blockquote>
+<p></p>
 <h2>Track Speakers</h2>
 </blockquote>
 <p>More details coming soon!</p>
