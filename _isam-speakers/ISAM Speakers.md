@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
-<h2>Keynote Speaker</h2>
+<h3>Keynote Speaker</h3>
 </blockquote>
 <table style="minWidth: 100px">
 <colgroup>
@@ -37,7 +37,7 @@ description: ""
 </tbody>
 </table>
 <blockquote>
-<h2>Plenary Speakers</h2>
+<h3>Plenary Speakers</h3>
 </blockquote>
 <table style="minWidth: 100px">
 <colgroup>
@@ -69,6 +69,6 @@ description: ""
 </tbody>
 </table>
 <blockquote>
-<h2>Track Speakers</h2>
+<h3>Track Speakers</h3>
 </blockquote>
 <p>More details coming soon!</p>
