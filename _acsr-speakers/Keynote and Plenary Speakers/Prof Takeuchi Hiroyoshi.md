@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Keynote and Plenary Speakers
 ---
+<blockquote>
+<h3>Plenary Speaker</h3>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/P_Takeuchi_Hiroyoshi_Bio.png">
 </div>
@@ -18,4 +21,3 @@ the illness stage (i.e., first-episode to treatment-resistant schizophrenia)
 and the treatment phase (i.e., acute to maintenance treatment) to improve
 cognitive impairment and negative symptoms, core but treatment resistant
 features in schizophrenia, while minimising side effects.</p>
-<p></p>
