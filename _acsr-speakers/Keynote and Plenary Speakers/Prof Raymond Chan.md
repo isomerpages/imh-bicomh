@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Keynote and Plenary Speakers
 ---
+<blockquote>
+<h3>Plenary Speaker</h3>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/P_Raymond_Chan_Bio.png">
 </div>
