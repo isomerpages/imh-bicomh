@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
-<h2>Keynote Speaker</h2>
+<h3>Keynote Speaker</h3>
 </blockquote>
 <table style="minWidth: 100px">
 <colgroup>
@@ -20,7 +20,6 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Keynote_PeterJones_v1.png">
 </div>
-<p></p>
 </td>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -41,7 +40,7 @@ description: ""
 </tbody>
 </table>
 <blockquote>
-<h2>Plenary Speakers</h2>
+<h3>Plenary Speakers</h3>
 </blockquote>
 <table style="minWidth: 100px">
 <colgroup>
@@ -70,7 +69,6 @@ description: ""
 </tbody>
 </table>
 <blockquote>
-<p></p>
-<h2>Track Speakers</h2>
+<h3>Track Speakers</h3>
 </blockquote>
 <p>More details coming soon!</p>
