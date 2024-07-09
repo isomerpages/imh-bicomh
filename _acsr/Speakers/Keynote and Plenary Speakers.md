@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Speakers
 ---
 <blockquote>
-<h2>Keynote Speaker</h2>
+<h3>Keynote Speaker</h3>
 </blockquote>
 <table style="minWidth: 100px">
 <colgroup>
@@ -42,7 +42,7 @@ third_nav_title: Speakers
 </tbody>
 </table>
 <blockquote>
-<h2>Plenary Speakers</h2>
+<h3>Plenary Speakers</h3>
 </blockquote>
 <table style="minWidth: 100px">
 <colgroup>
