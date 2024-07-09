@@ -2,7 +2,6 @@ collections:
   acsr-speakers:
     output: true
     order:
-      - test.md
       - ACSR Speakers.md
       - Keynote and Plenary Speakers/.keep
       - Keynote and Plenary Speakers/Prof Raymond Chan.md
