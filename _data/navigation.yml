@@ -34,12 +34,7 @@ links:
       - title: Sponsor and Exhibitor Profiles
         url: /isam-sponsors/
   - title: Public Forum
-    url: /acsr-pf/
-    sublinks:
-      - title: ACSR Public Forum
-        url: /acsr-pf/
-      - title: ISAM Public Forum
-        url: /isam-pf/
+    url: /outline/
   - title: Registration Fees
     url: /registration-fees/
   - title: Call for Abstracts

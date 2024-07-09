@@ -2,5 +2,4 @@ collections:
   public-forum:
     output: true
     order:
-      - ACSR Public Forum.md
-      - ISAM Public Forum.md
+      - Outline.md

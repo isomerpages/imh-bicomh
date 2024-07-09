@@ -1,8 +1,9 @@
 ---
-title: ISAM Speakers
-permalink: /overview-isam-speakers/
+title: Keynote and Plenary Speakers
+permalink: /acsr-plenary-speakers/
 variant: tiptap
 description: ""
+third_nav_title: Speakers
 ---
 <blockquote>
 <h2>Keynote Speaker</h2>
@@ -16,23 +17,27 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/marc-potenza/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Marc_Potenza_v1.png"></a>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock01.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock01.png">
-</div>
-</th>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Keynote_PeterJones_v1.png">
+</div>
+<p></p>
+</td>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock01.png">
 </div>
-</td>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock01.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock01.png">
+</div>
+</th>
 </tr>
 </tbody>
 </table>
@@ -48,18 +53,15 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/anise-wu/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Anise_Wu_v1.png"></a>
-</th>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/raymond-chan/"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Plenary_RaymondChan_v1.png"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/takeuchi-hiroyoshi/"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Plenary_HiroyoshiTakeuchi_v2.png"></a>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock01.png">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock01.png">
-</div>
-</th>
+</td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock01.png">
@@ -68,7 +70,4 @@ description: ""
 </tr>
 </tbody>
 </table>
-<blockquote>
-<h2>Track Speakers</h2>
-</blockquote>
-<p>More details coming soon!</p>
+<p></p>

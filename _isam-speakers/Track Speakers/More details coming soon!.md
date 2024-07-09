@@ -1,5 +1,5 @@
 ---
-title: Track Speakers
+title: More details coming soon!
 permalink: /track-speaker-1/
 variant: tiptap
 description: ""
