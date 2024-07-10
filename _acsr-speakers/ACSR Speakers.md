@@ -68,5 +68,80 @@ description: ""
 <h3>Track Speakers</h3>
 </blockquote>
 <p>More details coming soon!</p>
+<blockquote>
+<h3>Keynote Speaker</h3>
+</blockquote>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/A1_Peter_Jones.png">
+</div>
 <p></p>
+</td>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock01.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock01.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock01.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<h3>Plenary Speakers</h3>
+</blockquote>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/A1_Plenary__Liu_Chen_Chung.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/A1_Raymond_Chan.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/A1_Hiroyoshi_Takeuchi.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock01.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<h3>Track Speakers</h3>
+</blockquote>
+<p>More details coming soon!</p>
 <p></p>
