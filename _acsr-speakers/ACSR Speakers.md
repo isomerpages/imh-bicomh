@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
-<h2>Keynote Speaker</h2>
+<h3>Keynote Speaker</h3>
 </blockquote>
 <table style="minWidth: 100px">
 <colgroup>
@@ -16,10 +16,7 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Keynote_PeterJones_v1.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/peter-jones/"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Peter_Jones_V2.png"></a>
 <p></p>
 </td>
 <th rowspan="1" colspan="1">
@@ -41,7 +38,7 @@ description: ""
 </tbody>
 </table>
 <blockquote>
-<h2>Plenary Speakers</h2>
+<h3>Plenary Speakers</h3>
 </blockquote>
 <table style="minWidth: 100px">
 <colgroup>
@@ -52,14 +49,12 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/raymond-chan/"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Plenary_RaymondChan_v1.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/liu-chen-chung/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Liu_Chen_Chung_V2.png"></a>
+<p></p>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/takeuchi-hiroyoshi/"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Plenary_HiroyoshiTakeuchi_v2.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/raymond-chan/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Plenary_RaymondChan_v1.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock01.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/takeuchi-hiroyoshi/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Plenary_HiroyoshiTakeuchi_v2.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -70,7 +65,8 @@ description: ""
 </tbody>
 </table>
 <blockquote>
-<p></p>
-<h2>Track Speakers</h2>
+<h3>Track Speakers</h3>
 </blockquote>
 <p>More details coming soon!</p>
+<p></p>
+<p></p>
