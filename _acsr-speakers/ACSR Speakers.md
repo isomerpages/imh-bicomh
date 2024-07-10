@@ -49,11 +49,7 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="/liu-cheng-chung/" src="/images/ACSR Speakers/Liu_Chen_Chung.png">
-</div>
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/liu-cheng-chung/"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Liu_Chen_Chung_V2.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/raymond-chan/"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Plenary_RaymondChan_v1.png"></a>
 </td>
