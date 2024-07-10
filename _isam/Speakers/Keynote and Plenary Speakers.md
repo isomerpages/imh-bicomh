@@ -39,7 +39,7 @@ third_nav_title: Speakers
 </tbody>
 </table>
 <blockquote>
-<h3>Plenary Speaker</h3>
+<h3>Plenary Speakers</h3>
 </blockquote>
 <table style="minWidth: 100px">
 <colgroup>
