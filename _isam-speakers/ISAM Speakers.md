@@ -32,7 +32,6 @@ description: ""
 </tbody>
 </table>
 <blockquote>
-<p></p>
 <h3>Plenary Speakers</h3>
 </blockquote>
 <table style="minWidth: 75px">
