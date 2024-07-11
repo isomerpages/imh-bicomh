@@ -15,7 +15,7 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/peter-jones/"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Peter_Jones_V2.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/peter-jones/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Peter_Jones_V2.png"></a>
 <p></p>
 </td>
 <th rowspan="1" colspan="1">
@@ -69,7 +69,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/ACSR Speakers/A1_Peter_Jones.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ACSR Speakers/A1_Peter_Jones.png">
 </div>
 <p></p>
 </td>
