@@ -8,9 +8,8 @@ third_nav_title: Speakers
 <blockquote>
 <h3>Keynote Speaker</h3>
 </blockquote>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -30,20 +29,14 @@ third_nav_title: Speakers
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock01.png">
 </div>
 </th>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock01.png">
-</div>
-</td>
 </tr>
 </tbody>
 </table>
 <blockquote>
 <h3>Plenary Speakers</h3>
 </blockquote>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -60,11 +53,6 @@ third_nav_title: Speakers
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock01.png">
 </div>
 </th>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock01.png">
-</div>
-</td>
 </tr>
 </tbody>
 </table>
