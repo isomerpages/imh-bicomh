@@ -48,10 +48,7 @@ third_nav_title: Speakers
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/david-hodgins/"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/ISAM Speakers/david_hodgins_v1.png"></a>
 </th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Plenary_Kristiana_Siste__3_.png">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/dr-kristiana-siste/"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Plenary_Kristiana_Siste__3_.png"></a>
 </th>
 </tr>
 </tbody>
