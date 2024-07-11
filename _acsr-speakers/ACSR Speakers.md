@@ -7,9 +7,8 @@ description: ""
 <blockquote>
 <h3>Keynote Speaker</h3>
 </blockquote>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -29,20 +28,14 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock01.png">
 </div>
 </th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock01.png">
-</div>
-</th>
 </tr>
 </tbody>
 </table>
 <blockquote>
 <h3>Plenary Speakers</h3>
 </blockquote>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -56,11 +49,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/takeuchi-hiroyoshi/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Plenary_HiroyoshiTakeuchi_v2.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock01.png">
-</div>
-</td>
 </tr>
 </tbody>
 </table>
@@ -71,9 +59,8 @@ description: ""
 <blockquote>
 <h3>Keynote Speaker</h3>
 </blockquote>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -96,20 +83,14 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock01.png">
 </div>
 </th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock01.png">
-</div>
-</th>
 </tr>
 </tbody>
 </table>
 <blockquote>
 <h3>Plenary Speakers</h3>
 </blockquote>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -130,11 +111,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/A1_Hiroyoshi_Takeuchi.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock01.png">
 </div>
 </td>
 </tr>
