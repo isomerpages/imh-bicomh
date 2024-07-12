@@ -68,7 +68,7 @@ third_nav_title: Speakers
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/D2_Keynote__Peter_Jones.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ACSR Speakers/D2_Keynote__Peter_Jones.png">
 </div>
 </td>
 <th rowspan="1" colspan="1">
