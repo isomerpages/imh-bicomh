@@ -10,4 +10,3 @@ third_nav_title: Programme
 </div>
 <h4>*Programme subjected to changes.</h4>
 <p></p>
-<p></p>
