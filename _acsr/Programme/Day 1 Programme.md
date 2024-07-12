@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Programme
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ACSR day v2" src="/images/ACSR_and_ISAM_Programme_day1v2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Programme/acsr_progday1_v3.png">
 </div>
 <h4>*Programme subjected to changes.</h4>
 <p></p>
