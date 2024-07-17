@@ -15,7 +15,7 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/marc-potenza/"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Marc_Potenza_v1.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/marc-potenza/"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Marc_Potenza_v1.png"></a>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
@@ -48,7 +48,10 @@ description: ""
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/david-hodgins/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ISAM Speakers/david_hodgins_v1.png"></a>
 <p></p>
 </th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/kristiana-siste/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Plenary_Kristiana_Siste__1_.png"></a>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock01.png">
+</div>
 </th>
 </tr>
 </tbody>
