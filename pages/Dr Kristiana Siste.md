@@ -1,6 +1,6 @@
 ---
 title: Dr Kristiana Siste
-permalink: /dr-kristiana-siste/
+permalink: /kristiana-siste/
 variant: tiptap
 description: ""
 ---

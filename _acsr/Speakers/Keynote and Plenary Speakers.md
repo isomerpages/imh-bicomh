@@ -54,4 +54,3 @@ third_nav_title: Speakers
 </tbody>
 </table>
 <p></p>
-<p></p>
