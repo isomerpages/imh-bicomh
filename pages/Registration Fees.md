@@ -13,12 +13,3 @@ description: ""
 Laos, (5) Myanmar, (6) Nepal, (7) Pakistan, (8) Philippines, (9) Sri Lanka,
 (10) Vietnam</p>
 <p></p>
-<h1>Sign up below to stay informed.</h1>
-<blockquote>
-<p><strong>We will notify you via email when registration opens.</strong>
-</p>
-</blockquote>
-<div class="iframe-wrapper">
-<iframe style="width: 100%; height: 700px" allowfullscreen="true" frameborder="0" src="https://form.gov.sg/669dcc4bf8cd3fc6221d3b69"></iframe>
-</div>
-<p></p>
