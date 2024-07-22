@@ -22,6 +22,3 @@ Laos, (5) Myanmar, (6) Nepal, (7) Pakistan, (8) Philippines, (9) Sri Lanka,
 <iframe style="width: 100%; height: 700px" allowfullscreen="true" frameborder="0" src="https://form.gov.sg/669dcc4bf8cd3fc6221d3b69"></iframe>
 </div>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
