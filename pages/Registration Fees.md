@@ -14,7 +14,7 @@ Laos, (5) Myanmar, (6) Nepal, (7) Pakistan, (8) Philippines, (9) Sri Lanka,
 (10) Vietnam</p>
 <p></p>
 <blockquote>
-<h3>Sign up below to stay informed.</h3>
+<h2>Sign up below to stay informed.</h2>
 </blockquote>
 <p><strong>We will notify you via email when registration opens.</strong>
 </p>
