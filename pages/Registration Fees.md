@@ -12,7 +12,12 @@ description: ""
 <p><strong>Category B:</strong> (1) Bangladesh, (2) Cambodia, (3) India, (4)
 Laos, (5) Myanmar, (6) Nepal, (7) Pakistan, (8) Philippines, (9) Sri Lanka,
 (10) Vietnam</p>
-<p>If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/669dcc4bf8cd3fc6221d3b69" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
+<blockquote>
+<h3>Sign up below to stay informed.</h3>
+</blockquote>
+<p><strong>We will notify you via email when registration opens.</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe style="width: 100%; height: 400px" allowfullscreen="true" frameborder="0" src="https://form.gov.sg/669dcc4bf8cd3fc6221d3b69"></iframe>
 </div>
