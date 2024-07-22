@@ -4,9 +4,8 @@ permalink: /register-interest/
 variant: tiptap
 description: ""
 ---
+<h4><strong>We will notify you via email when registration opens.</strong></h4>
 <blockquote>
-<p><strong>We will notify you via email when registration opens.</strong>
-</p>
 <p></p>
 </blockquote>
 <div class="iframe-wrapper">
