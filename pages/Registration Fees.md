@@ -17,7 +17,7 @@ Laos, (5) Myanmar, (6) Nepal, (7) Pakistan, (8) Philippines, (9) Sri Lanka,
 <p><strong>We will notify you via email when registration opens.</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe style="width: 100%; height: 400px" allowfullscreen="true" frameborder="0" src="https://form.gov.sg/669dcc4bf8cd3fc6221d3b69"></iframe>
+<iframe style="width: 100%; height: 700px" allowfullscreen="true" frameborder="0" src="https://form.gov.sg/669dcc4bf8cd3fc6221d3b69"></iframe>
 </div>
 <p>Powered by <a href="https://form.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Form</a>
 </p>
