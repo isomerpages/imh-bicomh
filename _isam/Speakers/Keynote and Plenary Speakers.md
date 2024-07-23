@@ -16,10 +16,7 @@ third_nav_title: Speakers
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Keynote_Marc_Potenza_v3.png">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/marc-potenza/"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Keynote_Marc_Potenza_v3.png"></a>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -45,15 +42,9 @@ third_nav_title: Speakers
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Plenary_Anise_Wu_v3.png">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/anise-wu/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Plenary_Anise_Wu_v3.png"></a>
 </th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Plenary_David_Hodgins_v3.png">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/david-hodgins/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Plenary_David_Hodgins_v3.png"></a>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
