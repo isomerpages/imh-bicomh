@@ -5,25 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Speakers
 ---
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/peter-jones/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Keynote__Peter_Jones_v4.png"></a>
-<p></p><a class="isomer-image-wrapper" href="/takeuchi-hiroyoshi/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Plenary__Hiroyoshi_Takeuchi_v4.png"></a>
-</th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/liu-chen-chung/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Plenary__Liu_Chen_Chung_v4.png"></a>
-</th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/raymond-chan/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Plenary__Raymond_Chan_v4.png"></a>
-</th>
-</tr>
-</tbody>
-</table>
+<blockquote>
 <h3>Keynote Speaker</h3>
+</blockquote>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -32,7 +16,7 @@ third_nav_title: Speakers
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/peter-jones/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Keynote__Peter_Jones_V3.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/peter-jones/"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Keynote__Peter_Jones_V3.png"></a>
 </td>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -40,14 +24,14 @@ third_nav_title: Speakers
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock01.png">
-</div>
+<p></p>
 </th>
 </tr>
 </tbody>
 </table>
+<blockquote>
 <h3>Plenary Speakers</h3>
+</blockquote>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
