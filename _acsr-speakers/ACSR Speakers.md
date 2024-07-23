@@ -50,7 +50,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
 <blockquote>
 <h3>Track Speakers</h3>
 </blockquote>
