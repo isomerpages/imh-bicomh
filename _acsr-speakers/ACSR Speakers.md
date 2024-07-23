@@ -52,7 +52,7 @@ description: ""
 </table>
 <p></p>
 <blockquote>
-<h3>Plenary Speakers</h3>
+<h3>Track Speakers</h3>
 </blockquote>
 <p>More details coming soon!</p>
 <p></p>
