@@ -42,20 +42,11 @@ third_nav_title: Speakers
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Plenary__Liu_Chen_Chung_v5.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/liu-chen-chung/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Plenary__Liu_Chen_Chung_v5.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Plenary__Raymond_Chan_v5.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/raymond-chan/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Plenary__Raymond_Chan_v5.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Plenary__Hiroyoshi_Takeuchi_v5.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/takeuchi-hiroyoshi/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Plenary__Hiroyoshi_Takeuchi_v5.png"></a>
 </td>
 </tr>
 </tbody>
