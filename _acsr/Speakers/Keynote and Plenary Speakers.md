@@ -5,6 +5,36 @@ variant: tiptap
 description: ""
 third_nav_title: Speakers
 ---
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Keynote__Peter_Jones_v4.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Plenary__Hiroyoshi_Takeuchi_v4.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Plenary__Liu_Chen_Chung_v4.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Plenary__Raymond_Chan_v4.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <h3>Keynote Speaker</h3>
 <table style="minWidth: 75px">
 <colgroup>
