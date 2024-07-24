@@ -20,12 +20,12 @@ third_nav_title: Speakers
 </td>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock1.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock1.png">
 </div>
 </th>
 </tr>
