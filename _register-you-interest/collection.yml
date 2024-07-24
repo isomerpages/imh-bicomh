@@ -2,4 +2,5 @@ collections:
   register-you-interest:
     output: true
     order:
+      - Contact Us.md
       - Register Your Interest.md
