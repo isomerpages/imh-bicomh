@@ -16,16 +16,16 @@ third_nav_title: Speakers
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/peter-jones/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Keynote__Peter_Jones_v5.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/peter-jones/"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Keynote__Peter_Jones_v5.png"></a>
 </td>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock1.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock1.png">
 </div>
 </th>
 </tr>
