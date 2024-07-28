@@ -12,7 +12,7 @@ description: ""
 <br>You may choose to make a reservation at One Farrer Hotel via Hotel Reservation
 Form.</p>
 <p><strong>Getting There:</strong>
-<br>The nearest MRT station is: <strong>Farrer Park MRT Station (North East Line)</strong>
+<br>The nearest MRT station: <strong>Farrer Park MRT Station (North East Line)</strong>
 <br>
 </p>
 <p></p>
