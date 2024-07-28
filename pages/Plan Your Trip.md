@@ -11,7 +11,7 @@ description: ""
 <br>You may choose to make a reservation at One Farrer Hotel via <a href="/files/Hotel_Reservation_Form___IMH_19_to_22_Nov_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Hotel Reservation Form</a>.</p>
 <p><strong><u>Getting There</u></strong>
 <br>The nearest MRT station:
-<br><strong>Farrer Park MRT Station (North East Line)</strong>
+<br>Farrer Park MRT Station (North East Line)
 <br>
 </p>
 <p></p>
