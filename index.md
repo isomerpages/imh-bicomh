@@ -20,11 +20,11 @@ sections:
         - title: Call for abstracts
           description: Click here
           url: https://form.gov.sg/6644601f91cbd7c5fa6d8b14
-        - title: Register you interest
+        - title: Register Your interest
           description: Click here
           url: /register-interest/
   - infobar:
-      title: About The Congress
+      title: About the Congress
       id: infobar
       description: This congress features two conferences where we focus on optimising
         psychosis recovery and fostering community support for behavioural
@@ -46,12 +46,11 @@ sections:
       subtitle: 21 - 22 November 2024
       image: /images/Switch_off_power_supply_sign.jpg
       url: /isam-2024/
-      title: ISAM 2024
+      title: ISAM Regional Conference 2024
       description: Fostering Community Support for Behavioural Addiction Recovery
       button: learn more
   - infopic:
       id: infopic
       alt: Image alt text
-      image: /images/Logos/org4.png
-      subtitle: "Organised by:"
+      image: /images/organisedby_logo_v3.png
 ---
