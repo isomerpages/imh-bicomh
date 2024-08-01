@@ -24,7 +24,7 @@ sections:
           description: Click here
           url: /register-interest/
   - infobar:
-      title: About The Congress
+      title: About the Congress
       id: infobar
       description: This congress features two conferences where we focus on optimising
         psychosis recovery and fostering community support for behavioural
