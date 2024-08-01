@@ -52,6 +52,5 @@ sections:
   - infopic:
       id: infopic
       alt: Image alt text
-      image: /images/Logos/org4.png
-      subtitle: "Organised by:"
+      image: /images/organisedby_logo_v3.png
 ---
