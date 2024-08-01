@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - ISAM Speakers.md
+      - Keynote and Plenary Speakers/Dr Kristiana Siste.md
       - Keynote and Plenary Speakers/.keep
       - Keynote and Plenary Speakers/Dr Marc Potenza.md
       - Keynote and Plenary Speakers/Prof Anise Wu.md
