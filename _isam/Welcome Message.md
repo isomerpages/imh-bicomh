@@ -8,8 +8,7 @@ description: ""
 <p>Welcome to the International Society of Addiction Medicine (ISAM) Regional
 Conference 2024 – the Singapore edition. This edition is organised by
 <a href="https://www.imh.com.sg/Pages/default.aspx" rel="noopener noreferrer nofollow" target="_blank">Institute of Mental Health</a>(IMH), Singapore’s only tertiary psychiatric
-institution and home to the <a href="https://www.nams.sg/Pages/default.aspx" rel="noopener noreferrer nofollow" target="_blank">National Addictions Medicine Service</a> (NAMS).</p>
-<p></p>
+institution and home to the <a href="https://www.nams.sg/Pages/default.aspx" rel="noopener noreferrer nofollow" target="_blank">National Addictions Management Service</a> (NAMS).</p>
 <p>IMH and NAMS are proud to partner <a href="https://isamweb.org/" rel="noopener noreferrer nofollow" target="_blank">ISAM</a> to provide a platform for healthcare
 professionals from around the world to network, exchange knowledge and
 discuss developments in the field of addictions medicine.</p>
