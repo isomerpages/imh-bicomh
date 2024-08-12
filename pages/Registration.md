@@ -1,6 +1,6 @@
 ---
-title: Registration Fees
-permalink: /registration-fees/
+title: Registration
+permalink: /registration/
 variant: tiptap
 description: ""
 ---
