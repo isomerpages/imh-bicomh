@@ -25,6 +25,6 @@ Japanese Society of Psychiatry and Neurology since 2013, Vice President
 (2021-2023), and serves also as the President of the Japanese Society of
 Social Psychiatry (since 2015).</p>
 <blockquote>
-<h4><strong>Title: From the Classroom to the Community - Youth Mental Health in Japan and New Intervention Strategies.</strong></h4>
+<h4></h4>
 </blockquote>
 <p></p>
