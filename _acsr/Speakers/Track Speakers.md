@@ -19,9 +19,9 @@ third_nav_title: Speakers
 </a>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/chung-young-chul/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Chung_Young_Chul.png"></a>
-<div class="isomer-image-wrapper">
+<a class="isomer-image-wrapper" href="/tor-phern-chern/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Tor_Phern_Chern.png">
-</div>
+</a>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/korinne-northwood/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Korinne_Northwood.png"></a>
 <p></p>
