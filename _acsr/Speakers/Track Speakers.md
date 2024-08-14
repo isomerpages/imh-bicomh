@@ -18,18 +18,12 @@ third_nav_title: Speakers
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Mizuno_Masafumi.png">
 </div>
 </th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Chung_Young_Chul.png">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/chung-young-chul/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Chung_Young_Chul.png"></a>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Tor_Phern_Chern.png">
 </div>
 </th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Korinne_Northwood.png">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/korinne-northwood/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Korinne_Northwood.png"></a>
 <p></p>
 </th>
 </tr>
