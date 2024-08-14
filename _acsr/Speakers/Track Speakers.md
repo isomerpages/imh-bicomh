@@ -13,10 +13,7 @@ third_nav_title: Speakers
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Christy_Hui.png">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/christy-hui/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Christy_Hui.png"></a>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Mizuno_Masafumi.png">
 </div>
