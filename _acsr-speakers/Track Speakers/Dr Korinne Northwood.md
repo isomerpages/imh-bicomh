@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Korinne_Northwood_bio.png">
+</div>
 <p>Dr Northwood is a clinical academic psychiatrist with combined clinical,
 research and teaching experience. She graduated with an MBBS and PhD from
 The University of Queensland (UQ) and has completed specialist training
