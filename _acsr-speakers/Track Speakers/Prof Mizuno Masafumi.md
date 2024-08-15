@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Mizuno_Masafumi_bio.png">
+</div>
 <p>Professor Mizuno Masafumi is currently the Hospital Director of the Tokyo
 Metropolitan Matsuzawa Hospital, founded in 1879, a mental hospital with
 various departments.</p>
