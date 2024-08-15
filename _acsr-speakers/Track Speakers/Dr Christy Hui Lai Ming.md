@@ -8,7 +8,7 @@ third_nav_title: Track Speakers
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Christy_Hui_bio.png">
 </div>
-<p>Dr Hui LaiMing Christy is currently an Associate Professor at the Department
+<p>Dr Hui Lai Ming Christy is currently an Associate Professor at the Department
 of Psychiatry, University of Hong Kong (HKU). She has specialised in psychosis
 studies with a particular interest in relapse prevention, medication adherence,
 cognitive dysfunction, early intervention, and the long-term outcomes of
