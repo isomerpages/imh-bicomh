@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Tor_Phern_Chern_bio.png">
+</div>
 <p>Dr Tor Phern-Chern completed his medical degree at the National University
 of Singapore under the Singapore Armed Forces Local Study Award. In his
 military career he served as Head Psychological Care (PCC) services in
