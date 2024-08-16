@@ -37,9 +37,10 @@ Research Cognition, Biological Psychiatry Global Open Sciences, Progress
 in Neuro-Psychopharmacology and Biological Psychiatry, Neuropsychology,
 Cognitive Neuropsychiatry, Neuropsychological Rehabilitation, and four
 local professional journals in China.</p>
-<p>Abstract
-<br>Plenary Title: Negative Symptoms Assessment for Schizophrenia: Theoretical
-Models and Clinical Implications</p>
+<h3><strong>Abstract</strong></h3>
+<blockquote>
+<h4><strong>Plenary Title: </strong> <strong>Negative Symptoms Assessment for Schizophrenia: Theoretical Models and Clinical Implications</strong></h4>
+</blockquote>
 <p>Schizophrenia is a complex psychiatric disorder characterised by psychotic
 symptoms, negative symptoms and cognitive impairments. Negative symptoms
 in schizophrenia constitute a heterogeneous syndrome that comprises anhedonia,
