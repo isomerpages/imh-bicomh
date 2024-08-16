@@ -39,7 +39,7 @@ Cognitive Neuropsychiatry, Neuropsychological Rehabilitation, and four
 local professional journals in China.</p>
 <h3><strong>Abstract</strong></h3>
 <blockquote>
-<h4><strong>Plenary Title: </strong> <strong>Negative Symptoms Assessment for Schizophrenia: Theoretical Models and Clinical Implications</strong></h4>
+<h4><strong>Plenary Title: Negative Symptoms Assessment for Schizophrenia: Theoretical Models and Clinical Implications</strong></h4>
 </blockquote>
 <p>Schizophrenia is a complex psychiatric disorder characterised by psychotic
 symptoms, negative symptoms and cognitive impairments. Negative symptoms
