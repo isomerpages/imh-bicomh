@@ -16,7 +16,7 @@ underscoring the critical need for effective support systems.</p>
 Research (ACSR) on November 19-20, and the International Society of Addiction
 Medicine (ISAM) Regional Conference on November 21-22. ACSR will focus
 on <strong>optimizing recovery for individuals living with schizophrenia</strong>,
-while ISAM Regional Conference will explore <strong>community support for behavioral addiction recovery</strong>.</p>
+while ISAM Regional Conference will explore <strong>community support for behavioural addiction recovery</strong>.</p>
 <p>Our focus areas, schizophrenia and behavioral addictions, are significant.
 Schizophrenia is a severe mental health disorder affecting approximately
 24 million people globally, or 1 in 300 people, according to WHO (2022).
