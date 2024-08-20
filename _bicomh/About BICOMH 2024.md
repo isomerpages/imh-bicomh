@@ -13,5 +13,4 @@ to join us in building bridges for an effective mental health ecosystem.
 This congress features two conferences: the 8th Asian Congress of Schizophrenia
 Research (ACSR) and International Society of Addiction Medicine (ISAM)
 Regional Conference.</p>
-<p>Discussions of this four-day, hybrid event will focus on optimising psychosis
-recovery and fostering community support for behavioural addiction recovery.</p>
+<p>Discussions of this four-day, hybrid event will focus on <strong>optimising psychosis recovery</strong> and <strong>fostering community support for behavioural addiction recovery</strong>.</p>

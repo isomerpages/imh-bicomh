@@ -37,3 +37,25 @@ Research Cognition, Biological Psychiatry Global Open Sciences, Progress
 in Neuro-Psychopharmacology and Biological Psychiatry, Neuropsychology,
 Cognitive Neuropsychiatry, Neuropsychological Rehabilitation, and four
 local professional journals in China.</p>
+<h3><strong>Abstract</strong></h3>
+<blockquote>
+<h4><strong>Plenary Title: Negative Symptoms Assessment for Schizophrenia: Theoretical Models and Clinical Implications</strong></h4>
+</blockquote>
+<p>Schizophrenia is a complex psychiatric disorder characterised by psychotic
+symptoms, negative symptoms and cognitive impairments. Negative symptoms
+in schizophrenia constitute a heterogeneous syndrome that comprises anhedonia,
+avolition, asociality, alogia and blunted affect. Recently, there is reviving
+interest in studying negative symptoms as these symptoms are less responsive
+to conventional and atypical antipsychotic medications.</p>
+<p>With the guidance of the advanced theoretical framework of anhedonia,
+I will first address the issue of anhedonia paradox observed in schizophrenia
+and the recent reconceptualisation of negative symptoms in schizophrenia
+research. I will adopt the two-factor model of negative symptoms, i.e.,
+the Motivation and Pleasure (MAP) factor and the Expression (EXP) factor,
+and further illustrate with a series of studies to highlight the important
+role of MAP factor but not EXP factor contributing to social functioning
+in these patients. These findings help to validate and establish a set
+of measures to characterise the evaluation of anhedonia and highlight potential
+development of intervention platform for anhedonia across clinical and
+subclinical populations.</p>
+<p></p>
