@@ -14,7 +14,6 @@ Laos, (5) Myanmar, (6) Nepal, (7) Pakistan, (8) Philippines, (9) Sri Lanka,
 (10) Vietnam</p>
 <p><strong>Click on the button below to register.</strong>
 <br>*By clicking on this button, you will be routed to a third party website.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Register_Now_button_v3.png">
 </div>
