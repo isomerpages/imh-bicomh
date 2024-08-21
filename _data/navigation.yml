@@ -37,6 +37,13 @@ links:
     url: /abstracts/
   - title: Registration
     url: /registration/
+  - title: Registration
+    url: /registration/
+    sublinks:
+      - title: Terms and Conditions
+        url: /registration-tc/
+      - title: New submenu
+        url: /permalink
   - title: Register Your Interest
     url: /register-interest/
   - title: Plan Your Trip
