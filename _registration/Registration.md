@@ -4,7 +4,14 @@ permalink: /registration/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Registration will open soon!</strong></h3>
+<h3><strong>Registration is now open!</strong></h3>
+<p>Click on the button below to register.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Register_Now_button_v3.png">
+</div>
+<p>*By clicking on this button, you will be routed to a third party website.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Registration_Fees_V3.png">
 </div>
