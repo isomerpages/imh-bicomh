@@ -37,8 +37,6 @@ links:
     url: /abstracts/
   - title: Registration
     url: /registration/
-  - title: Registration
-    url: /registration/
     sublinks:
       - title: Registration Fees
         url: /registration/
