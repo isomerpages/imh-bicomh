@@ -42,11 +42,13 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/liu-chen-chung/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Liu_Chen_Chung_v4.png"></a>
+<a class="isomer-image-wrapper" href="/takeuchi-hiroyoshi/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Plenary__Hiroyoshi_Takeuchi_v5.png">
+</a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/max-lam/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Max_Lam_v1.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/raymond-chan/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Plenary__Raymond_Chan_v5.png"></a>
-<p></p>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/takeuchi-hiroyoshi/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Plenary__Hiroyoshi_Takeuchi_v5.png"></a>
 </td>
 </tr>
 </tbody>
@@ -62,12 +64,13 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/christy-hui/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Christy_Hui.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/chung-young-chul/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Chung_Young_Chul.png"></a>
 <a class="isomer-image-wrapper" href="/mizuno-masafumi/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Mizuno_Masafumi.png">
 </a>
+<p></p>
 </th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/chung-young-chul/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Chung_Young_Chul.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/christy-hui/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Christy_Hui_v2.png"></a>
 <a class="isomer-image-wrapper" href="/tor-phern-chern/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Tor_Phern_Chern.png">
 </a>
