@@ -42,7 +42,7 @@ third_nav_title: Speakers
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/liu-chen-chung/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Liu_Chen_Chung_v3.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/liu-chen-chung/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Liu_Chen_Chung_v4.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/raymond-chan/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Plenary__Raymond_Chan_v5.png"></a>
 <p></p>
