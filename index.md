@@ -20,7 +20,7 @@ sections:
         - title: Call for abstracts
           description: Click here
           url: https://form.gov.sg/6644601f91cbd7c5fa6d8b14
-        - title: Register Your interest
+        - title: Register Now
           description: Click here
           url: /register-interest/
   - infobar:
