@@ -12,3 +12,9 @@ description: ""
 <p><strong>Category B:</strong> (1) Bangladesh, (2) Cambodia, (3) India, (4)
 Laos, (5) Myanmar, (6) Nepal, (7) Pakistan, (8) Philippines, (9) Sri Lanka,
 (10) Vietnam</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Register_Now_button_v3.png">
+</div>
+<p></p>
+<p></p>
