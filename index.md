@@ -22,7 +22,7 @@ sections:
           url: https://form.gov.sg/6644601f91cbd7c5fa6d8b14
         - title: Register Now
           description: Click here
-          url: /register-interest/
+          url: https://www.gevme.com/acsr-isam-2024
   - infobar:
       title: About the Congress
       id: infobar
