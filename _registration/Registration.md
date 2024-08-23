@@ -4,7 +4,7 @@ permalink: /registration/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Registration will open soon!</strong></h3>
+<h3><strong>Registration is open!</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Registration_Fees_V3.png">
 </div>
