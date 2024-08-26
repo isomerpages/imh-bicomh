@@ -21,7 +21,7 @@ description: ""
 Exit C.</p>
 <h3><strong>Travelling to Singapore</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sg2.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/sg2.png">
 </div>
 <p>To ensure a smooth journey into Singapore, find out entry requirements,
 things to submit and more.</p>
