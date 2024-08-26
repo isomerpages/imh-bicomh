@@ -20,9 +20,9 @@ sections:
         - title: Call for abstracts
           description: Click here
           url: https://form.gov.sg/6644601f91cbd7c5fa6d8b14
-        - title: Register Your interest
+        - title: Register now
           description: Click here
-          url: /register-interest/
+          url: /registration/
   - infobar:
       title: About the Congress
       id: infobar
