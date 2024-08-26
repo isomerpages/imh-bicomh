@@ -20,6 +20,9 @@ description: ""
 <br>To access the hotel from Farrer Park MRT Station, please take Exit A or
 Exit C.</p>
 <h3><strong>Travelling to Singapore</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sg2.png">
+</div>
 <p>To ensure a smooth journey into Singapore, find out entry requirements,
 things to submit and more.</p>
 <p>For more details, please visit the Visit Singapore website: <a href="https://www.visitsingapore.com/travel-tips/travelling-to-singapore/" rel="noopener noreferrer nofollow" target="_blank">https://www.visitsingapore.com/travel-tips/travelling-to-singapore/</a>
