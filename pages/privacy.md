@@ -91,13 +91,23 @@ any inappropriate decisions made about a delegate when the need arises.</p>
 registrants confirming their successful registration for BICOMH 2024.</p>
 <p>iv. The delegates may email to <a href="mailto:bicomh@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">bicomh@imh.com.sg</a> and request for changes
 to be made to their registration details.</p>
-<p>5. Retention and Destruction of Personal Information</p>
+<ol start="5" data-tight="true" class="tight">
+<li>
+<p><strong>Retention and Destruction of Personal Information</strong>
+</p>
+</li>
+</ol>
 <p>i. The Organiser will maintain appropriate practices for retention and
 destruction where delegates’ personal information will be erased and destroyed
 if it is no longer of use or relevant. Upon the destruction of delegates’
 personal information, the Organiser will then no longer have access to
 such personal information.</p>
-<p>6. Transfer of Personal Information</p>
+<ol start="6" data-tight="true" class="tight">
+<li>
+<p><strong>Transfer of Personal Information</strong>
+</p>
+</li>
+</ol>
 <p>i. The delegates’ personal information provided is not transferrable to
 other countries and will be accessed only by the Organiser and its duly
 authorised partner/s. The Organiser shall not use any data provided by
