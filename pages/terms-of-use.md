@@ -66,27 +66,39 @@ or appearing on web sites to which this Web Site is linked.</p>
 </ul>
 <p><strong><u>Links to this Web Site from other web sites</u></strong>
 </p>
-<p>•Except as set forth below, caching and links to, and the framing of this
+<ul data-tight="true" class="tight">
+<li>
+<p>Except as set forth below, caching and links to, and the framing of this
 Web Site or any of the Contents are prohibited.</p>
-<p>• You must secure permission from the BICOMH Organiser prior to hyperlinking
+</li>
+<li>
+<p>You must secure permission from the BICOMH Organiser prior to hyperlinking
 to, or framing, this Web Site or any of the Contents, or engaging in similar
 activities. The BICOMH Organiser reserves the right to impose conditions
 when permitting any hyperlinking to, or framing of this Web Site or any
 of the Contents.</p>
-<p>• Your linking to, or framing any part of this Web Site or its Contents
+</li>
+<li>
+<p>Your linking to, or framing any part of this Web Site or its Contents
 constitute acceptance of these Terms of Use. This is deemed to be the case
 even after the posting of any changes or modifications to these Terms of
 Use. If you do not accept these Terms of Use, you must discontinue linking
 to, or framing of this Web Site or any of the Contents.</p>
-<p>• In no circumstances shall the BICOMH Organiser be considered to be associated
+</li>
+<li>
+<p>In no circumstances shall the BICOMH Organiser be considered to be associated
 or affiliated in whatever manner with any trade or service marks, logos,
 insignia or other devices used or appearing on web sites that link to this
 Web Site or any of the Contents.</p>
-<p>• The BICOMH Organiser reserves all rights to disable any links to, or
-frames of any site containing inappropriate, profane, defamatory, infringing,
+</li>
+<li>
+<p>The BICOMH Organiser reserves all rights to disable any links to, or frames
+of any site containing inappropriate, profane, defamatory, infringing,
 obscene, indecent or unlawful topics, names, material or information, or
 material or information that violates any written law, any applicable intellectual
 property, proprietary, privacy or publicity rights.</p>
+</li>
+</ul>
 <p>• The BICOMH Organiser reserves the right to disable any unauthorised
 links or frames and disclaims any responsibility for the content available
 on any other site reached by links to or from this Web Site or any of the
