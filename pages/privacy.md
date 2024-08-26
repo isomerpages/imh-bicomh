@@ -9,16 +9,15 @@ by the Institute of Mental Health (IMH), referred to as “Organiser”, “we�
 “us” or “our” in this privacy statement.</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Type of Personal Information Collected and Purpose for Collection </strong>
-</p>
+<p>Type of Personal Information Collected and Purpose for Collection</p>
+</li>
+</ol>
 <p>i. A variety of information may be collected, including the delegate’s
 given name, family name, profession, job title, MCR/SNB/PRN number, organisation
 and business email address.</p>
-<p>The personal information collected will allow the provision of access
+<p>ii. The personal information collected will allow the provision of access
 to the conference in-person and the conference virtual platform, reporting
 and analytical purpose; and marketing purpose.</p>
-</li>
-</ol>
 <p>iii. The Organiser will use the business contact information collected
 during registration for necessary business communication and customer support.
 The event Secretariat may have limited ability to assist the requests of
@@ -65,7 +64,7 @@ modification, copying, use and destruction.</p>
 information in its dealing with third party Vendors.</p>
 <p>iii. The Organiser will not request for the delegates’ username and password
 via email or telephone. If the delegates receive such requests, please
-inform the event Secretariat immediately at bicomh@imh.com.sg.</p>
+inform the event Secretariat immediately at <a href="mailto:bicomh@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">bicomh@imh.com.sg</a>.</p>
 <p>4. Accuracy of Personal Information</p>
 <p>i. The delegates’ personal information will be deemed as accurate and
 complete upon registration, necessary for the purpose for which it is intended
@@ -74,7 +73,7 @@ to be used.</p>
 any inappropriate decisions made about a delegate when the need arises.</p>
 <p>iii. A ‘Registration Confirmation’ Email will be sent to all successful
 registrants confirming their successful registration for BICOMH 2024.</p>
-<p>iv. The delegates may email to bicomh@imh.com.sg and request for changes
+<p>iv. The delegates may email to <a href="mailto:bicomh@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">bicomh@imh.com.sg</a> and request for changes
 to be made to their registration details.</p>
 <p>5. Retention and Destruction of Personal Information</p>
 <p>i. The Organiser will maintain appropriate practices for retention and
@@ -100,5 +99,6 @@ by BICOMH, the right to use or publish in print or electronic medium any
 photograph or video containing your image for educational, news, or promotional
 purposes without compensation.</p>
 <p>iii. For any enquiries regarding the Privacy Policy or any requests regarding
-personal information, please contact the event Secretariat at bicomh@imh.com.sg.</p>
+personal information, please contact the event Secretariat at <a href="mailto:bicomh@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">bicomh@imh.com.sg</a>.</p>
+<p></p>
 <p></p>
