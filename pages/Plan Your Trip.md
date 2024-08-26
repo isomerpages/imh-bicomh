@@ -18,6 +18,9 @@ Form</p>
 <br>The nearest MRT station:
 <br>Farrer Park MRT Station (North East Line)</p>
 <h2><strong>About Singapore</strong></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sg2.png">
+</div>
 <p></p>
 <h3>Entering Singapore</h3>
 <p>To ensure a smooth journey, travellers seeking to enter Singapore should
