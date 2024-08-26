@@ -116,7 +116,12 @@ for any commercial or profit-generating purpose, or in the conduct of research
 that is subject to consulting, licensing or other similar legal or commercial
 obligations to another institution, corporation or business entity, unless
 the provider provides its prior written consent.</p>
-<p>7. Photography and Video Recordings</p>
+<ol start="7" data-tight="true" class="tight">
+<li>
+<p><strong>Photography and Video Recordings</strong>
+</p>
+</li>
+</ol>
 <p>i. The Organiser has the right to use images/videos taken by the Organiser
 appointed vendor at the conference for future marketing purposes and/or
 materials.</p>
