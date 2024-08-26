@@ -19,15 +19,9 @@ description: ""
 <br>Farrer Park MRT Station (North East Line)
 <br>To access the hotel from Farrer Park MRT Station, please take Exit A or
 Exit C.</p>
-<h3>Entering Singapore</h3>
-<p>To ensure a smooth journey, travellers seeking to enter Singapore should
-comply with the Entry and Public Health requirements</p>
-<p>For more details, please visit the Immigrations and Checkpoints Authority
-of Singapore (ICA) website: <a href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.ica.gov.sg/enter-transit-depart/entering-singapore</u></a>
-</p>
-<h3>Essential Information</h3>
-<p>Prepare for an unforgettable journey to Singapore – get important information,
-tips and advice to maximize your experience and make the most of your visit.</p>
-<p>For more details, please visit the Visit Singapore website: <a href="https://www.visitsingapore.com/travel-tips/essential-travel-information/" rel="noopener noreferrer nofollow" target="_blank">https://www.visitsingapore.com/travel-tips/essential-travel-information/</a>
+<h3><strong>Travelling to Singapore</strong></h3>
+<p>To ensure a smooth journey into Singapore, find out entry requirements,
+things to submit and more.</p>
+<p>For more details, please visit the Visit Singapore website: <a href="https://www.visitsingapore.com/travel-tips/travelling-to-singapore/" rel="noopener noreferrer nofollow" target="_blank">https://www.visitsingapore.com/travel-tips/travelling-to-singapore/</a>
 </p>
 <p></p>
