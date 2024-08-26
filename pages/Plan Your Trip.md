@@ -23,7 +23,7 @@ comply with the Entry and Public Health requirements</p>
 <p>For more details, please visit the Immigrations and Checkpoints Authority
 of Singapore (ICA) website: <a href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.ica.gov.sg/enter-transit-depart/entering-singapore</u></a>
 </p>
-<h4>Essential Information</h4>
+<h3><strong>Essential Information</strong></h3>
 <p>Prepare for an unforgettable journey to Singapore – get important information,
 tips and advice to maximize your experience and make the most of your visit.</p>
 <p>For more details, please visit the Visit Singapore website: <a href="https://www.visitsingapore.com/travel-tips/essential-travel-information/" rel="noopener noreferrer nofollow" target="_blank">https://www.visitsingapore.com/travel-tips/essential-travel-information/</a>
