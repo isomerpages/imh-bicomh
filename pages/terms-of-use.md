@@ -11,39 +11,63 @@ by these Terms of Use. If you do not agree to these Terms of Use, please
 do not use this Web Site.</p>
 <p><strong><u>General</u></strong>
 </p>
-<p>• These Terms of Use may be changed from time to time. Changes will be
-posted on this page and your use of this Web Site after such changes have
-been posted will constitute your agreement to the modified Terms of Use
-and all of the changes.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>These Terms of Use may be changed from time to time. Changes will be posted
+on this page and your use of this Web Site after such changes have been
+posted will constitute your agreement to the modified Terms of Use and
+all of the changes.</p>
+</li>
+</ul>
 <p><strong><u>Disclaimer of Warranties and Liability</u></strong>
 </p>
-<p>• The Contents of this Web Site are provided on an "as is" basis without
+<ul data-tight="true" class="tight">
+<li>
+<p>The Contents of this Web Site are provided on an "as is" basis without
 warranties of any kind. To the fullest extent permitted by law, the BICOMH
 Organiser does not warrant and hereby disclaims any warranty:</p>
-<p>o as to the accuracy, correctness, reliability, timeliness, non-infringement,
+<ul data-tight="true" class="tight">
+<li>
+<p>as to the accuracy, correctness, reliability, timeliness, non-infringement,
 title, merchantability or fitness for any particular purpose of the Contents
 of this Web Site;</p>
-<p>o that the Contents available through this Web Site or any functions associated
+</li>
+<li>
+<p>that the Contents available through this Web Site or any functions associated
 therewith will be uninterrupted or error-free, or that defects will be
 corrected or that this Web Site and the server is and will be free of all
 viruses and/or other harmful elements.</p>
-<p>• The BICOMH Organiser shall also not be liable for any damage or loss
-of any kind caused as a result (direct or indirect) of the use of the Web
+</li>
+</ul>
+</li>
+<li>
+<p>The BICOMH Organiser shall also not be liable for any damage or loss of
+any kind caused as a result (direct or indirect) of the use of the Web
 Site, including but not limited to any damage or loss suffered as a result
 of reliance on the Contents contained in or available from the Web Site.</p>
-<p>Links from this Web Site to other web sites</p>
-<p>• This Web Site contains hyperlinks to web sites which are not maintained
+</li>
+</ul>
+<p><strong><u>Links from this Web Site to other web sites</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>This Web Site contains hyperlinks to web sites which are not maintained
 by the BICOMH Organiser. The BICOMH Organiser is not responsible for the
 contents of those web sites and shall not be liable for any damages or
 loss arising from access to those web sites. Use of the hyperlinks and
 access to such web sites are entirely at your own risk.</p>
-<p>• Hyperlinks to other web sites are provided as a convenience. In no circumstances
+</li>
+<li>
+<p>Hyperlinks to other web sites are provided as a convenience. In no circumstances
 shall the BICOMH Organiser be considered to be associated or affiliated
 with any trade or service marks, logos, insignia or other devices used
 or appearing on web sites to which this Web Site is linked.</p>
-<p>Links to this Web Site from other web sites</p>
-<p>• Except as set forth below, caching and links to, and the framing of
-this Web Site or any of the Contents are prohibited.</p>
+</li>
+</ul>
+<p><strong><u>Links to this Web Site from other web sites</u></strong>
+</p>
+<p>•Except as set forth below, caching and links to, and the framing of this
+Web Site or any of the Contents are prohibited.</p>
 <p>• You must secure permission from the BICOMH Organiser prior to hyperlinking
 to, or framing, this Web Site or any of the Contents, or engaging in similar
 activities. The BICOMH Organiser reserves the right to impose conditions
@@ -69,5 +93,4 @@ on any other site reached by links to or from this Web Site or any of the
 Contents.</p>
 <p>Governing Law</p>
 <p>These Terms of Use shall be governed and construed in accordance with
-laws of the Republic of Singapore.</p>
-<p></p>
+laws of the Republic of Singapore</p>
