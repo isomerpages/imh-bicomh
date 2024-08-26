@@ -12,8 +12,8 @@ description: ""
 <p>Address: 1 Farrer Park Station Road Singapore 217562
 <br>Phone: +65 6363 0101</p>
 <p><strong>Accommodation</strong>
-<br>You may choose to make a reservation at One Farrer Hotel via Hotel Reservation
-Form</p>
+<br>You may choose to make a reservation at One Farrer Hotel via <a href="/files/One_Farrer_Hotel_Reservation_Form___IMH_19_to_22_Nov_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Hotel Reservation Form</a>
+</p>
 <p><strong>Getting There</strong>
 <br>The nearest MRT station:
 <br>Farrer Park MRT Station (North East Line)
