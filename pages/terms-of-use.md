@@ -105,6 +105,7 @@ any other site reached by links to or from this Web Site or any of the
 Contents.</p>
 </li>
 </ul>
-<p>Governing Law</p>
+<p><strong><u>Governing Law</u></strong>
+</p>
 <p>These Terms of Use shall be governed and construed in accordance with
 laws of the Republic of Singapore</p>
