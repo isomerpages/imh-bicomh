@@ -9,7 +9,8 @@ by the Institute of Mental Health (IMH), referred to as “Organiser”, “we�
 “us” or “our” in this privacy statement.</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Type of Personal Information Collected and Purpose for Collection</p>
+<p><strong>Type of Personal Information Collected and Purpose for Collection</strong>
+</p>
 </li>
 </ol>
 <p>i. A variety of information may be collected, including the delegate’s
@@ -22,7 +23,12 @@ and analytical purpose; and marketing purpose.</p>
 during registration for necessary business communication and customer support.
 The event Secretariat may have limited ability to assist the requests of
 delegates if no information was provided.</p>
-<p>2. Disclosure of Personal Information</p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong>Disclosure of Personal Information</strong>
+</p>
+</li>
+</ol>
 <p>i. The Organiser will not disclose any delegate’s personal information
 except under these limited circumstances:</p>
 <p>a. The event Secretariat will access the delegate’s personal information
@@ -55,7 +61,12 @@ modification, copying, use and destruction. The Organiser will not be held
 responsible for all submitted information and data that may be shared with
 any other third parties apart from those that The Organiser directly liaised
 with for any grant application.</p>
-<p>3. Personal Information Security</p>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p><strong>Personal Information Security</strong>
+</p>
+</li>
+</ol>
 <p>i. The Organiser shall protect and take all reasonable precautions and
 adequate measures to safeguard the delegates’ personal information against
 such risks as loss, theft, unauthorised access, unauthorised disclosure,
@@ -65,7 +76,12 @@ information in its dealing with third party Vendors.</p>
 <p>iii. The Organiser will not request for the delegates’ username and password
 via email or telephone. If the delegates receive such requests, please
 inform the event Secretariat immediately at <a href="mailto:bicomh@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">bicomh@imh.com.sg</a>.</p>
-<p>4. Accuracy of Personal Information</p>
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p><strong>Accuracy of Personal Information</strong>
+</p>
+</li>
+</ol>
 <p>i. The delegates’ personal information will be deemed as accurate and
 complete upon registration, necessary for the purpose for which it is intended
 to be used.</p>
