@@ -17,8 +17,8 @@ description: ""
 <p><strong>Getting There</strong>
 <br>The nearest MRT station:
 <br>Farrer Park MRT Station (North East Line)
-<br>To access the hotel from Farrer Park MRT Station, please take Exit A or
-Exit C.</p>
+<br><em>To access the hotel from Farrer Park MRT Station, please take Exit A or Exit C.</em>
+</p>
 <h3><strong>Travelling to Singapore</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/sg2.png">
