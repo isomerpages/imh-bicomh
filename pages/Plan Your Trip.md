@@ -11,12 +11,18 @@ description: ""
 </div>
 <p>Address: 1 Farrer Park Station Road Singapore 217562
 <br>Phone: +65 6363 0101</p>
-<p><strong><u>Accommodation</u></strong>
-<br>You may choose to make a reservation at One Farrer Hotel via <a href="/files/One_Farrer_Hotel_Reservation_Form___IMH_19_to_22_Nov_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Hotel Reservation Form</a>
-</p>
-<p><strong><u>Getting There</u></strong>
+<p><strong>Accommodation</strong>
+<br>You may choose to make a reservation at One Farrer Hotel via Hotel Reservation
+Form</p>
+<p><strong>Getting There</strong>
 <br>The nearest MRT station:
-<br>Farrer Park MRT Station (North East Line)
-<br>
+<br>Farrer Park MRT Station (North East Line)</p>
+<h2><strong>About Singapore</strong></h2>
+<p></p>
+<h3>Entering Singapore</h3>
+<p>To ensure a smooth journey, travellers seeking to enter Singapore should
+comply with the Entry and Public Health requirements</p>
+<p>For more details, please visit the Immigrations and Checkpoints Authority
+of Singapore (ICA) website: <a href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.ica.gov.sg/enter-transit-depart/entering-singapore</u></a>
 </p>
 <p></p>
