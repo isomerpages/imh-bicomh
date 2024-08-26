@@ -17,13 +17,15 @@ Form</p>
 <p><strong>Getting There</strong>
 <br>The nearest MRT station:
 <br>Farrer Park MRT Station (North East Line)</p>
-<h2><strong>Entering Singapore</strong></h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sg2.png">
-</div>
+<h3><strong>Entering Singapore</strong></h3>
 <p>To ensure a smooth journey, travellers seeking to enter Singapore should
 comply with the Entry and Public Health requirements</p>
 <p>For more details, please visit the Immigrations and Checkpoints Authority
 of Singapore (ICA) website: <a href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.ica.gov.sg/enter-transit-depart/entering-singapore</u></a>
+</p>
+<h3><strong>Essential Information</strong></h3>
+<p>Prepare for an unforgettable journey to Singapore – get important information,
+tips and advice to maximize your experience and make the most of your visit.</p>
+<p>For more details, please visit the Visit Singapore website: <a href="https://www.visitsingapore.com/travel-tips/essential-travel-information/" rel="noopener noreferrer nofollow" target="_blank">https://www.visitsingapore.com/travel-tips/essential-travel-information/</a>
 </p>
 <p></p>
