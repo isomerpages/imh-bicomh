@@ -17,6 +17,12 @@ sections:
       button: 19 - 22 November 2024, One Farrer Hotel, Singapore
       subtitle: Building Bridges for an Effective Mental Health Ecosystem
       key_highlights:
+        - title: ACSR Programme
+          description: 19 -20 Nov 2024
+          url: /acsr-programme-d1/
+        - title: ISAM Programme
+          description: 21 - 22 Nov 2024
+          url: ""
         - title: Call for abstracts
           description: Click here
           url: https://form.gov.sg/6644601f91cbd7c5fa6d8b14
