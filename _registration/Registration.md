@@ -5,6 +5,12 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Registration is open!</strong></h3>
+<p>This congress features two conferences: the 8th Asian Congress of Schizophrenia
+Research (ACSR) and International Society of Addiction Medicine (ISAM)
+Regional Conference.</p>
+<p>Discussions of this four-day, hybrid event will focus on <strong>optimising psychosis recovery </strong>and <strong>fostering community support for behavioural addiction recovery.</strong>
+</p>
+<p>You may sign up for either ACSR or ISAM or both conferences.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Registration_Fees_V3.png">
 </div>
