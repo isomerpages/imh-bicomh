@@ -22,7 +22,7 @@ sections:
           url: /acsr-programme-d1/
         - title: ISAM Programme
           description: 21 - 22 Nov 2024
-          url: ""
+          url: /isam-programme-d1/
         - title: Call for abstracts
           description: Click here
           url: https://form.gov.sg/6644601f91cbd7c5fa6d8b14
