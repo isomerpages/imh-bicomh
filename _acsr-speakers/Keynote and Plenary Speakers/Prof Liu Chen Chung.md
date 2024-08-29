@@ -11,7 +11,7 @@ third_nav_title: Keynote and Plenary Speakers
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Liu_Chen_Chung_bio_v2.png">
 </div>
-<p>From 2006 to 2010, Dr Liu Chen Chung worked with Professor Hwu Hai-Gwo
+<p>From 2006 to 2010, Dr Liu Chen-Chung worked with Professor Hwu Hai-Gwo
 in a prospective follow-up study of the psychopathological progress of
 early schizophrenia-like disorder (SOPRES). He has published a series of
 papers regarding early detection, screening tool, transitioning from ultra-high
