@@ -9,7 +9,7 @@ third_nav_title: Keynote and Plenary Speakers
 <h3>Plenary Speaker</h3>
 </blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/david_hodgins_bio_v1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/David_Hodgins_bio_v001.png">
 </div>
 <p>Prof David C Hodgins is a professor in the Program in Clinical Psychology
 in the Department of Psychology, University of Calgary and is director
