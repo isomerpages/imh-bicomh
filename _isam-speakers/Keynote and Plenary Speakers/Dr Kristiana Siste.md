@@ -37,12 +37,12 @@ developing management frameworks that incorporate the dialectical model.
 Her persistent endeavours have resulted in collaborative researches in
 behavioural addiction field, published in internationally renowned journals
 and implemented into comprehensive services.</p>
-<p>At Dr. Cipto Mangunkusumo General Hospital - Faculty of Medicine, Universitas
-Indonesia, Dr. Siste established and oversees the National Behavioural
-Addiction Study Center and National Behavioural Addiction Treatment Center.
-She also serves as a senior lecturer, Head of the Addiction Psychiatry
-Division, and Head of the Psychiatric Department, mentoring emerging physicians
-and researchers. Internationally, she holds positions on the Advisory Board
+<p>At Dr Cipto Mangunkusumo General Hospital - Faculty of Medicine, Universitas
+Indonesia, Dr Siste established and oversees the National Behavioural Addiction
+Study Center and National Behavioural Addiction Treatment Center. She also
+serves as a senior lecturer, Head of the Addiction Psychiatry Division,
+and Head of the Psychiatric Department, mentoring emerging physicians and
+researchers. Internationally, she holds positions on the Advisory Board
 of The WPA Addiction Psychiatry Section and is a member of the International
 Working Group for Behavioural Addiction.</p>
 <blockquote>
