@@ -11,7 +11,7 @@ third_nav_title: Keynote and Plenary Speakers
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/anise_wu_bio_v2.png">
 </div>
-<p>Prof Wu M. S. Anise (胡文詩) is currently a full professor in the Department
+<p>Prof Wu MS Anise (胡文詩) is currently a full professor in the Department
 of Psychology and the former Associate Dean of the Faculty of Social Sciences
 at the University of Macau. She is also an adjunct distinguished professor
 of the Southwest University of Sciences and Technology as well as a visiting
