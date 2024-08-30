@@ -36,4 +36,7 @@ of Schizophrenia Research (TSSR) from 2019 to 2023, and is currently an
 executive board member of ACSR (Asian College of Schizophrenia Research),
 as well as a member of TAPER (Tapering AntiPsychotics and Evaluating Recovery)
 International Research Consortium.</p>
+<blockquote>
+<h4><strong>Plenary Title: Maintenance of Patients with Remitted Psychosis: Is it Possible to Reduce or Discontinue Antipsychotics?</strong></h4>
+</blockquote>
 <p></p>
