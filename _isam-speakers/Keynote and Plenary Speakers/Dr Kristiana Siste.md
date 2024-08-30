@@ -47,6 +47,6 @@ researchers. Internationally, she holds positions on the Advisory Board
 of The WPA Addiction Psychiatry Section and is a member of the International
 Working Group for Behavioural Addiction.</p>
 <blockquote>
-<h4><strong>Plenary Title: A multi-country, multi-cultural investigation of protective and risk factors of problematic gambling behaviour</strong></h4>
+<h4><strong>Plenary Title: The State of Play : Gaming Disorder in the Indonesian Landscape And Emerging Treatment Option with DBT </strong></h4>
 </blockquote>
 <p></p>
