@@ -9,7 +9,7 @@ third_nav_title: Keynote and Plenary Speakers
 <h3>Plenary Speaker</h3>
 </blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/P_Takeuchi_Hiroyoshi_Bio.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Takeuchi_Hiroyoshi_Bio_v001.png">
 </div>
 <p>After graduating from Chiba University School of Medicine in 2001, Dr
 Takeuchi joined Keio University School of Medicine as a clinician-researcher.</p>
