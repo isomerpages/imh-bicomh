@@ -42,4 +42,7 @@ He is the President-elect of the International Society of Addiction Medicine
 and is multiple principal investigator on a grant to help support its main
 annual conference, including the involvement of early career investigators
 and addiction specialists.</p>
+<blockquote>
+<h4><strong>Keynote Address: Co-Occurrences and Intersections: The Complexities of Behavioural Addictions</strong></h4>
+</blockquote>
 <p></p>
