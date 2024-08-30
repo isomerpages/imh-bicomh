@@ -11,7 +11,7 @@ third_nav_title: Keynote and Plenary Speakers
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/david_hodgins_bio_v1.png">
 </div>
-<p>Prof David C. Hodgins is a professor in the Program in Clinical Psychology
+<p>Prof David C Hodgins is a professor in the Program in Clinical Psychology
 in the Department of Psychology, University of Calgary and is director
 of the Addictive Behaviours Lab at the University of Calgary. Prof Hodgins
 is also a research coordinator with the Alberta Gambling Research Institute.
