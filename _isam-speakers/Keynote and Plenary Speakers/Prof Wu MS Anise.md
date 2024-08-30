@@ -1,5 +1,5 @@
 ---
-title: Prof Wu M S Anise
+title: Prof Wu MS Anise
 permalink: /anise-wu/
 variant: tiptap
 description: ""
@@ -9,9 +9,9 @@ third_nav_title: Keynote and Plenary Speakers
 <h3>Plenary Speaker</h3>
 </blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/anise_wu_bio_v2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Anise_Wu_bio_v001.png">
 </div>
-<p>Prof Wu M. S. Anise (胡文詩) is currently a full professor in the Department
+<p>Prof Wu MS Anise (胡文詩) is currently a full professor in the Department
 of Psychology and the former Associate Dean of the Faculty of Social Sciences
 at the University of Macau. She is also an adjunct distinguished professor
 of the Southwest University of Sciences and Technology as well as a visiting
@@ -39,4 +39,7 @@ board members of various journals. She is currently appointed as the associate
 editor of the Journal of Clinical and Health Psychology, Applied Psychology:
 Health and Wellbeing, as well as Addictive Behaviours, which are esteemed
 multidisciplinary journals in clinical and health psychology.</p>
+<blockquote>
+<h4><strong>Plenary Title: Smartphone Addiction: Psychological Mechanisms and Relations to Social Media Use in Youths</strong></h4>
+</blockquote>
 <p></p>

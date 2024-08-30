@@ -8,8 +8,9 @@ third_nav_title: Keynote and Plenary Speakers
 <blockquote>
 <h3>Keynote Speaker</h3>
 </blockquote>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Plenary.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Kristiana_Siste_bio_v001.png">
 </div>
 <p>Dr Kristiana Siste's dedicated efforts have made significant contributions
 to scientific knowledge, national and global policies, and the field of
@@ -37,15 +38,15 @@ developing management frameworks that incorporate the dialectical model.
 Her persistent endeavours have resulted in collaborative researches in
 behavioural addiction field, published in internationally renowned journals
 and implemented into comprehensive services.</p>
-<p>At Dr. Cipto Mangunkusumo General Hospital - Faculty of Medicine, Universitas
-Indonesia, Dr. Siste established and oversees the National Behavioural
-Addiction Study Center and National Behavioural Addiction Treatment Center.
-She also serves as a senior lecturer, Head of the Addiction Psychiatry
-Division, and Head of the Psychiatric Department, mentoring emerging physicians
-and researchers. Internationally, she holds positions on the Advisory Board
+<p>At Dr Cipto Mangunkusumo General Hospital - Faculty of Medicine, Universitas
+Indonesia, Dr Siste established and oversees the National Behavioural Addiction
+Study Center and National Behavioural Addiction Treatment Center. She also
+serves as a senior lecturer, Head of the Addiction Psychiatry Division,
+and Head of the Psychiatric Department, mentoring emerging physicians and
+researchers. Internationally, she holds positions on the Advisory Board
 of The WPA Addiction Psychiatry Section and is a member of the International
 Working Group for Behavioural Addiction.</p>
 <blockquote>
-<h4><strong>Plenary Title: A multi-country, multi-cultural investigation of protective and risk factors of problematic gambling behaviour</strong></h4>
+<h4><strong>Plenary Title: The State of Play : Gaming Disorder in the Indonesian Landscape And Emerging Treatment Option with DBT</strong></h4>
 </blockquote>
 <p></p>

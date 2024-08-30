@@ -1,5 +1,5 @@
 ---
-title: Dr Marc Potenza
+title: Dr Marc N Potenza
 permalink: /marc-potenza/
 variant: tiptap
 description: ""
@@ -9,9 +9,9 @@ third_nav_title: Keynote and Plenary Speakers
 <h3>Keynote Speaker</h3>
 </blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Marc_Potenza_bio_v1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Marc_Potenza_bio_v001.png">
 </div>
-<p>Dr Potenza is the Stephen M. Southwick Professor of Psychiatry, Professor
+<p>Dr Potenza is the Stephen M Southwick Professor of Psychiatry, Professor
 in the Child Study Center and Neuroscience at the Yale School of Medicine,
 and he directs the Division on Addictions Research, Center of Excellence
 in Gambling Research, Women and Addictive Disorders Core of Women's Health
@@ -42,4 +42,7 @@ He is the President-elect of the International Society of Addiction Medicine
 and is multiple principal investigator on a grant to help support its main
 annual conference, including the involvement of early career investigators
 and addiction specialists.</p>
+<blockquote>
+<h4><strong>Keynote Address: Co-Occurrences and Intersections: The Complexities of Behavioural Addictions</strong></h4>
+</blockquote>
 <p></p>

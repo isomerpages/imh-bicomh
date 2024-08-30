@@ -13,7 +13,7 @@ third_nav_title: Keynote and Plenary Speakers
 </div>
 <p>Dr Max Lam is a young investigator in neuropsychiatric genomics whose
 work spans various significant roles, including the Principal Investigator
-at the CONCISE Mental Health StudyBeyond these roles, DrLam extends his
+at the CONCISE Mental Health StudyBeyond these roles, Dr Lam extends his
 expertise as a Visiting Scientist at the Stanley Center for Psychiatric
 Research, The Broad Institute ofMIT and Harvard, and the Division of Psychiatry
 Research, Zucker Hillside Hospital in New York, USA.</p>
@@ -37,7 +37,7 @@ genomics. His leadership in the field is further exemplified by his role
 as mPI of the NIH-funded Cognitive Genomics Consortium, The PRECISE-SG100K
 Cognitive Flagship Programme, and his numerous first and last-authored
 manuscripts, which have provided substantial insights into the genetics
-of cognitive performance and psychiatric disorders. Dr. Max Lam's contributions
+of cognitive performance and psychiatric disorders. Dr Max Lam's contributions
 to science advance our understanding of the genetic underpinnings of neuropsychiatric
 conditions and cognitive functions. His work aims to pave the way for future
 research directions and therapeutic interventions in neuropsychiatry.</p>

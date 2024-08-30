@@ -9,7 +9,7 @@ third_nav_title: Keynote and Plenary Speakers
 <h3>Keynote Speaker</h3>
 </blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Peter_Jones_Bio.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Peter_Jones_Bio_v001.png">
 </div>
 <p>Prof Jones’ research interests have centred on the clinical epidemiology
 of psychotic disorders including early developmental antecedents, causes
@@ -29,3 +29,7 @@ of the School of Clinical Medicine at the University of Cambridge; he is
 a past-president of the International Early Intervention and Prevention
 in Mental Health Association (IEPA), and co-founder of Cambridge Adaptive
 Testing Ltd.</p>
+<blockquote>
+<h4><strong>Keynote Address: Psychotic Experiences, Early Intervention and Some Thoughts Against the Stream</strong></h4>
+</blockquote>
+<p></p>
