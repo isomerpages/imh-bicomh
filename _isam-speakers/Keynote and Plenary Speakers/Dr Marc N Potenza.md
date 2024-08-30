@@ -11,7 +11,7 @@ third_nav_title: Keynote and Plenary Speakers
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Marc_Potenza_bio_v1.png">
 </div>
-<p>Dr Potenza is the Stephen M. Southwick Professor of Psychiatry, Professor
+<p>Dr Potenza is the Stephen M Southwick Professor of Psychiatry, Professor
 in the Child Study Center and Neuroscience at the Yale School of Medicine,
 and he directs the Division on Addictions Research, Center of Excellence
 in Gambling Research, Women and Addictive Disorders Core of Women's Health
