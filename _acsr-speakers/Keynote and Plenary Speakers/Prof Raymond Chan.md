@@ -9,7 +9,7 @@ third_nav_title: Keynote and Plenary Speakers
 <h3>Plenary Speaker</h3>
 </blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/P_Raymond_Chan_Bio.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Raymond_Chan_Bio_v001.png">
 </div>
 <p>Dr Raymond Chan has a long-standing interest in schizophrenia and related
 disorders, and mentally at-risk individuals. His research interests include
