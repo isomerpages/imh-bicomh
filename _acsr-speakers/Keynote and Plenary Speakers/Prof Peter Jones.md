@@ -29,3 +29,7 @@ of the School of Clinical Medicine at the University of Cambridge; he is
 a past-president of the International Early Intervention and Prevention
 in Mental Health Association (IEPA), and co-founder of Cambridge Adaptive
 Testing Ltd.</p>
+<blockquote>
+<h4><strong>Keynote Address: Psychotic Experiences, Early Intervention and Some Thoughts Against the Stream</strong></h4>
+</blockquote>
+<p></p>
