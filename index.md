@@ -24,8 +24,8 @@ sections:
           description: 21 - 22 Nov 2024
           url: /isam-programme-d1/
         - title: Call for abstracts
-          description: ""
-          url: https://form.gov.sg/6644601f91cbd7c5fa6d8b14
+          description: Closed
+          url: /abstracts/
         - title: Register now
           description: ""
           url: /registration/

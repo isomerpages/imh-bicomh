@@ -4,10 +4,5 @@ permalink: /abstracts/
 variant: tiptap
 description: ""
 ---
-<p><strong>If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/6644601f91cbd7c5fa6d8b14" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
-</p>
-<div class="iframe-wrapper">
-<iframe style="width: 100%; height: 4000px" allowfullscreen="true" frameborder="0" src="https://form.gov.sg/6644601f91cbd7c5fa6d8b14"></iframe>
-</div>
-<p>Powered by <a href="https://form.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Form</a>
-</p>
+<h4>Abstract submission is now closed.  We will notify all abstract submitters on your outcome by 13 September 2024. </h4>
+<p></p>
