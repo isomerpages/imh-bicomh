@@ -25,7 +25,7 @@ sections:
           url: /isam-programme-d1/
         - title: Call for abstracts
           description: Closed
-          url: https://form.gov.sg/6644601f91cbd7c5fa6d8b14
+          url: /abstracts/
         - title: Register now
           description: ""
           url: /registration/
