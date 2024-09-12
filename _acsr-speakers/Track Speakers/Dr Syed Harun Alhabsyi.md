@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/PF_Syed_Harun_bio.png">
+</div>
 <p>Dr Syed is a Nominated Member of Parliament and council member of the
 National Youth Council. He is also the current President of Lembaga Biasiswa
 Kenangan Maulud, a 59-year old charity that supports the less privileged
