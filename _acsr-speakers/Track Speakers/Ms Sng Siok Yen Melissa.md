@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Sng_Siok_Yen_Melissa_bio.png">
+</div>
 <p>Ms Sng Siok Yen Melissa is a dedicated community psychiatric nurse with
 20 years of experience in the Institute of Mental Health (IMH)’s Community
 Mental Health Team (CMHT). In her current role with CMHT, she provides
