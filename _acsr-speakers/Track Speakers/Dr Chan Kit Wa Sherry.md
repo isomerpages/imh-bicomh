@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Chan_Kit_Wa_Sherry_bio.png">
+</div>
 <p>After graduating from HKU MBBS programme, Dr Sherry Chan underwent two
 years of psychiatry training in Hong Kong. Dr Chan thencompleted the rest
 of the training in the United Kingdom and Hong Kong.</p>
