@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Ong_Hui_Hui_Jasmine_bio.png">
+</div>
 <p>Ms Ong Hui Hui Jasmine has more than 10 years of clinical experience in
 the mental health field for both inpatient and outpatient settings.</p>
 <p>Ms Ong was conferred the Health Manpower Development Plan (HMDP) Award
