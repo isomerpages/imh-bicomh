@@ -19,8 +19,7 @@ third_nav_title: Speakers
 </a><a class="isomer-image-wrapper" href="/liaw-zi-yun/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Liaw_Zi_Yun.png"></a>
 <a class="isomer-image-wrapper" href="/sng-siok-yen-melissa/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Sng_Siok_Yen_Melissa.png">
-</a>
-<p></p>
+</a><a class="isomer-image-wrapper" href="/warut-aunjitsakul/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Warut_Aunjitsakul.png"></a>
 <p></p>
 <p></p>
 <p></p>
