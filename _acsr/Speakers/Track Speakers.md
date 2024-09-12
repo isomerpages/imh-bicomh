@@ -24,6 +24,8 @@ third_nav_title: Speakers
 <p></p>
 <p></p>
 <p></p>
+<p></p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/chung-young-chul/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Chung_Young_Chul.png"></a>
 <a class="isomer-image-wrapper" href="/korinne-northwood/">
@@ -31,7 +33,7 @@ third_nav_title: Speakers
 </a><a class="isomer-image-wrapper" href="/mizuno-masafumi/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Mizuno_Masafumi.png"></a>
 <a class="isomer-image-wrapper" href="/syed-harun-alhabsyi/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/PF_Syed_Harun.png">
-</a>
+</a><a class="isomer-image-wrapper" href="/yi-nam-suen/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Yi_nam_Suen.png"></a>
 <p></p>
 <p></p>
 <p></p>
