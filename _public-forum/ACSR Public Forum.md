@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
+<p>title</p>
 <h3><strong>20 November 2024, Tuesday, 4.00 - 5.30 PM</strong></h3>
 </blockquote>
 <p>Are you keen to learn more about current trends in the treatment of schizophrenia
@@ -13,6 +14,8 @@ Would you like to hear from a client/caregiver on their journey in living
 with schizophrenia?
 <br><strong>Come join us at this public forum!</strong>
 </p>
+<p>keen</p>
+<p>who shld attend</p>
 <p></p>
 <h4>1. Reimagining Schizophrenia Care in the Community</h4>
 <p><a href="/syed-harun-alhabsyi/" rel="noopener nofollow" target="_blank">Dr Syed Harun Alhabsyi </a>
