@@ -4,6 +4,9 @@ permalink: /acsr-public-forum/
 variant: tiptap
 description: ""
 ---
+<blockquote>
+<h4><strong>20 November 2024, Tuesday, 4.00 PM</strong></h4>
+</blockquote>
 <p>Are you keen to learn more about current trends in the treatment of schizophrenia
 and community resources available in supporting persons with schizophrenia?
 Would you like to hear from a client/caregiver on their journey in living
@@ -11,47 +14,27 @@ with schizophrenia?
 <br><strong>Come join us at this public forum!</strong>
 </p>
 <p></p>
-<p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Reimagining Schizophrenia Care in the Community</strong>
-</p>
-<p></p>
-<p>Dr Syed Harun Alhabsyi
+<p>Reimagining Schizophrenia Care in the Community</p>
+<p><a href="/syed-harun-alhabsyi/" rel="noopener nofollow" target="_blank">Dr Syed Harun Alhabsyi </a>
 <br>Medical Director &amp; Consultant Psychiatrist
 <br>The Starfish Clinic of Psychiatry &amp; Mental Wellness</p>
-<p></p>
 </li>
 </ol>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<hr>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p><strong>Navigating Complex Needs: Enhancing Case Management Practice for Individuals with Schizophrenia</strong>
-</p>
+<p>Navigating Complex Needs: Enhancing Case Management Practice for Individuals
+with Schizophrenia</p>
+<p><a href="/liaw-zi-yun/" rel="noopener nofollow" target="_blank">Ms Liaw Zi Yun</a>
+<br>Singapore Association for Mental Health</p>
 </li>
 </ol>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<hr>
 <ol start="3" data-tight="true" class="tight">
 <li>
-<p><strong>Sharing by Caregiver Dorcas</strong>
-</p>
+<p>Sharing by Caregiver Dorcas</p>
 </li>
 </ol>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
