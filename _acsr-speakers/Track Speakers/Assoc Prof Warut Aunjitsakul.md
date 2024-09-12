@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Warut_Aunjitsakul_bio.png">
+</div>
 <p>Dr Warut Aunjitsakul is a member of the WPA Psychotherapy Section, membership
 Committee of Psychiatric Association of Thailand and a leadership of Network
 of Early Career of Psychiatrist Thailand. He is also part of the Executive
