@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Yi_nam_Suen__bio.png">
+</div>
 <p>Dr. Yi-nam Suen completed her nursing training at HKU and became a registered
 practicing nurse in 2009. In 2015, she obtained her Doctor of Philosophy
 in Public Health. Dr. Suen’s research focuses on promoting physical and
