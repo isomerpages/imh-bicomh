@@ -36,7 +36,9 @@ third_nav_title: Speakers
 <a class="isomer-image-wrapper" href="/syed-harun-alhabsyi/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/PF_Syed_Harun.png">
 </a><a class="isomer-image-wrapper" href="/yi-nam-suen/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Yi_nam_Suen.png"></a>
-<p></p>
+<a class="isomer-image-wrapper" href="/zhou-huiquan/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Zhou_Huiquan.png">
+</a>
 <p></p>
 <p></p>
 </th>
@@ -47,6 +49,7 @@ third_nav_title: Speakers
 <a class="isomer-image-wrapper" href="/tor-phern-chern/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Tor_Phern_Chern.png">
 </a><a class="isomer-image-wrapper" href="/zhang-tianhong/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Zhang_Tianhong.png"></a>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
