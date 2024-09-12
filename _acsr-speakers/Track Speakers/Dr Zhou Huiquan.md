@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Zhou_Huiquan_bio.png">
+</div>
 <p>Dr Zhou Huiquan’s research interests are focused on the prediction and
 prevention of serious mental illness through the utilisation of electronic
 health records. He aims to enhance the understanding of prescription patterns
