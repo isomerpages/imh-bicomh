@@ -32,8 +32,7 @@ third_nav_title: Speakers
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/christy-hui/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Christy_Hui_v2.png"></a>
 <a class="isomer-image-wrapper" href="/lee-zhong-yi/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Lee_Zhong_Yi.png">
-</a>
-<p></p>
+</a><a class="isomer-image-wrapper" href="/ong-hui-hui-jasmine/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Ong_Hui_Hui_Jasmine.png"></a>
 <p></p>
 </th>
 </tr>
