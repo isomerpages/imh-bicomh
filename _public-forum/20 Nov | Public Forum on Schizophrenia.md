@@ -20,10 +20,7 @@ and supportive. It will provide an update on current trends in Schizophrenia
 treatment, the importance of lateral and vertical integrations of care
 f rom tertiary to primary care, the need for better community based support
 services, and the utility of cultural competence and personalised care
-in the treatment plan for Schizophrenia.</p>
-<p><a href="/syed-harun-alhabsyi/" rel="noopener nofollow" target="_blank">Dr Syed Harun Alhabsyi </a>
-<br>Medical Director &amp; Consultant Psychiatrist
-<br>The Starfish Clinic of Psychiatry &amp; Mental Wellness</p>
+in the treatment plan for Schizophrenia.</p><a class="isomer-image-wrapper" href="/syed-harun-alhabsyi/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/PF_Syed_Harun_2.png"></a>
 <hr>
 <h4>2. Navigating Complex Needs: Enhancing Case Management Practice for Individuals with Schizophrenia</h4>
 <p>Case management in the community setting is a collaborative process that
