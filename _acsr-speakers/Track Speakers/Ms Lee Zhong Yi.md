@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Lee_Zhong_Yi_bio.png">
+</div>
 <p>Ms Lee Zhong Yi has beenworking with youths and adults with psychotic
 experiences for thepast 6 years. She uses more than 10 years of lived experience
 in recoveryto connect, empower and inspire her peers towards recovery.
