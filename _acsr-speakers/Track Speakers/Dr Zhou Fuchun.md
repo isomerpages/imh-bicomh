@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Zhou_Fuchun_bio.png">
+</div>
 <p>Dr Zhou Fuchun obtained his Bachelor of Medicine (MD equivalent) from
 the Tianjin Medical University, and PhD in psychiatry from Capital Medical
 University.</p>
