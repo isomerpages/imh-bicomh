@@ -2,5 +2,5 @@ collections:
   public-forum:
     output: true
     order:
-      - ACSR Public Forum.md
+      - 20 Nov | Public Forum on Schizophrenia.md
       - ISAM Regional Conference Public Forum.md
