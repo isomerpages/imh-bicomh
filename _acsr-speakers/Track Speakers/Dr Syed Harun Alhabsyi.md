@@ -20,4 +20,15 @@ Fund Advisory Committee.</p>
 <p>He is a keen advocate of improving access to mental health in community,
 and of enhancing social mobility and upliftment through greater accessibility
 to education.</p>
+<h3><strong>Public Forum</strong></h3>
+<blockquote>
+<h4><strong>Title: Reimagining Schizophrenia Care in the Community</strong></h4>
+</blockquote>
+<p>The talk will suggest a reimagination of approach to improve schizophrenia
+(and psychosis) treatment in the community to make it more inclusive, effective,
+and supportive. It will provide an update on current trends in schizophrenia
+treatment, the importance of lateral and vertical integrations of care
+from tertiary to primary care, the need for better community-based support
+services, and the utility of cultural competence and personalised care
+in the treatment plan for schizophrenia.</p>
 <p></p>
