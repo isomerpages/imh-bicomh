@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Kim_Sung_Wan_bio.png">
+</div>
 <p>Dr Kim Sung-Wan research and clinical work focuses on the early identification
 and treatment of youths and young adults with severe mental illness. His
 areas of expertise include neurobiology, psychosocial intervention, community
