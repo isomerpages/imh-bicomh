@@ -21,6 +21,10 @@ third_nav_title: Speakers
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Sng_Siok_Yen_Melissa.png">
 </a>
 <p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/chung-young-chul/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Chung_Young_Chul.png"></a>
 <a class="isomer-image-wrapper" href="/korinne-northwood/">
@@ -31,13 +35,15 @@ third_nav_title: Speakers
 </a>
 <p></p>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="/tor-phern-chern/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Tor_Phern_Chern.png"></a>
+<p></p>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/christy-hui/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Christy_Hui_v2.png"></a>
 <a class="isomer-image-wrapper" href="/lee-zhong-yi/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Lee_Zhong_Yi.png">
 </a><a class="isomer-image-wrapper" href="/ong-hui-hui-jasmine/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Ong_Hui_Hui_Jasmine.png"></a>
-<p></p>
+<a class="isomer-image-wrapper" href="/tor-phern-chern/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Tor_Phern_Chern.png">
+</a>
 </th>
 </tr>
 </tbody>
