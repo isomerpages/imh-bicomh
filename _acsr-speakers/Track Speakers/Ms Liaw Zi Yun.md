@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Liaw_Zi_Yun_bio.png">
+</div>
 <p>Ms Liaw Zi Yun&nbsp;is the Team Lead of the Mobile Support Team (COMIT)
 at the Singapore Association for Mental Health (SAMH). She holds a Graduate
 Diploma in Social Work and brings over 8 years of experience in community-based
