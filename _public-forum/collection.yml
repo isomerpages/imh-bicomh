@@ -2,6 +2,6 @@ collections:
   public-forum:
     output: true
     order:
-      - ISAM Regional Conference Public Forum.md
       - ACSR Public Forum.md
+      - ISAM Regional Conference Public Forum.md
       - Outline.md
