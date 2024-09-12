@@ -14,27 +14,14 @@ with schizophrenia?
 <br><strong>Come join us at this public forum!</strong>
 </p>
 <p></p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Reimagining Schizophrenia Care in the Community</p>
+<h4>1. Reimagining Schizophrenia Care in the Community</h4>
 <p><a href="/syed-harun-alhabsyi/" rel="noopener nofollow" target="_blank">Dr Syed Harun Alhabsyi </a>
 <br>Medical Director &amp; Consultant Psychiatrist
 <br>The Starfish Clinic of Psychiatry &amp; Mental Wellness</p>
-</li>
-</ol>
 <hr>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p>Navigating Complex Needs: Enhancing Case Management Practice for Individuals
-with Schizophrenia</p>
+<h4>2. Navigating Complex Needs: Enhancing Case Management Practice for Individuals with Schizophrenia</h4>
 <p><a href="/liaw-zi-yun/" rel="noopener nofollow" target="_blank">Ms Liaw Zi Yun</a>
 <br>Singapore Association for Mental Health</p>
-</li>
-</ol>
 <hr>
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p>Sharing by Caregiver Dorcas</p>
-</li>
-</ol>
+<h4>3. Sharing by Caregiver Dorcas</h4>
 <p></p>
