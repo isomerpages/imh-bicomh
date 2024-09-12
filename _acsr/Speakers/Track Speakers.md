@@ -44,7 +44,13 @@ third_nav_title: Speakers
 </a><a class="isomer-image-wrapper" href="/ong-hui-hui-jasmine/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Ong_Hui_Hui_Jasmine.png"></a>
 <a class="isomer-image-wrapper" href="/tor-phern-chern/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Tor_Phern_Chern.png">
-</a>
+</a><a class="isomer-image-wrapper" href="/zhang-tianhong/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Zhang_Tianhong.png"></a>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 </th>
 </tr>
 </tbody>
