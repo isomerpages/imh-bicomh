@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
-<h4><strong>22 November 2024, Thursday, 2.00 - 3.30 PM</strong></h4>
+<h3><strong>22 November 2024, Thursday, 2.00 - 3.30 PM</strong></h3>
 </blockquote>
 <p><strong>Guest Speakers:</strong>
 </p>
