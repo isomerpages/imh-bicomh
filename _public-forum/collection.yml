@@ -2,6 +2,6 @@ collections:
   public-forum:
     output: true
     order:
-      - 20 Nov | Public Forum on Schizophrenia.md
+      - Public Forum on Schizophrenia.md
       - "22 Nov | Navigating Screen Time: Supporting Healthy Digital Habits for
         Children.md"
