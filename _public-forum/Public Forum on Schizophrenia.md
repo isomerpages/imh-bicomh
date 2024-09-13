@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
-<h3><strong>20 November 2024, Tuesday, 4.00 - 5.30 PM</strong></h3>
+<h3><strong>20 November 2024, Tuesday, 4.00 - 5.30 PM, One Farrer Hotel</strong></h3>
 </blockquote>
 <p>Keen to learn more about current trends in the treatment of schizophrenia
 and community resources available in supporting persons with schizophrenia?
