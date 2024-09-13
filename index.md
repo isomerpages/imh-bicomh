@@ -50,7 +50,7 @@ sections:
       id: infopic
       alt: isam_2
       subtitle: 21 - 22 November 2024
-      image: /images/ISAM_KPS_v2.png
+      image: /images/ISAM_KPS_v3.png
       url: /isam-2024/
       title: ISAM Regional Conference 2024
       description: Fostering Community Support for Behavioural Addiction Recovery
