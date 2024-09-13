@@ -40,7 +40,7 @@ sections:
   - infopic:
       id: infopic
       subtitle: 19 - 20 November 2024
-      image: /images/Strategies.jpg
+      image: /images/ACSR_PS.png
       alt: acsr_2
       url: /acsr-2024/
       title: ACSR 2024
