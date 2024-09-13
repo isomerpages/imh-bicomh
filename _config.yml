@@ -3,7 +3,7 @@ url: https://www.bicomh.com
 favicon: /images/Logos/BICOMH_Logo_2.png
 colors:
   primary-color: "#3c53a4"
-  secondary-color: "#a79a1a"
+  secondary-color: "#546dc6"
   media-colors:
     - title: media-color-one
       color: "#3c53a4"
