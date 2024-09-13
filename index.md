@@ -2,7 +2,7 @@
 layout: homepage
 title: Biennial International Congress on Mental Health 2024
 description: Brief site description here
-image: /images/previewlink.png
+image: /images/BICOMHlogo.png
 permalink: /
 notification: ""
 sections:
