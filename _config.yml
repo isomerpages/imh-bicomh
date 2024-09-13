@@ -15,7 +15,7 @@ colors:
       color: "#3c53a4"
     - title: media-color-five
       color: "#3c53a4"
-description: ""
+description: 19 - 22 November 2024
 permalink: none
 baseurl: ""
 exclude:
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging-lite.d3ul7qynb0xzrt.amplifyapp.com
 prod: https://master.d3ci0atgo6q4xf.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/BICOMHlogo.png
+shareicon: /images/Asset_1.png
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
