@@ -7,7 +7,6 @@ description: ""
 <h3><strong>Registration is open!</strong></h3><a class="isomer-image-wrapper" href="https://www.gevme.com/BICOMH-ACSR-ISAM-2024"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Register_Now_button_v3.png"></a>
 <p><em>By clicking the "Register Now" button, you have clicked on a link which leaves the BICOMH website and you will be directed to a third party website.</em>
 </p>
-<p></p>
 <p>This congress features two conferences: the 8th Asian Congress of Schizophrenia
 Research (ACSR) and International Society of Addiction Medicine (ISAM)
 Regional Conference.</p>
