@@ -2,7 +2,7 @@
 layout: homepage
 title: Biennial International Congress on Mental Health 2024
 description: 19 - 22 November 2024
-image: /images/BICOMHlogo.png
+image: /images/Asset_1.png
 permalink: /
 notification: ""
 sections:
