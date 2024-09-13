@@ -33,6 +33,13 @@ links:
         url: /isam-programme-d1/
       - title: Sponsor and Exhibitor Profiles
         url: /isam-sponsors/
+  - title: Public Forum
+    url: /acsr-public-forum/
+    sublinks:
+      - title: Public Forum on Schizophrenia
+        url: /acsr-public-forum/
+      - title: Navigating Screen Time
+        url: /isam-public-forum/
   - title: Call for Abstracts
     url: /abstracts/
   - title: Registration

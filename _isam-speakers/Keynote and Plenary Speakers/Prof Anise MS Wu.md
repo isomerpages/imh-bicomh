@@ -1,5 +1,5 @@
 ---
-title: Prof Wu MS Anise
+title: Prof Anise MS Wu
 permalink: /anise-wu/
 variant: tiptap
 description: ""
@@ -9,16 +9,15 @@ third_nav_title: Keynote and Plenary Speakers
 <h3>Plenary Speaker</h3>
 </blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Anise_Wu_bio_v001.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Plenary_Anise_Wu_Bio_v000.png">
 </div>
-<p>Prof Wu MS Anise (胡文詩) is currently a full professor in the Department
+<p>Prof Anise MS Wu (胡文詩) is currently a full professor in the Department
 of Psychology and the former Associate Dean of the Faculty of Social Sciences
 at the University of Macau. She is also an adjunct distinguished professor
 of the Southwest University of Sciences and Technology as well as a visiting
 professor of the Wenzhou Medical University. She received her bachelor,
 master, and PhD degrees from the Chinese University of Hong Kong, Hong
 Kong, and is a chartered psychologist (BPS).</p>
-<p></p>
 <p>Her research interest is the application of psychology to explaining,
 predicting, and promoting both individual and public health, with a specific
 focus on addictive behaviours (e.g., gambling, gaming, Internet use, smartphone

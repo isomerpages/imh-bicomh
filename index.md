@@ -2,7 +2,7 @@
 layout: homepage
 title: Biennial International Congress on Mental Health 2024
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/BICOMHlogo.png
 permalink: /
 notification: ""
 sections:
@@ -40,7 +40,7 @@ sections:
   - infopic:
       id: infopic
       subtitle: 19 - 20 November 2024
-      image: /images/Strategies.jpg
+      image: /images/ACSR_KPS_v2.png
       alt: acsr_2
       url: /acsr-2024/
       title: ACSR 2024
@@ -50,7 +50,7 @@ sections:
       id: infopic
       alt: isam_2
       subtitle: 21 - 22 November 2024
-      image: /images/Switch_off_power_supply_sign.jpg
+      image: /images/ISAM_KPS_v3.png
       url: /isam-2024/
       title: ISAM Regional Conference 2024
       description: Fostering Community Support for Behavioural Addiction Recovery

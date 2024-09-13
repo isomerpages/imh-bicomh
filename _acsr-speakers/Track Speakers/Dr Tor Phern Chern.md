@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Track Speakers
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Tor_Phern_Chern_bio.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Tor_Phern_Chern_bio_v2.png">
 </div>
 <p>Dr Tor Phern Chern completed his medical degree at the National University
 of Singapore under the Singapore Armed Forces Local Study Award. In his
@@ -22,3 +22,4 @@ for the NUS Yong Loo Lin School of Medicine, Duke-NUS Medical School and
 NTU Lee Kong Chian School of Medicine. He underwent advanced research and
 neurostimulation training at the Black Dog Institute, University of New
 South Wales and Toronto Western Hospital.</p>
+<p></p>

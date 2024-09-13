@@ -2,4 +2,6 @@ collections:
   public-forum:
     output: true
     order:
-      - Outline.md
+      - Public Forum on Schizophrenia.md
+      - "Navigating Screen Time: Supporting Healthy Digital Habits for
+        Children.md"
