@@ -20,8 +20,7 @@ and supportive. It will provide an update on current trends in Schizophrenia
 treatment, the importance of lateral and vertical integrations of care
 f rom tertiary to primary care, the need for better community based support
 services, and the utility of cultural competence and personalised care
-in the treatment plan for Schizophrenia.</p><a class="isomer-image-wrapper" href="/syed-harun-alhabsyi/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/PF_Syed_Harun_2.png"></a>
-<p></p>
+in the treatment plan for Schizophrenia.</p><a class="isomer-image-wrapper" href="/syed-harun-alhabsyi/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/PF_Syed_Harun_3.png"></a>
 <hr>
 <h4><strong>2. Navigating Complex Needs: Enhancing Case Management Practice for Individuals with Schizophrenia</strong></h4>
 <p>Case management in the community setting is a collaborative process that
@@ -39,8 +38,7 @@ schizophrenia, the speaker will share her insights on enhancing case management
 by incorporating the eight dimensions of wellness concept. The speaker
 will also share from her personal experiences, discussing the challenges
 she has faced in case management with individuals with schizophrenia and
-the strategies she has employed in working with them.</p><a class="isomer-image-wrapper" href="/liaw-zi-yun/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/PF_Liaw_Zi_Yun.png"></a>
-<p></p>
+the strategies she has employed in working with them.</p><a class="isomer-image-wrapper" href="/liaw-zi-yun/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/PF_Liaw_Zi_Yun_3.png"></a>
 <hr>
 <h4><strong>3. Sharing by Caregiver</strong></h4>
 <p>Dorcas has been the main caregiver for her mother, who has schizophrenia,
