@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Biennial International Congress on Mental Health 2024
-      background: /images/Hero_Image_2.png
+      background: /images/Hero_Image_3.png
       url: /registration/
       variant: center
       size: md
