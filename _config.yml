@@ -52,7 +52,7 @@ plugins:
 staging: https://staging-lite.d3ul7qynb0xzrt.amplifyapp.com
 prod: https://master.d3ci0atgo6q4xf.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/previewlink.png
+shareicon: /images/BICOMHlogo.png
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
