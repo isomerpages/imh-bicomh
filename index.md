@@ -63,22 +63,22 @@ sections:
       url: /acsr-public-forum/
       image: /images/PF_homepage.png
       alt: Image alt text
-  - infopic:
-      id: infopic
-      alt: Image alt text
-      image: /images/organisedby_logo_v3.png
   - announcements:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Call for Abstracts
-          date: 16 September 2024
-          announcement: Extended to 10 October 2024
-          link_text: Click here to submit your abstract
-          link_url: /abstracts/
         - title: Registration
           date: 16 September 2024
           announcement: Register by 30 September to lock in early bird ticket prices!
           link_text: Click here to register!
           link_url: /registration/
+        - title: Call for Abstracts
+          date: 16 September 2024
+          announcement: Extended to 10 October 2024.
+          link_text: Click here to submit your abstract
+          link_url: /abstracts/
+  - infopic:
+      id: infopic
+      alt: Image alt text
+      image: /images/organisedby_logo_v3.png
 ---
