@@ -70,7 +70,7 @@ sections:
         - title: Registration
           date: 16 September 2024
           announcement: Register by 30 September to lock in early bird ticket prices!
-          link_text: Click here to register!
+          link_text: Click here to register
           link_url: /registration/
         - title: Call for Abstracts
           date: 16 September 2024
