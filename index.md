@@ -56,6 +56,14 @@ sections:
       description: Fostering Community Support for Behavioural Addiction Recovery
       button: learn more
   - infopic:
+      title: Public Forum
+      subtitle: 20 & 22 November 2024
+      id: infopic
+      button: learn more
+      url: /acsr-public-forum/
+      image: /images/PF_homepage.png
+      alt: Image alt text
+  - infopic:
       id: infopic
       alt: Image alt text
       image: /images/organisedby_logo_v3.png
