@@ -24,7 +24,7 @@ sections:
           description: 21 - 22 Nov 2024
           url: /isam-programme-d1/
         - title: Call for abstracts
-          description: Final extension until 10 Oct
+          description: Extended until 10 Oct
           url: /abstracts/
         - title: Register now
           description: ""
