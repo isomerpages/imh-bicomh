@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
-<h3><strong>22 November 2024, Thursday, 2.00 - 3.30 PM, One Farrer Hotel</strong></h3>
+<h3><strong>22 November 2024, Thursday,</strong><br><strong>2.00 - 3.30 PM, One Farrer Hotel</strong></h3>
 </blockquote>
 <p>This public forum addresses the concerns of parents regarding their children’s
 screen time and gaming habits. With a focus on promoting healthy digital

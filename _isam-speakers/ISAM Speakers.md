@@ -15,7 +15,7 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/marc-potenza/"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Marc_Potenza_V001.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/marc-potenza/"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Keynote_MarcNPotenza_v5.png"></a>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">

@@ -1,5 +1,5 @@
 ---
-title: Dr Marc N Potenza
+title: Prof Marc N Potenza
 permalink: /marc-potenza/
 variant: tiptap
 description: ""

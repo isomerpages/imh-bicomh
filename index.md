@@ -24,7 +24,7 @@ sections:
           description: 21 - 22 Nov 2024
           url: /isam-programme-d1/
         - title: Call for abstracts
-          description: Closed
+          description: Extended until 10 Oct
           url: /abstracts/
         - title: Register now
           description: ""
@@ -55,6 +55,28 @@ sections:
       title: ISAM Regional Conference 2024
       description: Fostering Community Support for Behavioural Addiction Recovery
       button: learn more
+  - infopic:
+      title: Public Forum
+      subtitle: 20 & 22 November 2024
+      id: infopic
+      button: learn more
+      url: /acsr-public-forum/
+      image: /images/PF_homepage.png
+      alt: Image alt text
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: Registration
+          date: 30 September 2024
+          announcement: Register by 30 September to lock in early bird ticket prices!
+          link_text: Click here to register
+          link_url: /registration/
+        - title: Call for Abstracts
+          date: 10 October 2024
+          announcement: Extended until 10 October 2024.
+          link_text: Click here to submit your abstract
+          link_url: /abstracts/
   - infopic:
       id: infopic
       alt: Image alt text
