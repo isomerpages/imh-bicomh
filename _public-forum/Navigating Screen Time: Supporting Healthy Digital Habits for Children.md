@@ -15,12 +15,17 @@ discuss strategies for addiction prevention, managing screen time effectively,
 safeguarding against inappropriate content, and fostering balanced lifestyles.</p>
 <p>Target audience: Parents, Teachers, SSAs, Public</p>
 <h4><strong>1. Nurturing Resilient Children in the Digital Age: Insights from the SG-LEADS</strong></h4>
-<p>Prof Yeung Wei-Jun Jean
-<br>National University of Singapore</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/PF_Yeung_Wei_Jun_Jean.png">
+</div>
+<hr>
 <h4><strong>2. Guidance on Screen Use in Children</strong></h4>
-<p>Dr Kang Ying Qi
-<br>National University of Singapore</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/PF_Kang_Ying_Qi.png">
+</div>
+<hr>
 <h4><strong>3. Impacts of Excessive Screen Time on Children</strong></h4>
-<p>Dr Melvyn Zhang Weibin
-<br>Institute of Mental Health</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/PF_Melvyn_Zhang_Weibin.png">
+</div>
 <p></p>
