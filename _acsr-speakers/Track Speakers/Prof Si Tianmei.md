@@ -5,8 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<p>
-<br>Prof Si received her MD and PhD at PUIMH. Following a psychiatry residency
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Si_Tianmei_bio.png">
+</div>
+<p>Prof Si received her MD and PhD at PUIMH. Following a psychiatry residency
 at the First Hospital of Shanxi Medical University, Prof Si spent 2 more
 years at PUIMH as a Consultant Psychiatrist. Prior to her current roles
 at PUIMH, she undertook a research fellowship at the Research Institute
