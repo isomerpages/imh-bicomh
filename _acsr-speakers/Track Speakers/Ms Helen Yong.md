@@ -5,3 +5,23 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
+<p></p>
+<p>Ms Helen Yong oversees both the SAMH Mobile Support Team COMIT and CREST
+programmes as well as SAMH Group Homes (GH), walking the ground to deliver
+community interventions through home and site visits and handling crises.
+Prior to this appointment, she served as the Head of Residential Services
+and also oversaw the Aftercare Services. Ms Yong graduated with a Bachelor
+of Social Sciences from the University of Western Sydney, majoring in Applied
+Psychology. She is a Certified Psychiatric Rehabilitation Practitioner
+with the United States Psychiatric Rehabilitation Association (now known
+as PRA instead of USPRA) and is trained in Vocational Psychiatric Rehabilitation.</p>
+<p>Ms Yong is an enthusiastic individual known to exude boundless energy
+and empathy in her engagements with colleagues, clients and audience members.
+With 20 years of experiences in the mental health sector, Ms Yong delivered
+multiple trainings, workshops and talks at the Social Service Institute,
+institutes of higher learning, ministries, social service organizations
+and conferences, both locally and overseas. She is fluent in English and
+conversant in Mandarin, Hokkien and Cantonese. In her free time, Ms Yong
+enjoys the presence of family and friends and give herself 'me' days to
+recharge and cultivate inner peace.</p>
+<p></p>
