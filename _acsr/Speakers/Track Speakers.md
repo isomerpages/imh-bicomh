@@ -31,7 +31,9 @@ third_nav_title: Speakers
 <p></p>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/chung-young-chul/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Chung_Young_Chul.png"></a>
-<p></p>
+<a class="isomer-image-wrapper" href="/jonathan-poh/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Jonathan_Poh.png">
+</a>
 <p></p>
 <p></p>
 <p></p>
