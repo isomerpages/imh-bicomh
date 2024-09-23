@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Nova_Riyanti_bio.png">
+</div>
 <p>Nova Riyanti Yusuf was a Member of Parliament, The House of Representatives
 of the Republic of Indonesia in 2009 – 2014, 2018 – 2019.</p>
 <p>During her term as a representative, she initiated and supported the Mental
