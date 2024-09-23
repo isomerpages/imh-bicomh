@@ -22,8 +22,7 @@ third_nav_title: Speakers
 </a><a class="isomer-image-wrapper" href="/si-tianmei/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Si_Tianmei.png"></a>
 <a class="isomer-image-wrapper" href="/warut-aunjitsakul/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Warut_Aunjitsakul.png">
-</a>
-<p></p>
+</a><a class="isomer-image-wrapper" href="/zhou-fuchun/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Zhou_Fuchun.png"></a>
 <p></p>
 <p></p>
 <p></p>
@@ -39,9 +38,8 @@ third_nav_title: Speakers
 </a><a class="isomer-image-wrapper" href="/sng-siok-yen-melissa/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Sng_Siok_Yen_Melissa.png"></a>
 <a class="isomer-image-wrapper" href="/yi-nam-suen/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Yi_nam_Suen.png">
-</a>
+</a><a class="isomer-image-wrapper" href="/zhou-huiquan/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Zhou_Huiquan.png"></a>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="/zhou-fuchun/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Zhou_Fuchun.png"></a>
 <p></p>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/helen-yong/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Helen_Yong.png"></a>
@@ -56,7 +54,7 @@ third_nav_title: Speakers
 </a>
 <p></p>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="/zhou-huiquan/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Zhou_Huiquan.png"></a>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
