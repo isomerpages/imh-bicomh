@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Helen_Yong_bio.png">
+</div>
 <p>Ms Helen Yong oversees both the SAMH Mobile Support Team COMIT and CREST
 programmes as well as SAMH Group Homes (GH), walking the ground to deliver
 community interventions through home and site visits and handling crises.
