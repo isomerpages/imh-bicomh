@@ -24,10 +24,6 @@ third_nav_title: Speakers
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Warut_Aunjitsakul.png">
 </a><a class="isomer-image-wrapper" href="/zhou-fuchun/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Zhou_Fuchun.png"></a>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/chung-young-chul/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Chung_Young_Chul.png"></a>
 <a class="isomer-image-wrapper" href="/jonathan-poh/">
@@ -52,9 +48,6 @@ third_nav_title: Speakers
 <a class="isomer-image-wrapper" href="/zhang-tianhong/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Zhang_Tianhong.png">
 </a>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
