@@ -6,6 +6,9 @@ description: ""
 third_nav_title: Track Speakers
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Jonathan_Poh_bio.png">
+</div>
 <p>Mr Jonathan Poh possesses over a decade of experience in community mental
 health. His expertise encompasses the implementation of psychiatric rehabilitation
 strategies for individuals with mental health issues and their caregivers
