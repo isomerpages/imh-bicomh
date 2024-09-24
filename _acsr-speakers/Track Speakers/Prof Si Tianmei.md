@@ -28,6 +28,6 @@ papers in both Chinese local and international peer-reviewed journals.</p>
 <p>Prof Si is the Executive Committee member of the Chinese Society of Psychiatry
 and the Chinese Medical Association. In addition, she is Chair of the Chinese
 Schizophrenia Collaborative Group, and the past-president of Asian Schizophrenia
-Research Institute and the current president of Asian Collegium of Neuro-psychopharmacology
+Research Institute and the current president of Asian College of Neuropsychopharmacology
 .</p>
 <p></p>
