@@ -7,12 +7,12 @@ description: ""
 <blockquote>
 <h3><strong>20 November 2024, Tuesday,</strong><br><strong>4.00 - 5.30 PM, One Farrer Hotel</strong></h3>
 </blockquote>
-<p>Keen to learn more about current trends in the treatment of schizophrenia
-and community resources available in supporting persons with schizophrenia?
-And hear from a client/caregiver on the journey in living with schizophrenia?
-Come join us in this public forum!</p>
-<p>Who Should Attend: Practitioners in healthcare/social service agencies,
-persons with schizophrenia and their loved ones/friends/ colleagues</p>
+<p>Join us at this public forum to learn more about the latest schizophrenia
+research and treatment, as well as the community resources available in
+supporting persons with schizophrenia.</p>
+<p>Hear from a client/caregiver on the journey in living with schizophrenia.</p>
+<p>Who should attend: Practitioners in healthcare/social service agencies,
+persons with schizophrenia and their loved ones/friends/ colleagues.</p>
 <h4><strong>1. Reimagining Schizophrenia Care in the Community</strong></h4>
 <p>The talk will suggest a reimagination of approach to improve Schizophrenia
 (and psychosis) treatment in the community to make it more inclusive, effective,
