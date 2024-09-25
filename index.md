@@ -61,7 +61,7 @@ sections:
       id: infopic
       button: learn more
       url: /acsr-public-forum/
-      image: /images/PF_homepage.png
+      image: /images/PF_homepage_v2.png
       alt: Image alt text
   - announcements:
       title: Announcements
