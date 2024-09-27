@@ -21,6 +21,7 @@ published is “Exploring the Soul Erasing Stigma: Psychological Autopsy
 of the Suicide of Two Painters” by Kompas Book Publisher. She has been
 the Secretary General of Asian Federation of Psychiatric Associations (AFPA)
 and was a Chair of Jakarta Psychiatric Association for 2 terms. Now she
-is a member of the WPA – AFPA – SPF Steering Committee on Task Force Initiative
-for the Advancement of Child and Adolescent Mental Health Services for
-Low – Middle Income Countries.</p>
+is a member of the World Psychiatric Association (WPA) – AFPA – SAARC Psychiatric
+Federation (SPF) Steering Committee on Task Force Initiative for the Advancement
+of Child and Adolescent Mental Health Services for Low – Middle Income
+Countries.</p>
