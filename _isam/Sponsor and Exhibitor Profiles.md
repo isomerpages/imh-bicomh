@@ -4,5 +4,34 @@ permalink: /isam-sponsors/
 variant: tiptap
 description: ""
 ---
-<a class="isomer-image-wrapper" href="https://www.lundbeck.com/sg"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ASCR Sponsors/Lundbeck_v2.png"></a>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.lundbeck.com/sg"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/ASCR Sponsors/Lundbeck_v2.png"></a>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock1.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock1.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock1.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
