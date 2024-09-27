@@ -24,6 +24,7 @@ third_nav_title: Speakers
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Yi_nam_Suen_V2.png">
 </a><a class="isomer-image-wrapper" href="/zhang-tianhong/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Zhang_Tianhong_v4.png"></a>
 <p></p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/chung-young-chul/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Chung_Young_Chul.png"></a>
 <a class="isomer-image-wrapper" href="/jonathan-poh/">
