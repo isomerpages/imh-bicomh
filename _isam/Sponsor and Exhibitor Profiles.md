@@ -4,8 +4,9 @@ permalink: /isam-sponsors/
 variant: tiptap
 description: ""
 ---
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -21,7 +22,6 @@ description: ""
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock1.png">
 </div>
@@ -31,6 +31,12 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock1.png">
 </div>
 </th>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock1.png">
+</div>
+</td>
 </tr>
 </tbody>
 </table>
