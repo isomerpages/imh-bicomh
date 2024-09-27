@@ -11,7 +11,7 @@ description: ""
 a discussion on how to support healthy digital habits for children in today’s
 technology-driven world. Learn from experts as they share strategies to
 help children manage screen use, prevent addiction, and foster a balanced
-lifestyles for your child.</p>
+lifestyle for your child.</p>
 <p>Who should attend: Parents, educators, social service agencies, and anyone
 interested in promoting the healthy development of children through responsible
 screen use.</p>
