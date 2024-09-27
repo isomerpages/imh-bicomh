@@ -18,7 +18,7 @@ skills, including Cognitive Behavioural Therapy (CBT) at the Beck Institute
 Supervision program in 2012, Advanced Psychodynamic Psychotherapy at WPA
 in 2015, Mindfulness Based Cognitive Psychotherapy (MBCT) MBCT at MindfulNoggin
 by Zindel V Segal in 2020, and CBT for Psychosis at Oxford Cognitive Therapy
-Centre in 2021.He is also interested in research and in 2022 he graduated
+Centre in 2021. He is also interested in research and in 2022 he graduated
 PhD in Psychological Medicine, School of Health &amp; Wellbeing, University
 of Glasgow.</p>
 <p>His interests are related to developing psychological interventions in
