@@ -1,5 +1,5 @@
 ---
-title: Prof Zhang Tianhong
+title: Dr Zhang Tianhong
 permalink: /zhang-tianhong/
 variant: tiptap
 description: ""

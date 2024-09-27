@@ -1,5 +1,5 @@
 ---
-title: Prof Takeuchi Hiroyoshi
+title: Assoc Prof Takeuchi Hiroyoshi
 permalink: /takeuchi-hiroyoshi/
 variant: tiptap
 description: ""
