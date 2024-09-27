@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Li_Yanhui_bio.png">
+</div>
 <p>Dr Li Yanhui earned her BSc in Biomedical Sciences from the National University
 of Singapore under the A*STAR undergraduate research scholarship, and completed
 her MD at Duke-NUS Graduate Medical School. Alongside clinical training,
