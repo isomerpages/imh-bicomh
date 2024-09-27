@@ -8,7 +8,7 @@ third_nav_title: Track Speakers
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Kim_Sung_Wan_bio.png">
 </div>
-<p>Dr Kim Sung-Wan research and clinical work focuses on the early identification
+<p>Dr Kim Sung-Wan's research and clinical work focuses on the early identification
 and treatment of youths and young adults with severe mental illness. His
 areas of expertise include neurobiology, psychosocial intervention, community
 mental health service, as well as psychopharmacology for patients with
@@ -21,5 +21,6 @@ Korea.</p>
 340 in Science Citation Index (SCI) journals. He also serves as the Associate
 Editor for Early Intervention in Psychiatry and Clinical Psychopharmacology
 and Neuroscience and as a guest Editor for Frontiers in Psychiatry. He
-is the Vice President of the Asia Pacific region in the IEPA.</p>
+is the Vice President of the Asia Pacific region in the International Early
+Intervention and Prevention in Mental Health Association (IEPA).</p>
 <p></p>
