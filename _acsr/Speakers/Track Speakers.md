@@ -14,7 +14,7 @@ third_nav_title: Speakers
 <tbody>
 <tr>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/sherry-chan/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Sherry_Chan.png"></a>
-<a class="isomer-image-wrapper" href="/christy-hui/">
+<a class="isomer-image-wrapper" href="/christy-hui-lai-ming/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Christy_Hui_v2.png">
 </a><a class="isomer-image-wrapper" href="/korinne-northwood/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Korinne_Northwood.png"></a>
 <a class="isomer-image-wrapper" href="/li-yanhui/">
