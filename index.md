@@ -23,11 +23,11 @@ sections:
         - title: ISAM Programme
           description: 21 - 22 Nov 2024
           url: /isam-programme-d1/
-        - title: Call for abstracts
-          description: Extended until 10 Oct
-          url: /abstracts/
+        - title: Public Forum Registration
+          description: Registration is free!
+          url: /acsr-public-forum/
         - title: Register now
-          description: ""
+          description: Early bird rates extended!
           url: /registration/
   - infobar:
       title: About the Congress
@@ -56,27 +56,30 @@ sections:
       description: Fostering Community Support for Behavioural Addiction Recovery
       button: learn more
   - infopic:
-      title: Public Forum
+      title: Public Forums
       subtitle: 20 & 22 November 2024
       id: infopic
       button: learn more
       url: /acsr-public-forum/
-      image: /images/PF_homepage_v2.png
+      image: /images/PF_homepage_v30sep.png
       alt: Image alt text
+      description: Join us at our public forums for the latest schizophrenia research
+        and treatment and healthy digital habits for children in today’s
+        technology-driven world.
   - announcements:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Registration
-          date: 30 September 2024
-          announcement: Register by 30 September to lock in early bird ticket prices!
-          link_text: Click here to register
-          link_url: /registration/
         - title: Call for Abstracts
           date: 10 October 2024
           announcement: Extended until 10 October 2024.
           link_text: Click here to submit your abstract
           link_url: /abstracts/
+        - title: Registration
+          date: 18 October 2024
+          announcement: Register by 18 October to lock in early bird ticket prices!
+          link_text: Click here to register
+          link_url: /registration/
   - infopic:
       id: infopic
       alt: Image alt text
