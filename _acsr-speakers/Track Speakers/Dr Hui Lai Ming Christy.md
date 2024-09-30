@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Track Speakers
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Christy_Hui_bio_v2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Christy_Hui_bio_v30sep.png">
 </div>
 <p>Dr Hui Lai Ming Christy is currently an Associate Professor at the Department
 of Psychiatry, University of Hong Kong (HKU). She has specialised in psychosis
