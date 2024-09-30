@@ -4,7 +4,8 @@ permalink: /registration/
 variant: tiptap
 description: ""
 ---
-<h3>Registration is open!</h3><a class="isomer-image-wrapper" href="https://www.gevme.com/BICOMH-ACSR-ISAM-2024"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Register_Now_button_v3.png"></a>
+<h3>Registration is open!</h3>
+<p></p><a class="isomer-image-wrapper" href="https://www.gevme.com/BICOMH-ACSR-ISAM-2024"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/reg_now_v30sep.png"></a>
 <p>This congress features two conferences: the 8th Asian Congress of Schizophrenia
 Research (ACSR) and International Society of Addiction Medicine (ISAM)
 Regional Conference.</p>
