@@ -18,7 +18,7 @@ recovery and fostering community support for behavioural addiction recovery.</p>
 <p>Eligible social service agencies may refer to the following Professional
 Capability Grant (PCG) <strong><a href="https://www.ncss.gov.sg/social-service-agencies/funding-schemes-and-common-services/funding/professional-capability-grant" rel="noopener nofollow" target="_blank">here</a> </strong>for
 more information on the eligibility criteria and application process of
-the PCG training grant.</p>
+the PCG training grant. For more information, please email <a href="mailto:PCG_Enquiries@ncss.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PCG_Enquiries@ncss.gov.sg</a>.</p>
 <p><strong>Category A:</strong> All countries not listed under category B</p>
 <p><strong>Category B:</strong> (1) Bangladesh, (2) Cambodia, (3) India, (4)
 Laos, (5) Myanmar, (6) Nepal, (7) Pakistan, (8) Philippines, (9) Sri Lanka,
