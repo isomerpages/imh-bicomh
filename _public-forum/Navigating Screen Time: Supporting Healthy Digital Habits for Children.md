@@ -30,5 +30,6 @@ screen use.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/PF_Melvyn_Zhang_Weibin.png">
 </div>
+<hr>
 <p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/66ea2fdc9c3079bcacf57aae"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF_reg_button_v30sep.png"></a>
 <p></p>
