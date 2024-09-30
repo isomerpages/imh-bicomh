@@ -63,6 +63,7 @@ sections:
       url: /acsr-public-forum/
       image: /images/PF_homepage_v2.png
       alt: Image alt text
+      description: Registration is free!
   - announcements:
       title: Announcements
       id: announcements
