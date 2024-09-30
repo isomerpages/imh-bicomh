@@ -25,7 +25,7 @@ sections:
           url: /isam-programme-d1/
         - title: Public Forum Registration
           description: Registration is free!
-          url: /abstracts/
+          url: /acsr-public-forum/
         - title: Register now
           description: Early bird rates extended!
           url: /registration/
