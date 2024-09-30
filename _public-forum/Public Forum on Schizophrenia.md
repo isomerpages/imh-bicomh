@@ -7,6 +7,9 @@ description: ""
 <blockquote>
 <h3><strong>20 November 2024, Tuesday,</strong><br><strong>4.00 - 5.30 PM, One Farrer Hotel</strong></h3>
 </blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Register_Now_button_v3.png">
+</div>
 <p>Join us at this public forum to learn more about the latest schizophrenia
 research and treatment, as well as the community resources available in
 supporting persons with schizophrenia.</p>
