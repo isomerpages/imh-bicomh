@@ -12,7 +12,7 @@ Regional Conference.</p>
 recovery and fostering community support for behavioural addiction recovery.</p>
 <p>You may sign up for either ACSR or ISAM or both conferences.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Registration_Fees_V3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/registration_v30sep.png">
 </div>
 <p><strong>Category A:</strong> All countries not listed under category B</p>
 <p><strong>Category B:</strong> (1) Bangladesh, (2) Cambodia, (3) India, (4)
