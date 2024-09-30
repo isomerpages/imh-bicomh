@@ -15,9 +15,9 @@ recovery and fostering community support for behavioural addiction recovery.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/registration_v30sep.png">
 </div>
-<p>Eligible soc serv ag may refer to the following Prof cap grant at -link-
-for more information on the eligibility criteria and application process
-for the</p>
+<p>Eligible soc serv ag may refer to the following Prof Cap Grant (PCG) at
+-link- For more information on the eligibility criteria and application
+process of the PCG training grant.</p>
 <p><strong>Category A:</strong> All countries not listed under category B</p>
 <p><strong>Category B:</strong> (1) Bangladesh, (2) Cambodia, (3) India, (4)
 Laos, (5) Myanmar, (6) Nepal, (7) Pakistan, (8) Philippines, (9) Sri Lanka,
