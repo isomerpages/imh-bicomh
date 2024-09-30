@@ -56,14 +56,16 @@ sections:
       description: Fostering Community Support for Behavioural Addiction Recovery
       button: learn more
   - infopic:
-      title: Public Forum
+      title: Public Forums
       subtitle: 20 & 22 November 2024
       id: infopic
       button: learn more
       url: /acsr-public-forum/
       image: /images/PF_homepage_v2.png
       alt: Image alt text
-      description: Registration is free!
+      description: Join us at our public forums for the latest schizophrenia research
+        and treatment and healthy digital habits for children in today’s
+        technology-driven world.
   - announcements:
       title: Announcements
       id: announcements
