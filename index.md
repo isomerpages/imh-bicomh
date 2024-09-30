@@ -23,11 +23,11 @@ sections:
         - title: ISAM Programme
           description: 21 - 22 Nov 2024
           url: /isam-programme-d1/
-        - title: Call for abstracts
-          description: Extended until 10 Oct
+        - title: Public Forum Registration
+          description: Registration is free!
           url: /abstracts/
         - title: Register now
-          description: ""
+          description: Early bird rates extended!
           url: /registration/
   - infobar:
       title: About the Congress
