@@ -7,9 +7,6 @@ description: ""
 <blockquote>
 <h3><strong>20 November 2024, Tuesday,</strong><br><strong>4.00 - 5.30 PM, One Farrer Hotel</strong></h3>
 </blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Register_Now_button_v3.png">
-</div>
 <p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/66ea2fdc9c3079bcacf57aae"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF_reg_button.png"></a>
 <p>Join us at this public forum to learn more about the latest schizophrenia
 research and treatment, as well as the community resources available in
@@ -52,4 +49,5 @@ care for her mum as an 18 year old teenager, while also juggling her studies.
 Today, she is happily married and a stay at home mother, homeschooling
 her 5 year old son, while continuing to provide care for her mother. We
 will hear more from her personally as she shares about the ups and downs
-of her caregiving journey.</p>
+of her caregiving journey.</p><a class="isomer-image-wrapper" href="https://form.gov.sg/66ea2fdc9c3079bcacf57aae"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF_reg_button.png"></a>
+<p></p>
