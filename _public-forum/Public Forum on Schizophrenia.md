@@ -10,6 +10,10 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Register_Now_button_v3.png">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF_reg_button.png">
+</div>
 <p>Join us at this public forum to learn more about the latest schizophrenia
 research and treatment, as well as the community resources available in
 supporting persons with schizophrenia.</p>
