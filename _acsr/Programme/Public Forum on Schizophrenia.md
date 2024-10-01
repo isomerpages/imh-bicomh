@@ -1,8 +1,9 @@
 ---
 title: Public Forum on Schizophrenia
-permalink: /acsr-public-forum/
+permalink: /public-forum-on-schizophrenia/
 variant: tiptap
 description: ""
+third_nav_title: Programme
 ---
 <blockquote>
 <h3><strong>20 November 2024, Tuesday,</strong><br><strong>4.00 - 5.30 PM, One Farrer Hotel</strong></h3>
