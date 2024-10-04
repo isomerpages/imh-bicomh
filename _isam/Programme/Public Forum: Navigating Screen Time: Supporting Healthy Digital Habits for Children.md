@@ -7,7 +7,7 @@ description: ""
 third_nav_title: Programme
 ---
 <blockquote>
-<h3><strong>22 November 2024, Thursday,</strong><br><strong>2.00 - 4.00 PM, One Farrer Hotel</strong></h3>
+<h3><strong>22 November 2024, Friday,</strong><br><strong>2.00 - 4.00 PM, One Farrer Hotel</strong></h3>
 </blockquote>
 <p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/66ea2fdc9c3079bcacf57aae"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF_reg_button_v30sep2.png"></a>
 <p>Worried about your child’s screen time and gaming habits? Join us for
