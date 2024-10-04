@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Programme
 ---
 <blockquote>
-<h3><strong>20 November 2024, Tuesday,</strong><br><strong>4.00 - 5.30 PM, One Farrer Hotel</strong></h3>
+<h3><strong>20 November 2024, Wednesday,</strong><br><strong>4.00 - 5.30 PM, One Farrer Hotel</strong></h3>
 </blockquote>
 <p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/66ea2fdc9c3079bcacf57aae"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF_reg_button_v30sep2.png"></a>
 <p>Join us at this public forum to learn more about the latest schizophrenia
