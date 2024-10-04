@@ -6,9 +6,8 @@ description: ""
 third_nav_title: Keynote and Plenary Speakers
 ---
 <blockquote>
-<h3>Keynote Speaker</h3>
+<h3>Plenary Speaker</h3>
 </blockquote>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Kristiana_Siste_bio_v001.png">
 </div>
