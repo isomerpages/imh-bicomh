@@ -51,6 +51,6 @@ description: ""
 </tbody>
 </table>
 <blockquote>
-<h3>Track Speakers</h3>
+<h3></h3>
 </blockquote>
-<p>More details coming soon!</p>
+<p></p>
