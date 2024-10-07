@@ -64,7 +64,7 @@ addiction issues facing today’s youth.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Sean_Ng.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Sean_Ng_v2.png">
 </div>
 <p>With a commitment to nurturing students’ social-emotional and mental well-being,
 Sean has been a dedicated school counsellor in the Ministry of Education
@@ -88,7 +88,7 @@ their two daughters.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Devanatthan.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Devanatthan_v2.png">
 </div>
 <p>Devan is a dedicated social worker, and the co-founder and Executive Director
 of Mental ACT, a pioneering non-profit organisation that advocates for
