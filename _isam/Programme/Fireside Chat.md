@@ -30,7 +30,7 @@ youth in navigating these challenges.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Isaac_Goh.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Isaac_Goh_v2.png">
 </div>
 <p>Isaac is a passionate advocate for youth and recovery, drawing from his
 personal experience as a recovering drug addict. After completing two rehabilitation
