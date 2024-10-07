@@ -26,8 +26,8 @@ personal stories, experiences, and actionable advice on how to support
 youth in navigating these challenges.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Speaker 1: Mr Isaac Goh, Fitness Entrepreneur &amp; Advocate for Youth
-and Recovery</summary>
+<summary><strong>Speaker 1: Mr Isaac Goh, Fitness Entrepreneur &amp; Advocate for Youth and Recovery</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Isaac is a passionate advocate for youth and recovery, drawing from his
 personal experience as a recovering drug addict. After completing two rehabilitation
@@ -57,7 +57,8 @@ addiction issues facing today’s youth.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Speaker 2: Mr Sean Ng Chye Shin, Ministry of Education</summary>
+<summary><strong>Speaker 2: Mr Sean Ng Chye Shin, Ministry of Education</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>With a commitment to nurturing students’ social-emotional and mental well-being,
 Sean has been a dedicated school counsellor in the Ministry of Education
@@ -77,15 +78,58 @@ their two daughters.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Speaker 3:</summary>
+<summary><strong>Speaker 3: Mr Devanantthan S/o Tamilselvii, National Youth Council</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Devan is a dedicated social worker, and the co-founder and Executive Director
+of Mental ACT, a pioneering non-profit organisation that advocates for
+mental health within Singapore’s South-Asian community. With over a decade
+of specialised experience, he is a trained suicide first responder, committed
+to supporting individuals grappling with suicidal ideations and driving
+impactful suicide prevention initiatives. His expertise extends to working
+closely with individuals facing mental health challenges, their caregivers,
+and the broader community, ensuring holistic support and advocacy.</p>
+<p>Devan is deeply committed in community service, serving as a grassroots
+leader in Yishun and Macpherson. His actively participates with the Ministry
+of Social and Family Development and Youth Corps Singapore, dedicating
+his time to coaching, mentoring and empowering youth while championing
+mental health awareness across various platforms.</p>
+<p>He possesses a diverse set of key skills, including expertise in suicide
+prevention and intervention, mental health advocacy and support, and community
+leadership and engagement. He excels in youth mentorship and coaching,
+ensuring effective implementation of initiatives that promote mental health
+and well-being in the community.</p>
+<p>Devan’s mission is to create a resilient and supportive community where
+mental health is prioritised, and individuals are empowered to thrive.
+Through his work and volunteer efforts, he strives to break down barriers
+to mental health care, foster understanding, and build a culture of compassion
+and support.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>SPeaker 4:</summary>
+<summary><strong>Speaker 4: Mr Muhammad Syazan Bin Saad, Project Get Flamed!</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Syazan co-founded “Project Get Flamed!” in 2020 with a simple goal in
+mind: to build a positive and inclusive gaming community. The initiative
+began as a finalist project under the Ministry of Education’s “What’s Your
+Take – Youth Edition” on mental health and cyber wellness. As a core team
+member, Syazan played a pivotal role in conceptualising the project, leading
+the team in pitching and executing its ideals, which culminated in seed
+funding and the opportunity to present the project prototypes to the Minister
+of State for Education Ms Sun Xueling in 2021.</p>
+<p>Seeking to expand the project outreach and engage more youths as game
+changers, Syazan rallied youths from various polytechnics and ITEs to join
+the team, and fully realise the potential of the prototypes. His leadership
+led to successful funding under the “Our SG Fund for Digital Readiness”
+from the Infocomm Media Development Authority, enabling the productions
+of educational tools for community engagement.</p>
+<p>In 2022, Syazan and his team kick-started a series of workshops and programmes
+for schools and the wider community, engaging over 1,400 youths to date.
+He looks forward to further expanding his team, partnership, and engagement
+efforts to build a united front against toxic gaming culture.</p>
+<p>A strong advocate for community empowerment, Syazan is currently a Year
+3 Law undergraduate at Singapore Management University.</p>
 </div>
 </details>
 </div>
