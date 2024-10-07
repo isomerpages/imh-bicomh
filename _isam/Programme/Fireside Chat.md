@@ -63,6 +63,9 @@ addiction issues facing today’s youth.</p>
 <summary><strong>Speaker 2: Mr Sean Ng Chye Shin, Ministry of Education</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Sean_Ng.png">
+</div>
 <p>With a commitment to nurturing students’ social-emotional and mental well-being,
 Sean has been a dedicated school counsellor in the Ministry of Education
 since 2006. Currently serving as a Master School Counsellor in the Guidance
