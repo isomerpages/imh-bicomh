@@ -119,6 +119,9 @@ and support.</p>
 <summary><strong>Speaker 4: Mr Muhammad Syazan Bin Saad, Project Get Flamed!</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Syazan.png">
+</div>
 <p>Syazan co-founded “Project Get Flamed!” in 2020 with a simple goal in
 mind: to build a positive and inclusive gaming community. The initiative
 began as a finalist project under the Ministry of Education’s “What’s Your
