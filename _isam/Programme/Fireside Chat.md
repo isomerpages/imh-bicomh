@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Programme
 ---
-<h2><strong>What behavioural addiction issues are our youth facing?</strong></h2>
+<h2><strong>What Behavioural Addiction Issues are our Youth Facing?</strong></h2>
 <p><strong>Date: 22 November 2024, Friday | Time: 2.00pm to 3.00pm</strong>
 </p>
 <p><strong>Venue: One Farrer Hotel, Singapore</strong>
