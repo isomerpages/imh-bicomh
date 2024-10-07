@@ -29,6 +29,9 @@ youth in navigating these challenges.</p>
 <summary><strong>Speaker 1: Mr Isaac Goh, Fitness Entrepreneur &amp; Advocate for Youth and Recovery</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Isaac_Goh.png">
+</div>
 <p>Isaac is a passionate advocate for youth and recovery, drawing from his
 personal experience as a recovering drug addict. After completing two rehabilitation
 stints at the Drug Rehabilitation Centre (DRC), he transformed his life
