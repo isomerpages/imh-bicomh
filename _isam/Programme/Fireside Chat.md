@@ -87,6 +87,9 @@ their two daughters.</p>
 <summary><strong>Speaker 3: Mr Devanantthan S/o Tamilselvii, National Youth Council</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Devanatthan.png">
+</div>
 <p>Devan is a dedicated social worker, and the co-founder and Executive Director
 of Mental ACT, a pioneering non-profit organisation that advocates for
 mental health within Singapore’s South-Asian community. With over a decade
