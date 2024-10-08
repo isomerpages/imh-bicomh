@@ -39,4 +39,38 @@ International Research Consortium.</p>
 <blockquote>
 <h4><strong>Plenary Title: Maintenance of Patients with Remitted Psychosis: Is it Possible to Reduce or Discontinue Antipsychotics?</strong></h4>
 </blockquote>
+<p>Patients in a remitted state of schizophrenia face a dilemma: should they
+improve their quality of life by reducing antipsychotics or should they
+maintain on stable dose to prevent a relapse. Clinical guidelines suggest
+a chance to stop antipsychotics after remitted from first episode psychosis
+for a period of time, but provide no guidance regarding how to discontinue
+medications safely. We tested in real world practice if an operationalised
+exponential guided-dose-reduction algorithm can help patients reach a lower
+effective dose, not at the expense of increased risks of relapse (the GARMED
+trial). We also depicted and examined dose-tapering trajectories as to
+explore factors associated with different tapering patterns and provide
+insights for re-evaluating the risk-to-benefit balance.</p>
+<p>We found that guided dose reduction seems to be an approach applicable
+to patients who were cooperative and conscious during dose reduction. The
+relapse rates of dose reduction group and maintenance group were less than
+20% in 2 years. A substantial proportion of patients could successfully
+reduce up to 60% of their baseline doses and experience better functioning
+and quality of life by the end of 2 years. Moreover, we collected blood
+samples under different daily doses to verify if patient’s stable condition
+could be maintained not only under an antipsychotic dose much lower than
+the generally recommended level (chlorpromazine equivalent (CPZE) 200 mg/d),
+but also a minimal plasma drug concentration of aripiprazole (120 ng/mL)
+in a subset of this cohort.</p>
+<p>However, even though the relapse risk of our dose-reduction group is comparable
+to their maintenance counterparts, a quarter of patients in the dose-reduction
+group failed to decrease any dose by the end of 2 years. This fact should
+be taken into account when considering whether tapering antipsychotics
+should be attempted. A balanced view regarding the pros and cons and a
+shared decision-making process is pivotal. Moreover, a guided dose reduction
+comprises dynamic processes with differences between individual trajectories.
+Longer term observations, more flexible tapering processes, and a closer
+monitoring of factors related to successful or failed tapering, are anticipated
+to improve outcomes of dose-reduction trials. The lessons to be learned
+from GARMED trial are not about how low the absolute dosage you can attain,
+but how to reach a relatively lower dosage safely.</p>
 <p></p>
