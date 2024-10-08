@@ -13,13 +13,9 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.boehringer-ingelheim.com/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ASCR Sponsors/BI.png"></a>
 </th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ASCR Sponsors/LeeFoundation_v2.png">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.boehringer-ingelheim.com/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ASCR Sponsors/LeeFoundation_v2.png"></a>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
