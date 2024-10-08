@@ -4,30 +4,6 @@ permalink: /acsr-sponsors/
 variant: tiptap
 description: ""
 ---
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.boehringer-ingelheim.com/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ASCR Sponsors/BI.png"></a>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ASCR Sponsors/LeeFoundation_v2.png">
-</div>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.lundbeck.com/sg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ASCR Sponsors/Lundbeck_v2.png"></a>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.otsuka.com/en/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ASCR Sponsors/Otsuka_v2.png"></a>
-</td>
-</tr>
-</tbody>
-</table>
-<hr>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -47,39 +23,6 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.lundbeck.com/sg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ASCR Sponsors/Lundbeck_v2.png"></a>
-</td>
-</tr>
-</tbody>
-</table>
-<hr>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.boehringer-ingelheim.com/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ASCR Sponsors/BI.png"></a>
-<a class="isomer-image-wrapper" href="https://www.lundbeck.com/sg">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/ASCR Sponsors/Lundbeck_v2.png">
-</a>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ASCR Sponsors/LeeFoundation_v2.png">
-</div><a class="isomer-image-wrapper" href="https://www.otsuka.com/en/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/ASCR Sponsors/Otsuka_v2.png"></a>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock1.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock1.png">
-</div>
 </td>
 </tr>
 </tbody>
