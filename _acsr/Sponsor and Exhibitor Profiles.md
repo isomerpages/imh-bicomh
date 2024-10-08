@@ -4,14 +4,17 @@ permalink: /acsr-sponsors/
 variant: tiptap
 description: ""
 ---
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.boehringer-ingelheim.com/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ASCR Sponsors/BI.png"></a>
+</td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ASCR Sponsors/LeeFoundation_v2.png">
