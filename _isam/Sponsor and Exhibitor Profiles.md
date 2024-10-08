@@ -35,10 +35,19 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.boehringer-ingelheim.com/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/ASCR Sponsors/BI.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.boehringer-ingelheim.com/"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ASCR Sponsors/BI.png"></a>
 </th>
 <td rowspan="1" colspan="1">
-<p>Profile</p>
+<p>Profile ... ... ... ... ... ... .. ... ... ... ... ... ... ... .. ...
+... ... ... ... ... ... .. ... ... ... ... ... ... ... .. ... ... ... ...
+... ... ... .. ... ... ... ... ... ... ... .. ... ... ... ... ... ... ...
+.. ... ... ... ... ... ... ... .. ... ... ... ... ... ... ... .. ... ...
+... ... ... ... ... .. ... ... ... ... ... ... ... .. ... ... ... ... ...
+... ... .. ... ... ... ... ... ... ... .. ... ... ... ... ... ... ... ..
+... ... ... ... ... ... ... .. ... ... ... ... ... ... ... .. ... ... ...
+... ... ... ... .. ... ... ... ... ... ... ... .. ... ... ... ... ... ...
+... .. ... ... ... ... ... ... ... .. ... ... ... ... ... ... ... .. ...
+... ... ... ... ... ... .. ... ... ... ... ... ... ... .. ...</p>
 </td>
 </tr>
 </tbody>
@@ -51,12 +60,12 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Sponsors</p>
-<p>Kenvue</p>
+<h4><strong>Sponsors</strong></h4>
+<h4>Kenvue</h4>
 <p>Lundbeck</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Donor</p>
+<h4><strong>Donor</strong></h4>
 <p>Lee Found</p>
 </th>
 </tr>
