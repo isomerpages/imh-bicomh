@@ -27,7 +27,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
+<hr>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -51,6 +51,7 @@ description: ""
 </tr>
 </tbody>
 </table>
+<hr>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
