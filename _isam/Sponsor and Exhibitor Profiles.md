@@ -4,9 +4,8 @@ permalink: /isam-sponsors/
 variant: tiptap
 description: ""
 ---
-<table style="minWidth: 125px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -14,30 +13,21 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.lundbeck.com/sg"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/ASCR Sponsors/Lundbeck_v2.png"></a>
-</th>
 <th rowspan="1" colspan="1">
 <p></p>
-<h4>Kenvue</h4>
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ASCR Sponsors/LeeFoundation_v2.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Sponsors/Kenvue_Isam.png">
 </div>
 </th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock1.png">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.lundbeck.com/sg"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/ASCR Sponsors/Lundbeck_v2.png"></a>
 </th>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock1.png">
-</div>
-</td>
 </tr>
 </tbody>
 </table>
