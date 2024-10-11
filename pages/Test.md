@@ -8,7 +8,7 @@ description: ""
 <p> </p>
 <div class="figure">
 <img style="width:60%" alt="BI" src="/images/ASCRSponsors/BI2.png"></div>
-
+<p style="font-size: 20px">This is dummy text. This is more dummy text. This is more dummy text. This is more dummy text. This is more dummy text. </p>
 <br><br>
 <div class="row">
   <div class="column">
