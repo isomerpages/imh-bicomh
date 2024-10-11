@@ -22,7 +22,7 @@ description: ""
   <div class="column">
     <div class="content">
 			<br><br>
-      <a href="www.smhc.sg"><img style="width:100%" alt="otsuka" src="/images/ASCRSponsors/Otsuka_v2.png"></a>
+      <a href="https://www.otsuka.com/en/"><img style="width:100%" alt="otsuka" src="/images/ASCRSponsors/Otsuka_v2.png"></a>
       <h3></h3>
       <p></p>
     </div>
