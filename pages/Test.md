@@ -32,7 +32,7 @@ description: ""
     <div class="content">
 			<h3>Donor</h3>
       <img style="width:100%" alt="Nature" src="/images/smhclogov9oct24.png">
-      <h3>Donor</h3>
+      <h3></h3>
       <p></p>
     </div>
   </div>
