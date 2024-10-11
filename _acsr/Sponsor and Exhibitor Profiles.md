@@ -4,36 +4,35 @@ permalink: /acsr-sponsors/
 variant: markdown
 description: ""
 ---
-<h3><strong>Silver Sponsor</strong></h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ASCRSponsors/BI2.png">
-</div>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<h4><strong>Lunch Sponsor</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ASCRSponsors/Lundbeck_v2.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ASCRSponsors/Otsuka_v2.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<h4><strong>Donor</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ASCRSponsors/LeeFoundation_v2.png">
-</div>
-<p></p>
-</th>
-</tr>
-</tbody>
-</table>
-<p></p>
+## Silver Sponsor
+<p> </p>
+<div class="figure">
+<img style="width:60%" alt="BI" src="/images/ASCRSponsors/BI2.png"></div>
+
+<br><br>
+<div class="row">
+  <div class="column">
+    <div class="content">
+			<h3>Lunch Sponsors</h3>
+      <a href="https://www.lundbeck.com/sg"><img style="width:100%" alt="lb" src="/images/ASCRSponsors/Lundbeck_v2.png"></a>
+      <h3></h3>
+      <p></p>
+    </div>
+  </div>
+  <div class="column">
+    <div class="content">
+			<br><br>
+      <a href="https://www.otsuka.com/en/"><img style="width:100%" alt="otsuka" src="/images/ASCRSponsors/Otsuka_v2.png"></a>
+      <h3></h3>
+      <p></p>
+    </div>
+  </div>
+  <div class="column">
+    <div class="content">
+			<h3>Donor</h3>
+      <img style="width:100%" alt="LF" src="/images/ASCRSponsors/LeeFoundation_v2.png">
+      <h3></h3>
+      <p></p>
+    </div>
+  </div>
+  </div>
