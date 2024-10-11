@@ -14,7 +14,7 @@ description: ""
   <div class="column">
     <div class="content">
 			<h3>Lunch Sponsors</h3>
-      <a href="www.smhc.sg"><img style="width:100%" alt="Mountains" src="/images/ASCRSponsors/Lundbeck_v2.png"></a>
+      <a href="www.smhc.sg"><img style="width:100%" alt="lb" src="/images/ASCRSponsors/Lundbeck_v2.png"></a>
       <h3></h3>
       <p></p>
     </div>
@@ -22,7 +22,7 @@ description: ""
   <div class="column">
     <div class="content">
 			<br><br>
-      <img style="width:100%" alt="Lights" src="/images/ASCRSponsors/Otsuka_v2.png">
+      <a href="www.smhc.sg"><img style="width:100%" alt="otsuka" src="/images/ASCRSponsors/Otsuka_v2.png"></a>
       <h3></h3>
       <p></p>
     </div>
