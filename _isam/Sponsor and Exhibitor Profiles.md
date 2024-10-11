@@ -4,31 +4,7 @@ permalink: /isam-sponsors/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Silver Sponsor</strong></h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.boehringer-ingelheim.com/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/ASCR Sponsors/BI.png"></a>
-</th>
-<td rowspan="1" colspan="1">
-<p>Profile ... ... ... ... ... ... .. ... ... ... ... ... ... ... .. ...
-... ... ... ... ... ... .. ... ... ... ... ... ... ... .. ... ... ... ...
-... ... ... .. ... ... ... ... ... ... ... .. ... ... ... ... ... ... ...
-.. ... ... ... ... ... ... ... .. ... ... ... ... ... ... ... .. ... ...
-... ... ... ... ... .. ... ... ... ... ... ... ... .. ... ... ... ... ...
-... ... .. ... ... ... ... ... ... ... .. ... ... ... ... ... ... ... ..
-... ... ... ... ... ... ... .. ... ... ... ... ... ... ... .. ... ... ...
-... ... ... ... .. ... ... ... ... ... ... ... .. ... ... ... ... ... ...
-... .. ... ... ... ... ... ... ... .. ... ... ... ... ... ... ... .. ...
-... ... ... ... ... ... .. ... ... ... ... ... ... ... .. ...</p>
-</td>
-</tr>
-</tbody>
-</table>
+<h3><strong>Silver Sponsor</strong></h3><a class="isomer-image-wrapper" href="https://www.boehringer-ingelheim.com/"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ASCR Sponsors/BI.png"></a>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
