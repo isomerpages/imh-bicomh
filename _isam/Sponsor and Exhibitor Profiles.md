@@ -4,7 +4,7 @@ permalink: /isam-sponsors/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Silver Sponsor</strong><br><br></h3>
+<h3><strong>Silver Sponsor</strong><br></h3>
 <table style="width: 0px">
 <colgroup></colgroup>
 <tbody>
