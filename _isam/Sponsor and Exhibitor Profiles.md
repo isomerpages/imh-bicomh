@@ -4,7 +4,10 @@ permalink: /isam-sponsors/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Silver Sponsor</strong></h3><a class="isomer-image-wrapper" href="https://www.boehringer-ingelheim.com/"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ASCR Sponsors/BI.png"></a>
+<h3><strong>Silver Sponsor</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ASCR Sponsors/BI.png">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
