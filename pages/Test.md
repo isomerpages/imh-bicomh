@@ -37,6 +37,3 @@ description: ""
     </div>
   </div>
 </div>
-
-
-
