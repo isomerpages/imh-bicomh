@@ -1,43 +1,38 @@
 ---
 title: Sponsor and Exhibitor Profiles
 permalink: /isam-sponsors/
-variant: tiptap
+variant: markdown
 description: ""
 ---
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.lundbeck.com/sg"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/ASCR Sponsors/Lundbeck_v2.png"></a>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock1.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock1.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock1.png">
-</div>
-</th>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emptyblock1.png">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
+## Silver Sponsor
+<p> </p>
+<div class="figure">
+<img style="width:60%" alt="BI" src="/images/ASCRSponsors/BI2.png"></div>
+
+<br><br>
+<div class="row">
+  <div class="column">
+    <div class="content">
+			<h3>Sponsors</h3>
+      <img style="width:100%" alt="Kenvue" src="/images/ISAMSponsors/Kenvue_Isam.png">
+      <h3></h3>
+      <p></p>
+    </div>
+  </div>
+  <div class="column">
+    <div class="content">
+			<br><br>
+      <a href="https://www.lundbeck.com/sg"><img style="width:100%" alt="lb" src="/images/ASCRSponsors/Lundbeck_v2.png"></a>
+      <h3></h3>
+      <p></p>
+    </div>
+  </div>
+  <div class="column">
+    <div class="content">
+			<h3>Donor</h3>
+      <img style="width:100%" alt="LF" src="/images/ASCRSponsors/LeeFoundation_v2.png">
+      <h3></h3>
+      <p></p>
+    </div>
+  </div>
+  </div>
