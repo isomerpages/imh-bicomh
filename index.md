@@ -66,23 +66,6 @@ sections:
       description: Join us at our public forums for the latest schizophrenia research
         and treatment and healthy digital habits for children in today’s
         technology-driven world.
-  - infopic:
-      title: Public Forum on Understanding Schizophrenia
-      subtitle: 20 November 2024
-      id: infopic
-      button: Register here
-      url: /acsr-public-forum/
-      image: /images/ACSR_Public_Forum.jpg
-      alt: Image alt text
-  - infopic:
-      title: "Navigating Screen Time:"
-      subtitle: 22 November 2024
-      id: infopic
-      description: Supporting Healthy Digital Habits for Children
-      button: Register here
-      url: /isam-public-forum/
-      image: /images/ISAM_Public_Forum.jpg
-      alt: Image alt text
   - announcements:
       title: Announcements
       id: announcements
