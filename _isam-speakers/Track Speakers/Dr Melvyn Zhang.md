@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Melvyn_Zhang__bio.png">
 </div>
@@ -19,4 +18,3 @@ individuals with addictive disorders.</p>
 particularly electronic and mobile interventions. Additionally, he contributes
 to the field as a member of the editorial board of the British Journal
 of Psychiatry (BJPsych).</p>
-<p></p>
