@@ -6,6 +6,9 @@ description: ""
 third_nav_title: Track Speakers
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Melvyn_Zhang__bio.png">
+</div>
 <p>Dr Melvyn Zhang is a Consultant at the Institute of Mental Health, and
 an Assistant Professor at the Lee Kong Chian School of Medicine, NTU. He
 has received esteemed awards, including the NMRC Research Training Fellowship
