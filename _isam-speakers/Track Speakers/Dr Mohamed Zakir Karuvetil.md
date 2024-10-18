@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Zakir_Karuvetil_bio.png">
+</div>
 <p>Dr Mohamed Zakir Karuvetil is a Consultant at the Institute of Mental
 Health, specialising in both general adult psychiatry and addiction medicine.</p>
 <p>Beyond his clinical responsibilities, he is actively engaged in research
