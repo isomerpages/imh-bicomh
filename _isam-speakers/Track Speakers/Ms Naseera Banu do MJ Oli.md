@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Naseera_Banu_bio.png">
+</div>
 <p>Ms Naseera Banu d/o MJ Oli is a Senior Counsellor at NAMS in IMH.</p>
 <p>In her role, Naseera provides individual counselling to patients facing
 addiction issues in both inpatient and outpatient settings. She also conducts
