@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Tham_Yuen_Han_bio.png">
+</div>
 <p>Ms Tham Yuen Han heads the team at WE CARE and is actively involved in
 conducting therapy programmes and counselling. Prior to joining WE CARE,
 she practiced as a psychotherapist, at Promises Healthcare and Raffles
