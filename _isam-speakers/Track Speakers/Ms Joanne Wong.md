@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Joanne_Wong_bio.png">
+</div>
 <p>Ms Joanne Wong is a Senior Specialist at TOUCH Cyber Wellness (TCW), a
 service of TOUCH Wellness Group. She has conducted workshops for a wide
 range of audience which includes children, teenagers, educators, social
