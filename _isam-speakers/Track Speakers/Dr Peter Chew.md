@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Peter_Chew_bio.png">
+</div>
 <p>His primary research focus is on behavioural addictions, which encompasses
 a wide range of conditions, including internet gaming disorder, social
 media addiction, and problematic pornography use. He examines the conceptualisation,
