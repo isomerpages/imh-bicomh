@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Speakers
 ---
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
