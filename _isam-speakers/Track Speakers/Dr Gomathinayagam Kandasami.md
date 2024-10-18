@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Gomathinayagam_Kandasami_bio.png">
+</div>
 <p>Dr Gomathinayagam Kandasami is a Senior Consultant in IMH and is actively
 involved in clinical, training and research activities at National Addictions
 Management Service (NAMS) within IMH. He has contributed significantly
