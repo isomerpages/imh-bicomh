@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Christopher_Cheok_bio.png">
+</div>
 <p>Adjunct Associate Professor Dr Christopher Cheok is a Senior Consultant
 and Chief with the Department of Forensic Psychiatry in Institute of Mental
 Health. He also leads the Singapore Prison Psychiatric Service.</p>
