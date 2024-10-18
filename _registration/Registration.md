@@ -13,7 +13,7 @@ Regional Conference.</p>
 recovery and fostering community support for behavioural addiction recovery.</p>
 <p>You may sign up for either ACSR or ISAM or both conferences.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/registration_v30sep.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/registration_v18oct.png">
 </div>
 <p>Eligible social service agencies may refer to the following Professional
 Capability Grant (PCG) <strong><a href="https://www.ncss.gov.sg/social-service-agencies/funding-schemes-and-common-services/funding/professional-capability-grant" rel="noopener nofollow" target="_blank">here</a> </strong>for
@@ -25,3 +25,4 @@ Laos, (5) Myanmar, (6) Nepal, (7) Pakistan, (8) Philippines, (9) Sri Lanka,
 (10) Vietnam</p><a class="isomer-image-wrapper" href="https://www.gevme.com/BICOMH-ACSR-ISAM-2024"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/reg_now_v30sep.png"></a>
 <p><em>By clicking the "Register Now" button, you have clicked on a link which leaves the BICOMH website and you will be directed to a third party website.</em>
 </p>
+<p></p>
