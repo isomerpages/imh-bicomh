@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Daniel_Wong_bio.png">
+</div>
 <p>Mr Daniel Wong is a counsellor at TOUCH Mental Wellness, part of the TOUCH
 Wellness Group within TOUCH Community Services. He leads the LIVEON counselling
 service, which aims to reduce suicidal and self-harm risks among youths
