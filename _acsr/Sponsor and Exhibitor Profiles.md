@@ -6,6 +6,7 @@ description: ""
 ---
 ## Silver Sponsor
 <p> </p>
+<br><br>
 <div class="figure">
 <img style="width:60%" alt="BI" src="/images/ASCRSponsors/BI2.png"></div>
 
