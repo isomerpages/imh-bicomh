@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/SB_Viknesan_bio.png">
+</div>
 <p>Mr SB Viknesan is a Senior Counsellor at NAMS in IMH. With over 21 years
 of experience specifically in addiction-related counselling experience,
 he provides both individual and group counselling to patients dealing with
