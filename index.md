@@ -61,7 +61,7 @@ sections:
       id: infopic
       button: learn more
       url: /acsr-public-forum/
-      image: /images/PF_homepage_v30sep.png
+      image: /images/PF_v18oct.png
       alt: Image alt text
       description: Join us at our public forums for the latest schizophrenia research
         and treatment and healthy digital habits for children in today’s
