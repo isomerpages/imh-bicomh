@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Dr_Caleb_Wong_bio.png">
+</div>
 <p>Dr Caleb Wong (DClinPsy) is a Clinical Psychologist at the Institute of
 Mental Health, working with the Response, Early Intervention and Assessment
 in Community mental health (REACH) team. With over 10 years of experience
