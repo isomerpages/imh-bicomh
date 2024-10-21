@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Lambert_Low_bio.png">
+</div>
 <p>Dr Lambert Low is a Senior Consultant and Chief of the Addiction Medicine
 Department at the Institute of Mental Health (IMH). He holds the position
 of Adjunct Assistant Professor with the Lee Kong Chian School of Medicine,
