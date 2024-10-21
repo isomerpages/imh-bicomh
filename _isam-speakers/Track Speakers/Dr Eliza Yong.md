@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Dr_Eliza_Yong_bio.png">
+</div>
 <p>Dr Eliza Yong has been a Senior Counsellor at the Institute of Mental
 Health since 2009. She specialises in providing assessments and interventions
 for individuals with substance and behavioural addictions, as well as support
