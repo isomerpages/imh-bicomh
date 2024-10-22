@@ -13,7 +13,7 @@ Regional Conference.</p>
 recovery and fostering community support for behavioural addiction recovery.</p>
 <p>You may sign up for either ACSR or ISAM or both conferences.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/registration_v18oct.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Registration_Fee_vOct22.png">
 </div>
 <p>Eligible social service agencies may refer to the following Professional
 Capability Grant (PCG) <strong><a href="https://www.ncss.gov.sg/social-service-agencies/funding-schemes-and-common-services/funding/professional-capability-grant" rel="noopener nofollow" target="_blank">here</a> </strong>for
