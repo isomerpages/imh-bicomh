@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Ms_Ingrid_Amann_bio.png">
+</div>
 <p>Ms Amann has been working in the Community Mental Health Sector for nearly
 two decades. Her initial undertaking involved one of the first Community
 and Area Mental Health Service collaborations in Melbourne Australia, where
