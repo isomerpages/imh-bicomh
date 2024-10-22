@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Track Speakers
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Ms_Sarah_Ann_Tay__bio.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Ms_Sarah_Ann_Tay__bio_2.png">
 </div>
 <p>Ms Sarah Ann Tay graduated with a Bachelor of Arts (Psychology) from National
 University of Singapore. She has also attained a Post Graduate Diploma
