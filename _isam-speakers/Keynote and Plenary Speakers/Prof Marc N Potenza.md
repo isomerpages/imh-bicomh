@@ -5,9 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Keynote and Plenary Speakers
 ---
-<blockquote>
-<h3>Keynote Speaker</h3>
-</blockquote>
+<h3><strong>Keynote Speaker</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Marc_Potenza_bio_v001.png">
 </div>
@@ -43,6 +41,6 @@ and is multiple principal investigator on a grant to help support its main
 annual conference, including the involvement of early career investigators
 and addiction specialists.</p>
 <blockquote>
-<h4><strong>Keynote Address: Co-Occurrences and Intersections: The Complexities of Behavioural Addictions</strong></h4>
+<h4>Keynote Address: Co-Occurrences and Intersections: The Complexities of Behavioural Addictions</h4>
 </blockquote>
 <p></p>

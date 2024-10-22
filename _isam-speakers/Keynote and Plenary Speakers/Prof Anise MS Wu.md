@@ -5,9 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Keynote and Plenary Speakers
 ---
-<blockquote>
-<h3>Plenary Speaker</h3>
-</blockquote>
+<h3><strong>Plenary Speaker</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Plenary_Anise_Wu_Bio_v000.png">
 </div>
@@ -39,6 +37,6 @@ editor of the Journal of Clinical and Health Psychology, Applied Psychology:
 Health and Wellbeing, as well as Addictive Behaviours, which are esteemed
 multidisciplinary journals in clinical and health psychology.</p>
 <blockquote>
-<h4><strong>Plenary Title: Smartphone Addiction: Psychological Mechanisms and Relations to Social Media Use in Youths</strong></h4>
+<h4>Plenary Title: Smartphone Addiction: Psychological Mechanisms and Relations to Social Media Use in Youths</h4>
 </blockquote>
 <p></p>

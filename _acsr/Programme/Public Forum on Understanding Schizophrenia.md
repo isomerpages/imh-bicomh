@@ -1,5 +1,5 @@
 ---
-title: Public Forum on Schizophrenia
+title: Public Forum on Understanding Schizophrenia
 permalink: /public-forum-on-schizophrenia/
 variant: tiptap
 description: ""

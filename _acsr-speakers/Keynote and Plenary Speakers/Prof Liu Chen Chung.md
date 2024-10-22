@@ -5,9 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Keynote and Plenary Speakers
 ---
-<blockquote>
-<h3>Plenary Speaker</h3>
-</blockquote>
+<h3><strong>Plenary Speaker</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Liu_Chen_Chung_Bio_v001.png">
 </div>
@@ -36,8 +34,9 @@ of Schizophrenia Research (TSSR) from 2019 to 2023, and is currently an
 executive board member of ACSR (Asian College of Schizophrenia Research),
 as well as a member of TAPER (Tapering AntiPsychotics and Evaluating Recovery)
 International Research Consortium.</p>
+<h3><strong>Abstract</strong></h3>
 <blockquote>
-<h4><strong>Plenary Title: Maintenance of Patients with Remitted Psychosis: Is it Possible to Reduce or Discontinue Antipsychotics?</strong></h4>
+<h4>Plenary Title: Maintenance of Patients with Remitted Psychosis: Is it Possible to Reduce or Discontinue Antipsychotics?</h4>
 </blockquote>
 <p>Patients in a remitted state of schizophrenia face a dilemma: should they
 improve their quality of life by reducing antipsychotics or should they

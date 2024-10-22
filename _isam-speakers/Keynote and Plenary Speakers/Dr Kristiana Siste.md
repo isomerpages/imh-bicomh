@@ -5,9 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Keynote and Plenary Speakers
 ---
-<blockquote>
-<h3>Plenary Speaker</h3>
-</blockquote>
+<h3><strong>Plenary Speaker</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Kristiana_Siste_bio_v7oct.png">
 </div>
@@ -46,6 +44,6 @@ researchers. Internationally, she holds positions on the Advisory Board
 of The WPA Addiction Psychiatry Section and is a member of the International
 Working Group for Behavioural Addiction.</p>
 <blockquote>
-<h4><strong>Plenary Title: The State of Play : Gaming Disorder in the Indonesian Landscape And Emerging Treatment Option with DBT</strong></h4>
+<h4>Plenary Title: The State of Play : Gaming Disorder in the Indonesian Landscape And Emerging Treatment Option with DBT</h4>
 </blockquote>
 <p></p>

@@ -1,5 +1,5 @@
 ---
-title: Public Forum on Schizophrenia
+title: Public Forum on Understanding Schizophrenia
 permalink: /acsr-public-forum/
 variant: tiptap
 description: ""

@@ -5,9 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Keynote and Plenary Speakers
 ---
-<blockquote>
-<h3>Plenary Speaker</h3>
-</blockquote>
+<h3><strong>Plenary Speaker</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/David_Hodgins_bio_v001.png">
 </div>
@@ -22,7 +20,7 @@ cadre of graduate students. He maintains a private practice in Calgary
 in addition to providing consultation to organizations internationally.</p>
 <h3><strong>Abstract</strong></h3>
 <blockquote>
-<h4><strong>Plenary Title: Advances in Reducing Gambling Disorder</strong></h4>
+<h4>Plenary Title: Advances in Reducing Gambling Disorder</h4>
 </blockquote>
 <p>Commercial gambling is continuing to grow in many jurisdictions around
 the world. The prevalence of gambling disorder ranges from 0.1% to 5.7%
