@@ -72,10 +72,6 @@ third_nav_title: Speakers
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 </th>
 </tr>
 </tbody>
