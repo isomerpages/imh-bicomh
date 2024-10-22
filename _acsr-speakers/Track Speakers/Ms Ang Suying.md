@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Ang_Suying_bio.png">
+</div>
 <p>Ms Ang has been a case manager in EPIP for the past 17 years, and she
 journeys with young persons aged 12 – 40 years old who experience psychosis,
 supporting them and their caregivers. She provides clinical supervision
