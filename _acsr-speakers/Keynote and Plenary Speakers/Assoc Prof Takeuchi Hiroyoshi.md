@@ -5,9 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Keynote and Plenary Speakers
 ---
-<blockquote>
-<h3>Plenary Speaker</h3>
-</blockquote>
+<h3><strong>Plenary Speaker</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Takeuchi_Hiroyoshi_Bio_v001.png">
 </div>
@@ -23,7 +21,7 @@ cognitive impairment and negative symptoms, core but treatment resistant
 features in schizophrenia, while minimising side effects.</p>
 <h3><strong>Abstract</strong></h3>
 <blockquote>
-<h4><strong>Plenary Title: Optimising Antipsychotic Treatment in Acute and Maintenance Phases of Schizophrenia</strong></h4>
+<h4>Plenary Title: Optimising Antipsychotic Treatment in Acute and Maintenance Phases of Schizophrenia</h4>
 </blockquote>
 <p>Antipsychotics play a crucial role not only in improving symptoms during
 the acute phase but also in preventing relapse during the maintenance phase
