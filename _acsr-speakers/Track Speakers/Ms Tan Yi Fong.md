@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Track Speakers
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Ang_Suying_bio.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Ms_Tan_Yi_Fong__bio.png">
 </div>
 <p>Ms Tan is involved in the advocacy, training, research, and implementation
 of the department’s co-production efforts. She works closely with her clinician
