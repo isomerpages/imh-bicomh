@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Ang_Suying_bio.png">
+</div>
 <p>Ms Tan is involved in the advocacy, training, research, and implementation
 of the department’s co-production efforts. She works closely with her clinician
 colleagues and volunteers consisting of persons-in-recovery, caregivers,
