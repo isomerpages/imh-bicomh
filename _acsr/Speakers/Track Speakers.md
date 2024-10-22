@@ -41,7 +41,9 @@ third_nav_title: Speakers
 <a class="isomer-image-wrapper" href="/ong-hui-hui-jasmine/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Ong_Hui_Hui_Jasmine.png">
 </a><a class="isomer-image-wrapper" href="/sng-siok-yen-melissa/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Sng_Siok_Yen_Melissa.png"></a>
-<p></p>
+<a class="isomer-image-wrapper" href="/tan-yi-fong/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Ms_Tan_Yi_Fong.png">
+</a>
 <p></p>
 <p></p>
 <p></p><a class="isomer-image-wrapper" href="/tor-phern-chern/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Tor_Phern_Chern.png"></a>
@@ -81,4 +83,5 @@ third_nav_title: Speakers
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
