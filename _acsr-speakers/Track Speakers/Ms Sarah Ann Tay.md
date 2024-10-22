@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Ms_Sarah_Ann_Tay__bio.png">
+</div>
 <p>Ms Sarah Ann Tay graduated with a Bachelor of Arts (Psychology) from National
 University of Singapore. She has also attained a Post Graduate Diploma
 in Psychology from Monash University and Master of Science in Mental Health
