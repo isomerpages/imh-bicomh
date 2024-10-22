@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Ms_Tay_Jia_Yee_bio.png">
+</div>
 <p>Ms Tay specialises in acute mental health care. Before joining the Institute
 of Mental Health, she completed her Bachelor of Nursing with honours at
 the National University of Singapore, where she conducted research for
