@@ -42,7 +42,7 @@ description: ""
   <div class="column">
     <div class="content">
 			<h3>Exhibitor</h3>
-      <a href="https://www.lundbeck.com/sg"><img style="width:35%" align="left" alt="lb" src="/images/ASCRSponsors/Lundbeck_v2.png"></a>
+      <a href="https://www.lundbeck.com/sg"><img style="width:35%" align="left" alt="lb" src="/images/ASCRSponsors/Mitsubishi_Tanabe.png"></a>
       <h3></h3>
       <p></p>
     </div>
