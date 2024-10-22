@@ -5,9 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Keynote and Plenary Speakers
 ---
-<blockquote>
-<h3>Plenary Speaker</h3>
-</blockquote>
+<h3><strong>Plenary Speaker</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Plenary_Raymond_Chan_Bio_v4.png">
 </div>
@@ -39,7 +37,7 @@ Cognitive Neuropsychiatry, Neuropsychological Rehabilitation, and four
 local professional journals in China.</p>
 <h3><strong>Abstract</strong></h3>
 <blockquote>
-<h4><strong>Plenary Title: Negative Symptoms Assessment for Schizophrenia: Theoretical Models and Clinical Implications</strong></h4>
+<h4>Plenary Title: Negative Symptoms Assessment for Schizophrenia: Theoretical Models and Clinical Implications</h4>
 </blockquote>
 <p>Schizophrenia is a complex psychiatric disorder characterised by psychotic
 symptoms, negative symptoms and cognitive impairments. Negative symptoms
