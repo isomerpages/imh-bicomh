@@ -12,11 +12,11 @@ Regional Conference.</p>
 <p>Discussions of this four-day, hybrid event will focus on optimising psychosis
 recovery and fostering community support for behavioural addiction recovery.</p>
 <p>You may sign up for either ACSR or ISAM or both conferences.</p>
+<p><strong>Singapore's Social Service Agencies can enjoy additional 30% discount. Please contact BICOMH Secretariat at <a href="mailto:bicomh@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">bicomh@imh.com.sg</a> for further information.</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Registration_Fee_vOct22.png">
 </div>
-<p><strong>Singapore's Social Service Agencies can enjoy additional 30% discount. Please contact BICOMH Secretariat at <a href="mailto:bicomh@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">bicomh@imh.com.sg</a> for further information.</strong>
-</p>
 <p>Eligible social service agencies may refer to the following Professional
 Capability Grant (PCG) <strong><a href="https://www.ncss.gov.sg/social-service-agencies/funding-schemes-and-common-services/funding/professional-capability-grant" rel="noopener nofollow" target="_blank">here</a> </strong>for
 more information on the eligibility criteria and application process of
