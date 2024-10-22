@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Dr_Amelia_Sim_bio.png">
+</div>
 <p>As a psychiatrist specializing in psychosis and early psychosis, Dr Sim
 is dedicated to understanding and treating some of the most complex and
 challenging mental health conditions. She works closely with a team to
