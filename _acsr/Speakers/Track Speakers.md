@@ -25,7 +25,7 @@ third_nav_title: Speakers
 </a><a class="isomer-image-wrapper" href="/si-tianmei/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Si_Tianmei.png"></a>
 <a class="isomer-image-wrapper" href="/yi-nam-suen/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Yi_nam_Suen_V2.png">
-</a>
+</a><a class="isomer-image-wrapper" href="/teo-jia-yan/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Ms_Teo_Jia_Yan.png"></a>
 <p></p>
 <p></p><a class="isomer-image-wrapper" href="/zhang-tianhong/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Zhang_Tianhong_v4.png"></a>
 <p></p>
@@ -64,7 +64,9 @@ third_nav_title: Speakers
 <a class="isomer-image-wrapper" href="/sarah-ann-tay/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Ms_Sarah_Ann_Tay.png">
 </a><a class="isomer-image-wrapper" href="/sonia-sims/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Ms_Sonia_Sims.png"></a>
-<p></p>
+<a class="isomer-image-wrapper" href="/tay-jia-yee/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Ms_Tay_Jia_Yee.png">
+</a>
 <p></p>
 <p></p>
 <p></p><a class="isomer-image-wrapper" href="/warut-aunjitsakul/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Warut_Aunjitsakul.png"></a>
