@@ -21,3 +21,18 @@ the illness stage (i.e., first-episode to treatment-resistant schizophrenia)
 and the treatment phase (i.e., acute to maintenance treatment) to improve
 cognitive impairment and negative symptoms, core but treatment resistant
 features in schizophrenia, while minimising side effects.</p>
+<h3><strong>Abstract</strong></h3>
+<blockquote>
+<h4><strong>Plenary Title: Optimising Antipsychotic Treatment in Acute and Maintenance Phases of Schizophrenia</strong></h4>
+</blockquote>
+<p>Antipsychotics play a crucial role not only in improving symptoms during
+the acute phase but also in preventing relapse during the maintenance phase
+of schizophrenia. However, treatment continuity faces challenges, such
+as poor medication adherence, often due to limited illness insight and
+the adverse effects of antipsychotics. In this context, optimising antipsychotic
+treatment throughout both the acute and maintenance phases of schizophrenia
+is essential, aiming to maximise efficacy while minimising side effects.
+Strategies for optimisation include dose adjustments (increasing or decreasing
+doses), once-daily dosing regimens, and the use of long-acting injectable
+formulations. In this presentation, I will discuss each of these strategies,
+supported by recent evidence, including findings from our own studies.</p>
