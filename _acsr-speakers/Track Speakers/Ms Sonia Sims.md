@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Ms_Sonia_Sims_bio.png">
+</div>
 <p>Ms Sims is a Psychiatric Social Worker and researcher with over nine years
 of experience specialising in case management and rehabilitation interventions.
 she provides therapeutic support to individuals facing mental health challenges,
