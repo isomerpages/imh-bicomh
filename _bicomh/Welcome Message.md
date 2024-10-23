@@ -7,10 +7,10 @@ description: ""
 <p>On behalf of the Institute of Mental Health (IMH), I am delighted to invite
 you to the inaugural Biennial International Congress on Mental Health (BICOMH)
 2024.</p>
-<p>This four-day hybrid event, scheduled for November 2024, represents a
-pivotal moment for global mental health awareness and support. Mental health
-is a pressing issue; the World Health Organization (WHO) estimates that
-one in four people will experience a mental health condition in their lifetime,
+<p>This four-day event, scheduled for November 2024, represents a pivotal
+moment for global mental health awareness and support. Mental health is
+a pressing issue; the World Health Organization (WHO) estimates that one
+in four people will experience a mental health condition in their lifetime,
 underscoring the critical need for effective support systems.</p>
 <p>BICOMH will feature two conferences: the 8th Asian Congress of Schizophrenia
 Research (ACSR) on November 19-20, and the International Society of Addiction
