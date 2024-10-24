@@ -9,7 +9,7 @@ description: ""
 <p>This congress features two conferences: the 8th Asian Congress of Schizophrenia
 Research (ACSR) and International Society of Addiction Medicine (ISAM)
 Regional Conference.</p>
-<p>Discussions of this four-day, hybrid event will focus on optimising psychosis
+<p>Discussions of this four-day event will focus on optimising psychosis
 recovery and fostering community support for behavioural addiction recovery.</p>
 <p>You may sign up for either ACSR or ISAM or both conferences.</p>
 <p><strong>Singapore's Social Service Agencies can enjoy additional 30% discount. Please contact BICOMH Secretariat at <a href="mailto:bicomh@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">bicomh@imh.com.sg</a> for further information.</strong>
