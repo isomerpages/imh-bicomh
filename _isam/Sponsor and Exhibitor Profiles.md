@@ -6,7 +6,7 @@ description: ""
 ---
 ## Silver Sponsor
 <p> </p>
-<br><br>
+
 <div class="figure">
 <a href="https://www.boehringer-ingelheim.com/"><img style="width:100%" alt="BI" src="/images/ASCRSponsors/Sumitomo_and_profile.png"></a>
 </div>
