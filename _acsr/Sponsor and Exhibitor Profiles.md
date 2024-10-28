@@ -8,10 +8,22 @@ description: ""
 <p> </p>
 <br><br>
 <div class="figure">
-<a href="https://www.boehringer-ingelheim.com/"><img style="width:50%" alt="BI" src="/images/ASCRSponsors/BI2.png"></a></div>
+<a href="https://www.boehringer-ingelheim.com/"><img style="width:50%" alt="BI" src="/images/ASCRSponsors/BI2.png"></a>
+	<p>Boehringer Ingelheim develops therapeutic breakthroughs that transform lives – today and for 
+generations to come. It is divided into two business areas: Human Pharma and Animal Health. The Human Pharma business is the mainstay of the company’s activities, underpinned by an innovative portfolio.
 
-<br><br>
+ 
+Family-owned since its foundation in 1885, Boehringer Ingelheim is one of the top 20 companies in the 
+pharmaceutical industry, serving over 130 markets. Approximately 53,500 of its employees strive to 
+make a real and significant contribution to the health of humans and animals alike. In 2023, Boehringer 
+Ingelheim achieved net sales of EUR 25.6 billion
+</p>
+</div>
+
+<br> <br>
+
 <div class="row">
+	
   <div class="column">
     <div class="content">
 			<h3>Lunch Sponsors</h3>
