@@ -42,7 +42,7 @@ description: ""
 	
   <div class="column">
     <div class="content">
-			<h3>Exhibitor</h3>
+			<h3>Donor</h3>
      <img style="width:65%" align="left" alt="lb" src="/images/ASCRSponsors/LeeFoundation_v2.png">
       <h3></h3>
       <p></p>
