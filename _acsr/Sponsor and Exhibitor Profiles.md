@@ -31,7 +31,7 @@ description: ""
   <div class="column">
     <div class="content">
 			<br><br>
-      <a href="https://www.otsuka.com/en/"><img style="width:100%" alt="sumitomo" src="/images/ACSR%20Speakers/Sumitomologo.png"></a>
+      <img style="width:100%" alt="sumitomo" src="/images/ACSR%20Speakers/Sumitomologo.png">
       <h3></h3>
       <p></p>
     </div>
