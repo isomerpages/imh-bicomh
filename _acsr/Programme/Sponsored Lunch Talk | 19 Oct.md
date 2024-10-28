@@ -12,17 +12,17 @@ third_nav_title: Programme
 <blockquote>
 <h4>Experience Sharing: Two-Injection Start Regimen of Long-Acting Aripiprazole in Singapore</h4>
 </blockquote>
-<p>ABSTRACT</p>
+<h3>Abstract</h3>
 <p>.</p>
 <p>.</p>
 <p>.</p>
-<p></p>
+<h3>Speaker</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Dr_Amelia_Sim_bio.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Speaker: Dr Amelia Sim, Institute of Mental Health</strong>
+<summary><strong>Dr Amelia Sim, Institute of Mental Health</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>As a psychiatrist specializing in psychosis and early psychosis, Dr Sim
