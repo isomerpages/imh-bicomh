@@ -19,7 +19,7 @@ Ingelheim achieved net sales of EUR 25.6 billion
 </p>
 </div>
 
-<br> <br>
+<p> </p>
 
 <div class="row">
 	
