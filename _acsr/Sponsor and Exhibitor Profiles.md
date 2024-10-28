@@ -8,7 +8,7 @@ description: ""
 <p> </p>
 <br><br>
 <div class="figure">
-<img style="width:50%" alt="BI" src="/images/ASCRSponsors/BI2.png"></div>
+<a href="https://www.boehringer-ingelheim.com/"><img style="width:50%" alt="BI" src="/images/ASCRSponsors/BI2.png"></a></div>
 
 <br><br>
 <div class="row">
