@@ -8,9 +8,11 @@ description: ""
 <p> </p>
 <br><br>
 <div class="figure">
-<img style="width:50%" alt="BI" src="/images/ASCRSponsors/BI2.png"></div>
+<a href="https://www.boehringer-ingelheim.com/"><img style="width:100%" alt="BI" src="/images/ASCRSponsors/Sumitomo_and_profile.png"></a>
+</div>
+<p> </p>
 
-<br><br>
+
 <div class="row">
   <div class="column">
     <div class="content">
