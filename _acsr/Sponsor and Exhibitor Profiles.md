@@ -12,7 +12,6 @@ description: ""
 	<p>Boehringer Ingelheim develops therapeutic breakthroughs that transform lives – today and for 
 generations to come. It is divided into two business areas: Human Pharma and Animal Health. The Human Pharma business is the mainstay of the company’s activities, underpinned by an innovative portfolio.
 
- 
 Family-owned since its foundation in 1885, Boehringer Ingelheim is one of the top 20 companies in the 
 pharmaceutical industry, serving over 130 markets. Approximately 53,500 of its employees strive to 
 make a real and significant contribution to the health of humans and animals alike. In 2023, Boehringer 
