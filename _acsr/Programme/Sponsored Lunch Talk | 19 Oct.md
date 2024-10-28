@@ -5,3 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Programme
 ---
+<h3>Lunch talk sponsored by Lundbeck and Otsuka</h3>
+<p></p>
+<p></p>
