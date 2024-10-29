@@ -33,7 +33,7 @@ description: ""
   <div class="column">
     <div class="content">
 			<br><br>
-      <img style="width:100%" alt="sumitomo" src="/images/ACSR%20Speakers/Sumitomologo.png">
+      <a href="https://www.sumitomo-pharma.com/profile/office/sumitomo_pharma_asiapacific.html"><img style="width:100%" alt="sumitomo" src="/images/ACSR%20Speakers/Sumitomologo.png"></a>
       <h3></h3>
       <p></p>
     </div>
