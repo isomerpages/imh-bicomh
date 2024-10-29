@@ -8,7 +8,7 @@ description: ""
 <p> </p>
 
 <div class="figure">
-<a href="https://www.boehringer-ingelheim.com/"><img style="width:100%" alt="BI" src="/images/ASCRSponsors/Sumitomo_and_profile.png"></a>
+<a href="https://www.sumitomo-pharma.com/profile/office/sumitomo_pharma_asiapacific.html"><img style="width:100%" alt="BI" src="/images/ASCRSponsors/Sumitomo_and_profile.png"></a>
 </div>
 <p> </p>
 
