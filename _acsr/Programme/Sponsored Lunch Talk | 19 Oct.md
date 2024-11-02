@@ -12,7 +12,7 @@ third_nav_title: Programme
 <blockquote>
 <h4>Experience Sharing: Two-Injection Start Regimen of Long-Acting Aripiprazole in Singapore</h4>
 </blockquote>
-<h3>Abstract</h3>
+<h3><strong>Abstract</strong></h3>
 <p>.</p>
 <p>.</p>
 <p>.</p>
