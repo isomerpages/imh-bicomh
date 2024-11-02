@@ -9,3 +9,8 @@ third_nav_title: Programme
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/lunch_talk_sumitomo.png">
 </div>
 <p></p>
+<blockquote>
+<h4>The Synergistic Effect of D2 and 5-HT7 Antagonism in Managing Schizophrenia and Bipolar I Depression Patients for Functional Recovery</h4>
+</blockquote>
+<h4>Abstract</h4>
+<p></p>
