@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Dr_Munidasa_Winslow_bio.png">
+</div>
 <p>Dr Munidasa Winslow has been involved in general psychiatry and addiction
 medicine at the Institute of Mental Health in Singapore since 1988. He
 played a key role in establishing addiction services in both hospital and
