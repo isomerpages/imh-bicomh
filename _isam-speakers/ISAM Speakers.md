@@ -68,7 +68,9 @@ description: ""
 <a class="isomer-image-wrapper" href="/mohamed-zakir-karuvetil/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Dr_Mohamed_Zakir_Karuvetil.png">
 </a><a class="isomer-image-wrapper" href="/sb-viknesan/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Mr_SB_Viknesan.png"></a>
-<p></p>
+<a class="isomer-image-wrapper" href="/jeremy-lim/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Dr_Munidasa_Winslow.png">
+</a>
 <p></p>
 <p></p>
 </th>
@@ -87,8 +89,7 @@ description: ""
 </a><a class="isomer-image-wrapper" href="/melvyn-zhang/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Dr_Melvyn_Zhang.png"></a>
 <a class="isomer-image-wrapper" href="/peter-chew/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Dr_Peter_Chew.png">
-</a>
-<p></p>
+</a><a class="isomer-image-wrapper" href="/munidasa-winslow/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Prof_Jeremy_Lim.png"></a>
 <p></p>
 </th>
 </tr>
