@@ -21,7 +21,7 @@ description: ""
 </p>
 <h3><strong>Travelling to Singapore</strong></h3>
 <p>To ensure a smooth journey into Singapore, find out entry requirements,
-things to submit and more.</p>
-<p>For more details, please visit the Visit Singapore website: <a href="https://www.visitsingapore.com/travel-tips/travelling-to-singapore/" rel="noopener noreferrer nofollow" target="_blank">https://www.visitsingapore.com/travel-tips/travelling-to-singapore/</a>
+things to submit and more.
+<br>For more details, please visit the Visit Singapore website: <a href="https://www.visitsingapore.com/travel-tips/travelling-to-singapore/" rel="noopener noreferrer nofollow" target="_blank">https://www.visitsingapore.com/travel-tips/travelling-to-singapore/</a>
 </p>
 <p></p>
