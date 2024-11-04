@@ -6,12 +6,14 @@ description: ""
 ---
 ## Silver Sponsor
 <p> </p>
-<br><br>
-<div class="figure">
-<img style="width:50%" alt="BI" src="/images/ASCRSponsors/BI2.png"></div>
 
-<br><br>
+<div class="figure">
+<a href="https://www.boehringer-ingelheim.com/"><img style="width:100%" alt="BI" src="/images/ASCRSponsors/Sumitomo_and_profile.png"></a>
+</div>
+<p> </p>
+
 <div class="row">
+	
   <div class="column">
     <div class="content">
 			<h3>Lunch Sponsors</h3>
@@ -30,8 +32,8 @@ description: ""
   </div>
   <div class="column">
     <div class="content">
-			<h3>Donor</h3>
-      <img style="width:100%" alt="LF" src="/images/ASCRSponsors/LeeFoundation_v2.png">
+			<br><br>
+      <a href="https://www.sumitomo-pharma.com/profile/office/sumitomo_pharma_asiapacific.html"><img style="width:100%" alt="sumitomo" src="/images/ACSR%20Speakers/Sumitomologo.png"></a>
       <h3></h3>
       <p></p>
     </div>
@@ -39,10 +41,19 @@ description: ""
   </div>
 		
 <div class="row">
+	
   <div class="column">
     <div class="content">
+			<h3>Donor</h3>
+     <img style="width:65%" align="left" alt="lb" src="/images/ASCRSponsors/LeeFoundation_v2.png">
+      <h3></h3>
+      <p></p>
+    </div>
+  </div>
+	<div class="column">
+    <div class="content">
 			<h3>Exhibitor</h3>
-     <img style="width:35%" align="left" alt="lb" src="/images/ASCRSponsors/Mitsubishi_Tanabe.png">
+     <img style="width:65%" align="left" alt="lb" src="/images/ASCRSponsors/Mitsubishi_Tanabe.png">
       <h3></h3>
       <p></p>
     </div>

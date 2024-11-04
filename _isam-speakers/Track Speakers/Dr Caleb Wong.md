@@ -20,4 +20,5 @@ with students and their support systems. He is passionate about education
 and public awareness of psychology and mental health, having conducted
 numerous workshops. His clinical and research interests include the impact
 of sociocultural factors on mental health and interventions.</p>
+<hr>
 <p></p>
