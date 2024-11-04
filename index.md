@@ -66,20 +66,6 @@ sections:
       description: Join us at our public forums for the latest schizophrenia research
         and treatment and healthy digital habits for children in today’s
         technology-driven world.
-  - announcements:
-      title: Announcements
-      id: announcements
-      announcement_items:
-        - title: Registration
-          date: 31 October 2024
-          announcement: Register by 31 October to lock in early bird ticket prices!
-          link_text: Click here to register
-          link_url: /registration/
-        - title: Call for Abstracts
-          date: 10 October 2024
-          announcement: Extended until 10 October 2024.
-          link_text: Click here to submit your abstract
-          link_url: /abstracts/
   - infopic:
       id: infopic
       alt: Image alt text
