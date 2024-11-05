@@ -16,9 +16,9 @@ lifestyle for your child.</p>
 <p>Who should attend: Parents, educators, social service agencies, and anyone
 interested in promoting the healthy development of children through responsible
 screen use.</p>
-<h4><strong>1. Nurturing Resilient Children in the Digital Age: Insights from the SG-LEADS</strong></h4>
+<h4><strong>1. Screen Use and Preschool Children’s Socioemotional Wellbeing: Insights from the Singapore Longitudinal Early Development Study</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/PF_Yeung_Wei_Jun_Jean.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/PF_Chen_Xuejiao.png">
 </div>
 <hr>
 <h4><strong>2. Guidance on Screen Use in Children</strong></h4>

@@ -19,4 +19,10 @@ in 2019, Daniel has been dedicated to assisting youths and families with
 a myriad of issues which encompasses at-risk behaviours, youth delinquency,
 excessive device use, couple relationships, and mental health challenges
 in this ever-changing world of technology, social, and societal influences.</p>
+<hr>
+<p><strong>Topic:</strong> TOUCH’s Intervention Approach to Internet Addiction-Digital
+Mindset
+<br><strong>Date: </strong>22 November 2024, Friday
+<br><strong>Time: </strong>3.45 PM
+<br><strong>Breakout Session: </strong>Track 3 – Research &amp; Policies</p>
 <p></p>
