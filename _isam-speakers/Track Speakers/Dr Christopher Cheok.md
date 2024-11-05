@@ -20,4 +20,12 @@ His commitment to mental health extends to his volunteer work, where he
 has served as President of the Singapore Psychiatric Association and Chairman
 of Clarity Singapore Pte Ltd, a mental health charity that supports over
 1,000 beneficiaries.</p>
+<hr>
+<p><strong>Topic:</strong> Behavioural Addictions and Singapore Criminal Law</p>
+<p><strong>Date: </strong>21 November 2024, Thursday</p>
+<p><strong>Time: </strong>3.45 PM</p>
+<p><strong>Breakout Session: </strong>Track 3 – Research &amp; Policies</p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
