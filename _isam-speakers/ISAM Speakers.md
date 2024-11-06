@@ -64,7 +64,7 @@ description: ""
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/caleb-wong/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Dr_Caleb_Wong.png"></a>
 <a class="isomer-image-wrapper" href="/eliza-yong/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Dr_Eliza_Yong.png">
-</a><a class="isomer-image-wrapper" href="/munidasa-winslow/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Prof_Jeremy_Lim.png"></a>
+</a><a class="isomer-image-wrapper" href="/jeremy-lim/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Prof_Jeremy_Lim.png"></a>
 <a class="isomer-image-wrapper" href="/melvyn-zhang/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Dr_Melvyn_Zhang.png">
 </a><a class="isomer-image-wrapper" href="/naseera-banu-do-mj-oli/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Ms_Naseera_Banu_d_o_MJ_Oli.png"></a>
@@ -85,12 +85,13 @@ description: ""
 <a class="isomer-image-wrapper" href="/hyekyung-choo/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Dr_Hyekyung_Choo.png">
 </a><a class="isomer-image-wrapper" href="/lambert-low/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Dr_Lambert_Low.png"></a>
-<a class="isomer-image-wrapper" href="/jeremy-lim/">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Dr_Munidasa_Winslow.png">
+<a class="isomer-image-wrapper" href="/munidasa-winslow/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Dr_Munidasa_Winslow_v2.png">
 </a><a class="isomer-image-wrapper" href="/sb-viknesan/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Mr_SB_Viknesan.png"></a>
 <p></p>
 </th>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
