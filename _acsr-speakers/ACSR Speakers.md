@@ -65,7 +65,9 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/ang-suying/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Ms_Ang_Suying.png"></a>
-<p></p>
+<a class="isomer-image-wrapper" href="/christine-teo/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Ms_Christine_Teo.png">
+</a>
 <p></p>
 <p></p>
 <p></p>
@@ -114,8 +116,7 @@ description: ""
 </a>
 <p></p>
 </th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/christine-teo/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Ms_Christine_Teo.png"></a>
-<p></p>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/eric-yu-hai-chen/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Eric_Chen_v11nov.png"></a>
 <p></p>
 <p></p>
 <p></p>
