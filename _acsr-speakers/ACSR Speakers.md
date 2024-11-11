@@ -68,7 +68,9 @@ description: ""
 <a class="isomer-image-wrapper" href="/chung-young-chul/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Chung_Young_Chul.png">
 </a><a class="isomer-image-wrapper" href="/christy-hui-lai-ming/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Christy_Hui_v2.png"></a>
-<p></p>
+<a class="isomer-image-wrapper" href="/karlina-tjoa/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Karlina_Tjoa.png">
+</a>
 <p></p>
 <p></p><a class="isomer-image-wrapper" href="/korinne-northwood/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Korinne_Northwood.png"></a>
 <a class="isomer-image-wrapper" href="/li-yanhui/">
@@ -107,8 +109,7 @@ description: ""
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/christine-teo/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Ms_Christine_Teo.png"></a>
 <a class="isomer-image-wrapper" href="/helen-yong/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Helen_Yong.png">
-</a>
-<p></p>
+</a><a class="isomer-image-wrapper" href="/jonathan-poh/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Jonathan_Poh.png"></a>
 <p></p>
 <p></p>
 <p></p><a class="isomer-image-wrapper" href="/kim-sung-wan/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Kim_Sung_Wan.png"></a>
