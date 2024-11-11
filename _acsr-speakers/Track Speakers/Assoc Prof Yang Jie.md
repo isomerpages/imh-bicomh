@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Yang_Jie_bio.png">
+</div>
 <p>Jie Yang received her B.S. degree in Software Engineering from Central
 South University in 2011, and her Ph.D. degree from Central South University
 in 2017 with a focus on the multimodality neuroimaging data fusion. She
