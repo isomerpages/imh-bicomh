@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Moses_Hng_bio.png">
+</div>
 <p>Mr Moses is a dedicated Case Manager at the Institute of Mental Health
 in Singapore, bringing over 12 years of experience in supporting individuals
 with first-episode psychosis. His work on Project HOPES—a digital initiative
