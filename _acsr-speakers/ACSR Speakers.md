@@ -65,9 +65,9 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/ang-suying/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Ms_Ang_Suying.png"></a>
-<a class="isomer-image-wrapper" href="/christopher-cheok-acsr/">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Dr_Christopher_Cheok.png">
-</a>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p><a class="isomer-image-wrapper" href="/chung-young-chul/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Chung_Young_Chul.png"></a>
@@ -90,7 +90,9 @@ description: ""
 <p></p>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/sherry-chan/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Sherry_Chan.png"></a>
-<p></p>
+<a class="isomer-image-wrapper" href="/christopher-cheok-acsr/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Dr_Christopher_Cheok.png">
+</a>
 <p></p>
 <p></p>
 <p></p>
@@ -113,6 +115,7 @@ description: ""
 <p></p>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/christine-teo/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Ms_Christine_Teo.png"></a>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
