@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Karlina_Tjoa_bio.png">
+</div>
 <p>Ms Karlina is a software engineer at MOHT. She is keen to leverage technology
 to improve the lives of individuals with severe mental health illnesses.
 She is currently involved in Project HOPES, a collaborative effort with
