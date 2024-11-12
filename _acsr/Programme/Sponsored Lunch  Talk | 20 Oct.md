@@ -9,7 +9,7 @@ third_nav_title: Programme
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/lunch_talk_sumitomo.png">
 </div>
 <p></p>
-<h3><strong>Title: </strong>The Synergistic Effect of D2 and 5-HT7 Antagonism in Managing Schizophrenia and Bipolar I Depression Patients for Functional Recovery</h3>
+<h4><strong>Title: </strong>The Synergistic Effect of D2 and 5-HT7 Antagonism in Managing Schizophrenia and Bipolar I Depression Patients for Functional Recovery</h4>
 <h4><strong>Abstract</strong></h4>
 <p>This presentation explores the therapeutic potential of LATUDA (Lurasidone),
 a multireceptor targeting antipsychotic, in managing schizophrenia and
