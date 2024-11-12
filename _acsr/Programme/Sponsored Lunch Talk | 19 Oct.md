@@ -8,10 +8,7 @@ third_nav_title: Programme
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/sponsored_LT_LO.png">
 </div>
-<p></p>
-<blockquote>
-<h4>Experience Sharing: Two-Injection Start Regimen of Long-Acting Aripiprazole in Singapore</h4>
-</blockquote>
+<h4><strong>Title: </strong>Experience Sharing: Two-Injection Start Regimen of Long-Acting Aripiprazole in Singapore</h4>
 <h4><strong>Abstract</strong></h4>
 <p>This lunchtime symposium will explore Abilify Maintena 2-start injection
 from a clinician's perspective, highlighlighting practical insights through
