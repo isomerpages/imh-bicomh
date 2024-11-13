@@ -96,8 +96,7 @@ description: ""
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/sherry-chan/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Sherry_Chan.png"></a>
 <a class="isomer-image-wrapper" href="/christopher-cheok-acsr/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Dr_Christopher_Cheok.png">
-</a>
-<p></p>
+</a><a class="isomer-image-wrapper" href="/greeshma-mohan/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Ms_Greeshma_Mohan.png"></a>
 <p></p>
 <p></p>
 <p></p>
