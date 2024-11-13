@@ -29,3 +29,10 @@ addiction counselling. She has taught counselling and psychology in the
 Tampines Polytechnic and other educational institutions. Yuen Han holds
 a Master of Counselling from Monash University, and Bachelor in Social
 Science (Hons) from the NUS.</p>
+<hr>
+<p><strong>Topic: </strong>Working with Youths on Problematic Porn Use
+<br><strong>Date: </strong>21 November 2024, Thursday
+<br><strong>Time: </strong>3.45 PM
+<br><strong>Breakout Session: </strong>Track 1 – Detection &amp; Early Intervention</p>
+<p></p>
+<p></p>
