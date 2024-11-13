@@ -24,7 +24,13 @@ of Social Media Among Youth: Implications for Social Intervention</p>
 <p><strong>Date: </strong>22 November 2024, Friday
 <br><strong>Time: </strong>11.00 AM
 <br><strong>Breakout Session: </strong>Track 5 – Impacts of Gaming Disorder</p>
-<p></p>
+<p>and</p>
+<p><strong>Topic: </strong>Adolescent and Parents’ Perspectives About Gaming
+Disorder Intervention
+<br><strong>Date: </strong>22 November 2024, Friday
+<br><strong>Time: </strong>11.00 AM
+<br><strong>Breakout Session: </strong>Track 6 – Interventions for Gaming
+Disorder</p>
 <p></p>
 <p></p>
 <p></p>
