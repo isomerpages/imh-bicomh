@@ -16,4 +16,11 @@ Dr Karuvetil holds academic positions at the NUS Yong Loo Lin School of
 Medicine, Duke-NUS Medical School and LKC School of Medicine. He also teaches
 in the Graduate Diploma in Mental Health Programme for general health practitioners,
 a collaborative initiative between IMH and NUS.</p>
+<hr>
+<p><strong>Topic: </strong>Impact of Behavioural Addictions on Mental Health
+<br><strong>Date: </strong>21 November 2024, Thursday
+<br><strong>Time: </strong>3.45 PM
+<br><strong>Breakout Session: </strong>Track 3 – Research and Policies</p>
+<p></p>
+<p></p>
 <p></p>

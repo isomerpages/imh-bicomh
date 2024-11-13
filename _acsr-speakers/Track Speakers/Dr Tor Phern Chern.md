@@ -22,4 +22,10 @@ for the NUS Yong Loo Lin School of Medicine, Duke-NUS Medical School and
 NTU Lee Kong Chian School of Medicine. He underwent advanced research and
 neurostimulation training at the Black Dog Institute, University of New
 South Wales and Toronto Western Hospital.</p>
+<p>He is currently the Director Centre for Interventional Psychiatry at the
+National University Hospital&nbsp;</p>
+<p>
+<br>
+</p>
+<p></p>
 <p></p>

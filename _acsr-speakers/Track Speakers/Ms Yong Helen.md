@@ -1,12 +1,12 @@
 ---
-title: Ms Helen Yong
+title: Ms Yong Helen
 permalink: /helen-yong/
 variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Helen_Yong_bio.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Helen_Yong_bio_v13nov.png">
 </div>
 <p>Ms Helen Yong oversees both the SAMH Mobile Support Team COMIT and CREST
 programmes as well as SAMH Group Homes (GH), walking the ground to deliver

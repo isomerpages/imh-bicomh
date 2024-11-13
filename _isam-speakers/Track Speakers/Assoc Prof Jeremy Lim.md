@@ -1,12 +1,12 @@
 ---
-title: AProf Jeremy Lim
+title: Assoc Prof Jeremy Lim
 permalink: /jeremy-lim/
 variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/AProf_Jeremy_Lim_bio_v3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/AProf_Jeremy_Lim_bio_v13nov.png">
 </div>
 <p>A/Prof Jeremy Lim is the Chief Executive Officer and Co-Founder of AMILI,
 a microbiome insights company in Singapore. He has extensive experience
@@ -21,4 +21,13 @@ health interventions. He is a Senior Advisor at Boston Consulting Group,
 focusing on healthcare acquisitions and health insurance. He holds post-graduate
 qualifications in surgery and public health from institutions in the UK
 and US.</p>
+<hr>
+<p><strong>Topic: </strong>Economic &amp; Societal Implications of Behaviour
+Addictions
+<br><strong>Date: </strong>21 November 2024, Thursday
+<br><strong>Time: </strong>3.45 PM
+<br><strong>Breakout Session: </strong>Track 3 – Research and Policies</p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>

@@ -18,4 +18,14 @@ to summarise effect sizes and address inconsistencies in the literature.
 His research has notably provided a pooled prevalence rate of internet
 gaming disorder in Southeast Asia and clarified the complex relationships
 between this disorder and personality traits.</p>
+<hr>
+<p><strong>Topic: </strong>Prevalence of Gaming Disorder in Young Adults/
+University Population
+<br><strong>Date: </strong>22 November 2024, Friday
+<br><strong>Time: </strong>11.00 AM
+<br><strong>Breakout Session: </strong>Track 4 – Screen Time and Gaming Disorder
+in Singapore</p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>

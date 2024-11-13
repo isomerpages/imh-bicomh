@@ -19,4 +19,14 @@ As a Core Faculty member for the National Psychiatric Residency Programme
 in psychiatry, he also plays a vital role in educating future professionals
 through the Graduate Diploma in Mental Health Programme for General Practitioners,
 a collaborative effort between IMH and NUS.</p>
+<hr>
+<p><strong>Topic: </strong>Compulsive Sexual Behavioural Disorder, A Valid
+Diagnosis? Findings From a Retrospective Audit of Clinical Notes at National
+Addictions Management Service
+<br><strong>Date: </strong>21 November 2024, Thursday
+<br><strong>Time: </strong>3.45 PM
+<br><strong>Breakout Session: </strong>Track 1 – Detection &amp; Early Intervention</p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>

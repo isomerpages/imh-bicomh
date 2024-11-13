@@ -1,12 +1,12 @@
 ---
-title: Ms Christine Teo
+title: Ms Teo Christine
 permalink: /christine-teo/
 variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Ms_Christine_Teo_bio.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Ms_Christine_Teo_bio_v13nov.png">
 </div>
 <p>Christine Teo is a seasoned mental health professional with extensive
 experience driving transformation within Victoria’s mental health system.

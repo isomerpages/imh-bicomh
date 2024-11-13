@@ -21,4 +21,14 @@ Psychology from the National University of Singapore. She is certified
 by the Association of Professionals Specialising in Addictions Counselling
 as a Certified Substance Abuse Counsellor and a Certified Gambling Addiction
 Counsellor.</p>
+<hr>
+<p><strong>Topic: </strong>Experience of Counselling Problem Gamblers in
+Singapore
+<br><strong>Date: </strong>21 November 2024, Thursday
+<br><strong>Time: </strong>1.45 PM
+<br><strong>Breakout Session: </strong>Track 2 – Treatment and Relapse Prevention</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>

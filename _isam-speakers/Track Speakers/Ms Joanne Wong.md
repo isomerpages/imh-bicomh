@@ -23,4 +23,12 @@ trainer who has in-depth knowledge of cyber wellness. She is committed
 to bring quality cyber wellness education to youths, and believes in partnering
 with parents and the community to empower the next generation in navigating
 the digital landscape.</p>
+<hr>
+<p><strong>Topic: </strong>Digital Wellness for Youth: Strategies and Support
+for Excessive Usage
+<br><strong>Date: </strong>21 November 2024, Thursday
+<br><strong>Time: </strong>3.45 PM
+<br><strong>Breakout Session: </strong>Track 2 – Treatment and Relapse Prevention</p>
+<p></p>
+<p></p>
 <p></p>

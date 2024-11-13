@@ -18,3 +18,17 @@ individuals with addictive disorders.</p>
 particularly electronic and mobile interventions. Additionally, he contributes
 to the field as a member of the editorial board of the British Journal
 of Psychiatry (BJPsych).</p>
+<hr>
+<p><strong>Topic:</strong> Overview of Gaming Disorder
+<br><strong>Date: </strong>21 November 2024, Thursday
+<br><strong>Time: </strong>1.45 PM
+<br><strong>Breakout Session: </strong>Track 1 – Detection &amp; Early Intervention</p>
+<p>and</p>
+<p><strong>Topic: </strong>National Addictions Management Service Programmes
+<br><strong>Date: </strong>22 November 2024, Friday
+<br><strong>Time: </strong>11.00 AM
+<br><strong>Breakout Session: </strong>Track 6 – Interventions for Gaming
+Disorder</p>
+<p></p>
+<p></p>
+<p></p>

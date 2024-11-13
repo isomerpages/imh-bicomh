@@ -22,4 +22,13 @@ National Council Against Drug Abuse.</p>
 Science in Psychology. He is certified as a Clinical Supervisor and in
 various addiction counselling specialities by the Association of Professionals
 Specialising in Addictions Counselling.</p>
+<hr>
+<p><strong>Topic: </strong>Going into Recovery with Compulsive Sexual Behaviours,
+an Old Drug
+<br><strong>Date: </strong>21 November 2024, Thursday
+<br><strong>Time: </strong>3.45 PM
+<br><strong>Breakout Session: </strong>Track 2 – Treatment and Relapse Prevention</p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
