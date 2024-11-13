@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Track Speakers
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Jonathan_Poh_bio.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Jonathan_Poh_bio_v13nov.png">
 </div>
 <p>Mr Jonathan Poh possesses over a decade of experience in community mental
 health. His expertise encompasses the implementation of psychiatric rehabilitation
