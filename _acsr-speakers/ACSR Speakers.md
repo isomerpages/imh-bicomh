@@ -91,7 +91,7 @@ description: ""
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/sherry-chan/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Sherry_Chan.png"></a>
 <a class="isomer-image-wrapper" href="/christopher-cheok-acsr/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Dr_Christopher_Cheok.png">
-</a><a class="isomer-image-wrapper" href="/greeshma-mohan/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Ms_Greeshma_Mohan.png"></a>
+</a><a class="isomer-image-wrapper" href="/greeshma-mohan/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Ms_Greeshma_Mohan__1_.png"></a>
 <a class="isomer-image-wrapper" href="/christy-hui-lai-ming/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Christy_Hui_v2.png">
 </a><a class="isomer-image-wrapper" href="/kim-sung-wan/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Kim_Sung_Wan.png"></a>
