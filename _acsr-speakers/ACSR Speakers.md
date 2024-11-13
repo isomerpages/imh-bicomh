@@ -108,10 +108,7 @@ description: ""
 </a><a class="isomer-image-wrapper" href="/tay-jia-yee/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Ms_Tay_Jia_Yee.png"></a>
 <a class="isomer-image-wrapper" href="/sarah-ann-tay/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Ms_Sarah_Ann_Tay_v13nov.png">
-</a>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Yang_Jie.png">
-</div>
+</a><a class="isomer-image-wrapper" href="/yang-jie/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Yang_Jie.png"></a>
 <p></p>
 <p></p><a class="isomer-image-wrapper" href="/helen-yong/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Helen_Yong.png"></a>
 <a class="isomer-image-wrapper" href="/jonathan-poh/">
@@ -140,7 +137,9 @@ description: ""
 </a><a class="isomer-image-wrapper" href="/christine-teo/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Ms_Christine_Teo_v13nov.png"></a>
 <a class="isomer-image-wrapper" href="/tor-phern-chern/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Tor_Phern_Chern_v3.png">
-</a>
+</a><a class="isomer-image-wrapper" href="/helen-yong/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Helen_Yong.png"></a>
+<p></p>
+<p></p>
 <p></p>
 <p></p><a class="isomer-image-wrapper" href="/zhou-huiquan/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Zhou_Huiquan.png"></a>
 <p></p>
