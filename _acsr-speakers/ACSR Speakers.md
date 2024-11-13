@@ -73,8 +73,7 @@ description: ""
 </a><a class="isomer-image-wrapper" href="/karlina-tjoa/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Karlina_Tjoa.png"></a>
 <a class="isomer-image-wrapper" href="/lee-jonathan/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Dr_Lee_Jonathan.png">
-</a>
-<p></p>
+</a><a class="isomer-image-wrapper" href="/li-ling/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Li_Ling.png"></a>
 <p></p>
 <p></p>
 <p></p>
