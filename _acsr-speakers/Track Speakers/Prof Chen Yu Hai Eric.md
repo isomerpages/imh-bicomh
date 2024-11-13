@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Track Speakers
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Eric_chen_bio_v11nov.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Eric_chen_bio.png">
 </div>
 <p>Prof Eric Chen will be starting as Professor in the National Centre of
 Excellence in Youth Mental Health (Orygen) at the University of Melbourne.</p>
