@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Track Speakers
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/AProf_Jeremy_Lim_bio_v3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/AProf_Jeremy_Lim_bio_v13nov.png">
 </div>
 <p>A/Prof Jeremy Lim is the Chief Executive Officer and Co-Founder of AMILI,
 a microbiome insights company in Singapore. He has extensive experience
