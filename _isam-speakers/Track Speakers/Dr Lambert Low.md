@@ -19,4 +19,10 @@ College of Psychiatrists.</p>
 <p>His research interests include addictions, acupuncture and smoking related
 topics. Currently, he represents Institute of Mental Health at the International
 Society of Addiction Medicine.</p>
+<hr>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
