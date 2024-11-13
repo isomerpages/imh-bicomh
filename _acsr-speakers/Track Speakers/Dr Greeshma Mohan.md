@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Greeshma_Mohan_bio.png">
+</div>
 <p>Dr Greeshma Mohan is a Senior Coordinator at SCARF (Schizophrenia Research
 Foundation), with over a decade of experience working with patients and
 families affected by psychosis. She recently completed her PhD at the University
