@@ -20,7 +20,10 @@ College of Psychiatrists.</p>
 topics. Currently, he represents Institute of Mental Health at the International
 Society of Addiction Medicine.</p>
 <hr>
-<p></p>
+<p><strong>Topic: </strong>Addictions in the Young
+<br><strong>Date: </strong>22 November 2024, Friday
+<br><strong>Time: </strong>11.00 AM
+<br><strong>Breakout Session: </strong>Track 5 – Impacts of Gaming Disorder</p>
 <p></p>
 <p></p>
 <p></p>
