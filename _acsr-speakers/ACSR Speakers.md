@@ -67,8 +67,7 @@ description: ""
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/ang-suying/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Ms_Ang_Suying.png"></a>
 <a class="isomer-image-wrapper" href="/choi-sunah/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Dr_Choi_Sunah.png">
-</a>
-<p></p>
+</a><a class="isomer-image-wrapper" href="/eugenie-choe/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Eugenie_Choe_v13nov.png"></a>
 <p></p>
 <p></p>
 <p></p>
