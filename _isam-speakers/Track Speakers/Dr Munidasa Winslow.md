@@ -17,4 +17,11 @@ where he is the Chief Executive Officer and a Senior Consultant Psychiatrist.
 He is recognised as an expert in addiction and impulse control disorders,
 including alcohol and substance dependence, gambling, gaming, and sexual
 compulsivity, and is a frequent speaker at international conferences.</p>
+<hr>
+<p><strong>Topic: </strong>Gaming &amp; Social Media
+<br><strong>Date: </strong>21 November 2024, Thursday
+<br><strong>Time: </strong>1.45 PM
+<br><strong>Breakout Session: </strong>Track 2 – Treatment and Relapse Prevention</p>
+<p></p>
+<p></p>
 <p></p>
