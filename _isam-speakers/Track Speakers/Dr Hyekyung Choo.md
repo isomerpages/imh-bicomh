@@ -18,3 +18,13 @@ on youth relationships, and intervention strategies. Recently, she has
 also studied problematic social media use month among youth, collaborating
 internationally to explore how media factors influence attention, cognitive
 control, and psychosocial wellness.</p>
+<hr>
+<p><strong>Topic: </strong>Summary of Research Finding in the Use and Misuse
+of Social Media Among Youth: Implications for Social Intervention</p>
+<p><strong>Date: </strong>22 November 2024, Friday
+<br><strong>Time: </strong>11.00 AM
+<br><strong>Breakout Session: </strong>Track 5 – Impacts of Gaming Disorder</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
