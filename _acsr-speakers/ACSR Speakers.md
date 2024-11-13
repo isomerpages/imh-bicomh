@@ -89,29 +89,33 @@ description: ""
 <p></p>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/sherry-chan/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Sherry_Chan.png"></a>
+<a class="isomer-image-wrapper" href="/christopher-cheok-acsr/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Dr_Christopher_Cheok.png">
+</a>
 <p></p>
 <p></p>
-<p></p>
-<p></p><a class="isomer-image-wrapper" href="/christopher-cheok-acsr/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Dr_Christopher_Cheok.png"></a>
-<a class="isomer-image-wrapper" href="/helen-yong/">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Helen_Yong.png">
-</a><a class="isomer-image-wrapper" href="/jonathan-poh/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Jonathan_Poh.png"></a>
-<a class="isomer-image-wrapper" href="/korinne-northwood/">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Korinne_Northwood.png">
-</a><a class="isomer-image-wrapper" href="/li-yanhui/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Li_Yanhui.png"></a>
-<a class="isomer-image-wrapper" href="/nova-riyanti/">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Nova_Riyanti.png">
-</a><a class="isomer-image-wrapper" href="/si-tianmei/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Si_Tianmei.png"></a>
-<a class="isomer-image-wrapper" href="/yi-nam-suen/">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Yi_nam_Suen_V2.png">
-</a><a class="isomer-image-wrapper" href="/tan-yi-fong/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Ms_Tan_Yi_Fong.png"></a>
-<a class="isomer-image-wrapper" href="/warut-aunjitsakul/">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Warut_Aunjitsakul.png">
-</a><a class="isomer-image-wrapper" href="/zhou-fuchun/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Zhou_Fuchun.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/helen-yong/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Helen_Yong.png"></a>
+<a class="isomer-image-wrapper" href="/jonathan-poh/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Jonathan_Poh.png">
+</a><a class="isomer-image-wrapper" href="/korinne-northwood/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Korinne_Northwood.png"></a>
+<a class="isomer-image-wrapper" href="/li-yanhui/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Li_Yanhui.png">
+</a><a class="isomer-image-wrapper" href="/nova-riyanti/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Nova_Riyanti.png"></a>
+<a class="isomer-image-wrapper" href="/si-tianmei/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Si_Tianmei.png">
+</a><a class="isomer-image-wrapper" href="/yi-nam-suen/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Yi_nam_Suen_V2.png"></a>
+<a class="isomer-image-wrapper" href="/tan-yi-fong/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Ms_Tan_Yi_Fong.png">
+</a><a class="isomer-image-wrapper" href="/warut-aunjitsakul/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Warut_Aunjitsakul.png"></a>
+<a class="isomer-image-wrapper" href="/zhou-fuchun/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Zhou_Fuchun.png">
+</a>
 <p></p>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/eric-yu-hai-chen/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Eric_Chen_v11nov.png"></a>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Chung_Young_Chul.png">
+</div>
 <p></p>
 <p></p>
 <p></p><a class="isomer-image-wrapper" href="/christy-hui-lai-ming/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Christy_Hui_v2.png"></a>
