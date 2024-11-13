@@ -22,7 +22,7 @@ numerous workshops. His clinical and research interests include the impact
 of sociocultural factors on mental health and interventions.</p>
 <hr>
 <p><strong>Topic: </strong>Connection Lost: When Disruptive Technologies
-Disrupt Mental Health AssessmentsMs
+Disrupt Mental Health Assessments
 <br><strong>Date: </strong>21 November 2024, Thursday
 <br><strong>Time: </strong>3.45 PM
 <br><strong>Breakout Session: </strong>Track 1 – Detection &amp; Early Intervention</p>
