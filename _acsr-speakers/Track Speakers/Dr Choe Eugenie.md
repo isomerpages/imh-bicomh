@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Track Speakers
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Eugenie_Choe_bio.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Eugenie_Choe_bio_v13nov.png">
 </div>
 <p>Dr Eugenie Choe is a psychiatry resident at Seoul National University
 Hospital, and is concurrently pursuing a Ph.D. in Clinical Pharmacology
