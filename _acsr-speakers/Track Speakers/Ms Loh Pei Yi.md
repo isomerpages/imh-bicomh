@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Loh_Pei_Yi_bio.png">
+</div>
 <p>Ms Loh is a Year 4 medical student at the Lee Kong Chian School of Medicine,
 Nanyang Technological University. Her interest in digital mental health
 was sparked via her internship with the Data, Science, and Technology department
