@@ -23,7 +23,12 @@ of Psychiatry (BJPsych).</p>
 <br><strong>Date: </strong>21 November 2024, Thursday
 <br><strong>Time: </strong>1.45 PM
 <br><strong>Breakout Session: </strong>Track 1 – Detection &amp; Early Intervention</p>
-<p></p>
+<p>and</p>
+<p><strong>Topic: </strong>National Addictions Management Service Programmes
+<br><strong>Date: </strong>22 November 2024, Friday
+<br><strong>Time: </strong>11.00 AM
+<br><strong>Breakout Session: </strong>Track 6 – Interventions for Gaming
+Disorder</p>
 <p></p>
 <p></p>
 <p></p>
