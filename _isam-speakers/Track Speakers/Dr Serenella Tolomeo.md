@@ -24,3 +24,13 @@ at the Institute of High Performance Computing in 2021. She is currently
 leading research investigating stress, burnout and resilience in the workplace
 and the impact of problematic addictive behaviours, such as gaming and
 gambling.</p>
+<hr>
+<p><strong>Topic: </strong>Unlocking Lootboxes: Understanding the Impact
+of Gaming on Child Brain Development
+<br><strong>Date: </strong>22 November 2024, Friday
+<br><strong>Time: </strong>11.00 AM
+<br><strong>Breakout Session: </strong>Track 4 – Screen Time and Gaming Disorder
+in Singapore</p>
+<p></p>
+<p></p>
+<p></p>
