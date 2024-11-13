@@ -21,4 +21,13 @@ health interventions. He is a Senior Advisor at Boston Consulting Group,
 focusing on healthcare acquisitions and health insurance. He holds post-graduate
 qualifications in surgery and public health from institutions in the UK
 and US.</p>
+<hr>
+<p><strong>Topic: </strong>Economic &amp; Societal Implications of Behaviour
+Addictions
+<br><strong>Date: </strong>21 November 2024, Thursday
+<br><strong>Time: </strong>3.45 PM
+<br><strong>Breakout Session: </strong>Track 3 – Research and Policies</p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
