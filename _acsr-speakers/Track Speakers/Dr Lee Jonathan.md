@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Lee_Jonathan_bio.png">
+</div>
 <p>Dr Lee Jonathan is a psychiatrist with a specialised clinical focus on
 neurostimulation and interventional psychiatry. He is currently a Consultant
 at the Institute of Mental Health (IMH) in Singapore, and is the Deputy
