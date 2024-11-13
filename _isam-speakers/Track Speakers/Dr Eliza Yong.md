@@ -20,4 +20,12 @@ gaining experience in outpatient services, women's addiction rehabilitation,
 and homeless shelters. Dr Yong is trained in Motivational Interviewing,
 Cognitive Behavioural Therapy, Eye Movement Desensitization and Reprocessing,
 and Schema Therapy.</p>
+<hr>
+<p><strong>Topic:</strong> Case Study of Behavioural Addiction with Comorbid
+Condition: Managing Pathological Gambling with Bipolar
+<br><strong>Date: </strong>21 November 2024, Thursday
+<br><strong>Time: </strong>1.45 PM
+<br><strong>Breakout Session: </strong>Track 1 – Detection &amp; Early Intervention</p>
+<p></p>
+<p></p>
 <p></p>
