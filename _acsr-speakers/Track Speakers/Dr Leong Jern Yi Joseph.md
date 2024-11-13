@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Joseph_Leong_Jern_Yi_bio.png">
+</div>
 <p>Dr Leong Jern-Yi Joseph started work at the Institute of Mental Health
 since 2000 and earned his Master in Medicine (Psychiatry) in 2003. He studied
 Psycho-Social Rehabilitation at UCLA with Distinguish Professor of Psychiatry
