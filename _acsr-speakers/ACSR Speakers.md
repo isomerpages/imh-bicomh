@@ -110,7 +110,9 @@ description: ""
 <a class="isomer-image-wrapper" href="/sonia-sims/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Ms_Sonia_Sims.png">
 </a><a class="isomer-image-wrapper" href="/tay-jia-yee/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Ms_Tay_Jia_Yee.png"></a>
-<p></p>
+<a class="isomer-image-wrapper" href="/sarah-ann-tay/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Ms_Sarah_Ann_Tay_v13nov.png">
+</a>
 <p></p>
 <p></p><a class="isomer-image-wrapper" href="/helen-yong/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Helen_Yong.png"></a>
 <a class="isomer-image-wrapper" href="/jonathan-poh/">
