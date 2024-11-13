@@ -80,15 +80,18 @@ description: ""
 <a class="isomer-image-wrapper" href="/sng-siok-yen-melissa/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Sng_Siok_Yen_Melissa.png">
 </a><a class="isomer-image-wrapper" href="/tan-yi-fong/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Ms_Tan_Yi_Fong.png"></a>
+<a class="isomer-image-wrapper" href="/teo-jia-yan/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Ms_Teo_Jia_Yan.png">
+</a>
 <p></p>
 <p></p>
 <p></p><a class="isomer-image-wrapper" href="/christine-teo/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Ms_Christine_Teo.png"></a>
 <a class="isomer-image-wrapper" href="/sarah-ann-tay/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Ms_Sarah_Ann_Tay.png">
-</a><a class="isomer-image-wrapper" href="/teo-jia-yan/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Ms_Teo_Jia_Yan.png"></a>
-<a class="isomer-image-wrapper" href="/tor-phern-chern/">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Tor_Phern_Chern_v3.png">
-</a><a class="isomer-image-wrapper" href="/zhang-tianhong/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Zhang_Tianhong_v4.png"></a>
+</a><a class="isomer-image-wrapper" href="/tor-phern-chern/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Tor_Phern_Chern_v3.png"></a>
+<a class="isomer-image-wrapper" href="/zhang-tianhong/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Zhang_Tianhong_v4.png">
+</a>
 <p></p>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/sherry-chan/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Speakers/Track_Sherry_Chan.png"></a>
