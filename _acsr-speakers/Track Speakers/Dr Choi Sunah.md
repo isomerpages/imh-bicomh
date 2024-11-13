@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<p></p>
 <p>Dr Choi Sunah is a postdoctoral researcher in neuroscience at Seoul National
 University. She completed her PhD in Brain and Cognitive Sciences at Seoul
 National University. Her dissertation focused on reactive astrocytes and
