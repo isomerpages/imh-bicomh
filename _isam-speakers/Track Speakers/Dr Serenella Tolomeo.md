@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Serenella_Tolomeo_bio_v13nov.png">
+</div>
 <p>Dr Serenella Tolomeo’s research focuses on determining psychological and
 neural mechanisms underlying mental health conditions. Her research goals
 integrate psychological medicine, cognitive neuroscience, neuroimaging
