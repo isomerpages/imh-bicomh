@@ -46,4 +46,16 @@ Working Group for Behavioural Addiction.</p>
 <blockquote>
 <h4>Plenary Title: The State of Play : Gaming Disorder in the Indonesian Landscape And Emerging Treatment Option with DBT</h4>
 </blockquote>
-<p></p>
+<hr>
+<p><strong>Topic: </strong>Recovery and Responsible Gambling : Demystifying
+the Biases and Managing Risk Factors through Cognitive Approach
+<br><strong>Date: </strong>21 November 2024, Thursday
+<br><strong>Time: </strong>1.45 PM
+<br><strong>Breakout Session: </strong>Track 3 – Research and Policies</p>
+<p>and</p>
+<p><strong>Plenary Session:</strong> The State of Play : Gaming Disorder in
+the Indonesian Landscape and Emerging Treatment Option with DBT
+<br><strong>Date: </strong>22 November 2024, Thursday
+<br><strong>Time: </strong>9.00 AM
+<br>
+</p>
