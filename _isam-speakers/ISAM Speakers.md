@@ -68,8 +68,8 @@ description: ""
 <a class="isomer-image-wrapper" href="/melvyn-zhang/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Dr_Melvyn_Zhang.png">
 </a><a class="isomer-image-wrapper" href="/naseera-banu-do-mj-oli/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Ms_Naseera_Banu_d_o_MJ_Oli.png"></a>
-<a class="isomer-image-wrapper" href="/tham-yuen-han/">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Ms_Tham_Yuen_Han.png">
+<a class="isomer-image-wrapper" href="/serenella-tolomeo/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Dr_Serenella_Tolomeo.png">
 </a>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/christopher-cheok/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Dr_Christopher_Cheok.png"></a>
@@ -79,6 +79,9 @@ description: ""
 <a class="isomer-image-wrapper" href="/mohamed-zakir-karuvetil/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Dr_Mohamed_Zakir_Karuvetil.png">
 </a><a class="isomer-image-wrapper" href="/peter-chew/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Dr_Peter_Chew.png"></a>
+<a class="isomer-image-wrapper" href="/tham-yuen-han/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Ms_Tham_Yuen_Han.png">
+</a>
 <p></p>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/daniel-wong/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISAM Speakers/Mr_Daniel_Wong.png"></a>
