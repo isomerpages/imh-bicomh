@@ -31,6 +31,8 @@ Testing Ltd.</p>
 <blockquote>
 <h4>Keynote Address: Psychotic Experiences, Early Intervention and Some Thoughts Against the Stream</h4>
 </blockquote>
+<p><strong>Date: </strong>19 November 2024, Tuesday
+<br><strong>Time: </strong>9.30 AM</p>
 <p>This keynote lecture covers the background and early results of ‘TYPPEX’,
 a 10-year research programme into the meaning and treatment implications
 of psychotic experiences (PEs) in people attending primary care services
