@@ -38,3 +38,9 @@ responsibly. These lower risk guidelines aim to provide more specific advice
 about the risk of harm. The guidelines are also useful for clinicians to
 help individuals to set personal limits and for industry to direct consumers
 to pre-commit to relatively safe personal time and expenditure limits.</p>
+<hr>
+<p><strong>Plenary Session:</strong> Advances in Reducing Gambling Disorder
+<br><strong>Date: </strong>21 November 2024, Thursday
+<br><strong>Time: </strong>10.45 AM</p>
+<p></p>
+<p></p>

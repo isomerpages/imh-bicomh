@@ -38,6 +38,8 @@ International Research Consortium.</p>
 <blockquote>
 <h4>Plenary Title: Maintenance of Patients with Remitted Psychosis: Is it Possible to Reduce or Discontinue Antipsychotics?</h4>
 </blockquote>
+<p><strong>Date: </strong>19 November 2024, Tuesday
+<br><strong>Time: </strong>10.45 AM</p>
 <p>Patients in a remitted state of schizophrenia face a dilemma: should they
 improve their quality of life by reducing antipsychotics or should they
 maintain on stable dose to prevent a relapse. Clinical guidelines suggest

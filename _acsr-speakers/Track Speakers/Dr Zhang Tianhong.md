@@ -13,3 +13,10 @@ projects in the field of psychiatry, clinical psychology, cognitive psychology,
 cross-cultural investigation. Major current projects involve cognition,
 bio-markers, epidemiological studies, early identification of mental disorders
 such as schizophrenia.</p>
+<hr>
+<p><strong>Topic: </strong>Advancements and Future Directions in Evaluation-Based
+Prevention for Individuals with Clinical High Risk of Psychosis: Insights
+from the SHARP Study
+<br><strong>Date: </strong>20 November 2024, Wednesday
+<br><strong>Time: </strong>1.45 PM
+<br><strong>Breakout Session: </strong>Track 1 – Detection and Early Intervention</p>

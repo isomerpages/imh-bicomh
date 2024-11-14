@@ -39,6 +39,8 @@ local professional journals in China.</p>
 <blockquote>
 <h4>Plenary Title: Negative Symptoms Assessment for Schizophrenia: Theoretical Models and Clinical Implications</h4>
 </blockquote>
+<p><strong>Date: </strong>20 November 2024, Wednesday
+<br><strong>Time: </strong>9.45 AM</p>
 <p>Schizophrenia is a complex psychiatric disorder characterised by psychotic
 symptoms, negative symptoms and cognitive impairments. Negative symptoms
 in schizophrenia constitute a heterogeneous syndrome that comprises anhedonia,

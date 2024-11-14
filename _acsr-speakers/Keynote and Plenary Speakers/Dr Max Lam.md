@@ -40,3 +40,9 @@ to science advance our understanding of the genetic underpinnings of neuropsychi
 conditions and cognitive functions. His work aims to pave the way for future
 research directions and therapeutic interventions in neuropsychiatry.</p>
 <p></p>
+<blockquote>
+<p>Plenary Title: Translating Psychiatric Genetics to the Clinic: First Steps</p>
+</blockquote>
+<p>
+<br><strong>Date: </strong>20 November 2024, Wednesday
+<br><strong>Time: </strong>9.00 AM</p>

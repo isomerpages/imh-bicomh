@@ -43,11 +43,8 @@ and Head of the Psychiatric Department, mentoring emerging physicians and
 researchers. Internationally, she holds positions on the Advisory Board
 of The WPA Addiction Psychiatry Section and is a member of the International
 Working Group for Behavioural Addiction.</p>
-<blockquote>
-<h4>Plenary Title: The State of Play : Gaming Disorder in the Indonesian Landscape And Emerging Treatment Option with DBT</h4>
-</blockquote>
 <hr>
-<p><strong>Topic: </strong>Recovery and Responsible Gambling : Demystifying
+<p><strong>Track Session: </strong>Recovery and Responsible Gambling : Demystifying
 the Biases and Managing Risk Factors through Cognitive Approach
 <br><strong>Date: </strong>21 November 2024, Thursday
 <br><strong>Time: </strong>1.45 PM
@@ -55,7 +52,7 @@ the Biases and Managing Risk Factors through Cognitive Approach
 <p>and</p>
 <p><strong>Plenary Session:</strong> The State of Play : Gaming Disorder in
 the Indonesian Landscape and Emerging Treatment Option with DBT
-<br><strong>Date: </strong>22 November 2024, Thursday
+<br><strong>Date: </strong>22 November 2024, Friday
 <br><strong>Time: </strong>9.00 AM
 <br>
 </p>

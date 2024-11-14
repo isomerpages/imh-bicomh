@@ -19,3 +19,12 @@ as one of Clarivate’s World’s Top 1% Researchers by citations at HKU since
 2019. She has published over 250 peer-reviewed articles and has a Hirsch
 index of 31. Dr Hui is also experienced in teaching and postgraduate research
 supervision.</p>
+<hr>
+<p><strong>Topic: </strong>The Effects of DUP and Age on Treatment Outcome
+in Early Intervention for First Episode Psychosis
+<br><strong>Date:</strong> 19 November 2024, Tuesday
+<br><strong>Time: </strong>1.45 PM
+<br><strong>Breakout Session: </strong>Track 1 – Detection and Early Intervention</p>
+<p></p>
+<p></p>
+<p></p>
