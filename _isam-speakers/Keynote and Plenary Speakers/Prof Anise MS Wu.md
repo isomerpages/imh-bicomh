@@ -36,7 +36,9 @@ board members of various journals. She is currently appointed as the associate
 editor of the Journal of Clinical and Health Psychology, Applied Psychology:
 Health and Wellbeing, as well as Addictive Behaviours, which are esteemed
 multidisciplinary journals in clinical and health psychology.</p>
-<blockquote>
-<h4>Plenary Title: Smartphone Addiction: Psychological Mechanisms and Relations to Social Media Use in Youths</h4>
-</blockquote>
+<hr>
+<p><strong>Plenary Session:</strong> Smartphone Addiction: Psychological Mechanisms
+and Relations to Social Media Use in Youths
+<br><strong>Date: </strong>22 November 2024, Friday
+<br><strong>Time: </strong>9.45 AM</p>
 <p></p>
