@@ -44,7 +44,7 @@ researchers. Internationally, she holds positions on the Advisory Board
 of The WPA Addiction Psychiatry Section and is a member of the International
 Working Group for Behavioural Addiction.</p>
 <hr>
-<p><strong>Topic: </strong>Recovery and Responsible Gambling : Demystifying
+<p><strong>Track Session: </strong>Recovery and Responsible Gambling : Demystifying
 the Biases and Managing Risk Factors through Cognitive Approach
 <br><strong>Date: </strong>21 November 2024, Thursday
 <br><strong>Time: </strong>1.45 PM
