@@ -14,4 +14,8 @@ cross-cultural investigation. Major current projects involve cognition,
 bio-markers, epidemiological studies, early identification of mental disorders
 such as schizophrenia.</p>
 <hr>
-<p></p>
+<p><strong>Topic: </strong>Advancements and Future Directions in Evaluation-Based
+Prevention for Individuals with Clinical High Risk of Psychosis: Insights
+from the SHARP Study
+<br><strong>Time: </strong>1.45 PM
+<br><strong>Breakout Session: </strong>Track 1 – Detection and Early Intervention</p>
