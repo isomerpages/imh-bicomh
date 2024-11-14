@@ -55,7 +55,7 @@ the Biases and Managing Risk Factors through Cognitive Approach
 <p>and</p>
 <p><strong>Plenary Session:</strong> The State of Play : Gaming Disorder in
 the Indonesian Landscape and Emerging Treatment Option with DBT
-<br><strong>Date: </strong>22 November 2024, Thursday
+<br><strong>Date: </strong>22 November 2024, Friday
 <br><strong>Time: </strong>9.00 AM
 <br>
 </p>
