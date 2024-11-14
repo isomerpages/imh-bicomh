@@ -43,9 +43,6 @@ and Head of the Psychiatric Department, mentoring emerging physicians and
 researchers. Internationally, she holds positions on the Advisory Board
 of The WPA Addiction Psychiatry Section and is a member of the International
 Working Group for Behavioural Addiction.</p>
-<blockquote>
-<h4>Plenary Title: The State of Play : Gaming Disorder in the Indonesian Landscape And Emerging Treatment Option with DBT</h4>
-</blockquote>
 <hr>
 <p><strong>Topic: </strong>Recovery and Responsible Gambling : Demystifying
 the Biases and Managing Risk Factors through Cognitive Approach
