@@ -41,6 +41,6 @@ and is multiple principal investigator on a grant to help support its main
 annual conference, including the involvement of early career investigators
 and addiction specialists.</p>
 <blockquote>
-<h4>Keynote Address: Co-Occurrences and Intersections: The Complexities of Behavioural Addictions</h4>
+<h4><strong>Keynote Address:</strong> Co-Occurrences and Intersections: The Complexities of Behavioural Addictions<br><br>Date: 21 November 2024, Thursday <br>Time: 9.30 AM </h4>
 </blockquote>
 <p></p>
