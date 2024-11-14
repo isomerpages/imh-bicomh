@@ -17,5 +17,6 @@ such as schizophrenia.</p>
 <p><strong>Topic: </strong>Advancements and Future Directions in Evaluation-Based
 Prevention for Individuals with Clinical High Risk of Psychosis: Insights
 from the SHARP Study
+<br><strong>Date: </strong>20 November 2024, Wednesday
 <br><strong>Time: </strong>1.45 PM
 <br><strong>Breakout Session: </strong>Track 1 – Detection and Early Intervention</p>
