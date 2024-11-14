@@ -18,4 +18,12 @@ through user involvement and co-creation. She developed a peer support
 programme in EPIP; creating opportunities for peer connections and laying
 foundations in establishment of formal peer support roles in IMH. These
 forays have been presented in international and local conferences.</p>
+<hr>
+<p><strong>Topic: </strong>Capacity Building in Co-production: People as
+Assets
+<br><strong>Date: </strong>20 November 2024, Wednesday
+<br><strong>Time: </strong>11.00 AM
+<br><strong>Breakout Session: </strong>Track 6A – Peer Support and Community</p>
+<p></p>
+<p></p>
 <p></p>
