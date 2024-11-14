@@ -13,3 +13,5 @@ projects in the field of psychiatry, clinical psychology, cognitive psychology,
 cross-cultural investigation. Major current projects involve cognition,
 bio-markers, epidemiological studies, early identification of mental disorders
 such as schizophrenia.</p>
+<hr>
+<p></p>
