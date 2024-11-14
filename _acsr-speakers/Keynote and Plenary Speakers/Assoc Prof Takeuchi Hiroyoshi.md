@@ -23,6 +23,8 @@ features in schizophrenia, while minimising side effects.</p>
 <blockquote>
 <h4>Plenary Title: Optimising Antipsychotic Treatment in Acute and Maintenance Phases of Schizophrenia</h4>
 </blockquote>
+<p><strong>Date: </strong>19 November 2024, Tuesday
+<br><strong>Time: </strong>11.30 AM</p>
 <p>Antipsychotics play a crucial role not only in improving symptoms during
 the acute phase but also in preventing relapse during the maintenance phase
 of schizophrenia. However, treatment continuity faces challenges, such
