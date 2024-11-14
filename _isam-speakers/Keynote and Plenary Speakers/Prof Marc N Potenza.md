@@ -41,14 +41,13 @@ and is multiple principal investigator on a grant to help support its main
 annual conference, including the involvement of early career investigators
 and addiction specialists.</p>
 <hr>
+<p><strong>Keynote Address:</strong> Co-Occurrences and Intersections: The
+Complexities of Behavioural Addictions
+<br><strong>Date: </strong>21 November 2024, Thursday
+<br><strong>Time: </strong>9.30 AM</p>
+<p>and</p>
 <p><strong>Plenary Session:</strong> Developmental, Jurisdictional and Policy
 Considerations Regarding Compulsive Sexual Behaviours and Pornography Use
 <br><strong>Date: </strong>21 November 2024, Thursday
 <br><strong>Time: </strong>11.30 AM</p>
-<p>and</p>
-<p><strong>Track Session: </strong>Recovery and Responsible Gambling : Demystifying
-the Biases and Managing Risk Factors through Cognitive Approach
-<br><strong>Date: </strong>21 November 2024, Thursday
-<br><strong>Time: </strong>1.45 PM
-<br><strong>Breakout Session: </strong>Track 3 – Research and Policies</p>
 <p></p>
