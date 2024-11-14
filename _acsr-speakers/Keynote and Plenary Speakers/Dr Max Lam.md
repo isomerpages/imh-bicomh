@@ -41,8 +41,7 @@ conditions and cognitive functions. His work aims to pave the way for future
 research directions and therapeutic interventions in neuropsychiatry.</p>
 <p></p>
 <blockquote>
-<p><strong>Plenary Title: </strong>Translating Psychiatric Genetics to the
-Clinic: First Steps</p>
+<p>Plenary Title: Translating Psychiatric Genetics to the Clinic: First Steps</p>
 </blockquote>
 <p>
 <br><strong>Date: </strong>20 November 2024, Wednesday
