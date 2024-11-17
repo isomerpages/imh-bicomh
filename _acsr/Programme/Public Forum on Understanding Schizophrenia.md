@@ -8,7 +8,7 @@ third_nav_title: Programme
 <blockquote>
 <h3><strong>20 November 2024, Wednesday,</strong><br><strong>4.00 - 5.30 PM, One Farrer Hotel</strong></h3>
 </blockquote>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/66ea2fdc9c3079bcacf57aae"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF_reg_button_v30sep2.png"></a>
+<h4><strong>Online registration for public forum is closed. Please register onsite if you wish to attend.</strong></h4>
 <p>Join us at this public forum to learn more about the latest schizophrenia
 research and treatment, as well as the community resources available in
 supporting persons with schizophrenia.</p>
@@ -51,5 +51,3 @@ Today, she is happily married and a stay at home mother, homeschooling
 her 5 year old son, while continuing to provide care for her mother. We
 will hear more from her personally as she shares about the ups and downs
 of her caregiving journey.</p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/66ea2fdc9c3079bcacf57aae"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF_reg_button_v30sep2.png"></a>
-<p></p>
