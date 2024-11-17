@@ -15,7 +15,11 @@ description: ""
 <br>If you wish to stay in the event hotel, you may book your accommodation
 directly with the hotel via <a href="http://www.onefarrer.com" rel="noopener noreferrer nofollow" target="_blank">www.onefarrer.com</a>.</p>
 <p><strong>Getting There</strong>
-<br>The nearest MRT station:
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/onefarrer.png">
+</div>
+<p>The nearest MRT station:
 <br>Farrer Park MRT Station (North East Line)
 <br><em>To access the hotel from Farrer Park MRT Station, please take Exit A or Exit C.</em>
 </p>
