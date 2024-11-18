@@ -1,5 +1,0 @@
-collections:
-  acsr-posters:
-    output: true
-    order:
-      - Poster 1.md
