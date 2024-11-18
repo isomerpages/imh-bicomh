@@ -1,0 +1,4 @@
+collections:
+  acsr-posters:
+    output: true
+    order: []
