@@ -27,7 +27,10 @@ in Tokyo in 2014. He has been a member of the Board of Directors of the
 Japanese Society of Psychiatry and Neurology since 2013, Vice President
 (2021-2023), and serves also as the President of the Japanese Society of
 Social Psychiatry (since 2015).</p>
-<blockquote>
-<h4></h4>
-</blockquote>
+<hr>
+<p><strong>Topic:</strong> From the Classroom to the Community - Youth Mental
+Health in Japan and New Intervention Strategies
+<br><strong>Date:</strong> 19 November 2024, Tuesday
+<br><strong>Time: </strong>3.45 PM
+<br><strong>Breakout Session: </strong>Track 1 – Detection and Early Intervention</p>
 <p></p>
