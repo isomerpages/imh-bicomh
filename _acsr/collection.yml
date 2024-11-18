@@ -2,7 +2,6 @@ collections:
   acsr:
     output: true
     order:
-      - Posters.md
       - Welcome Message.md
       - Organising Committee.md
       - Speakers/.keep
@@ -14,4 +13,5 @@ collections:
       - Programme/Sponsored Lunch Talk | 19 Nov.md
       - Programme/Sponsored Lunch  Talk | 20 Nov.md
       - Programme/Public Forum on Understanding Schizophrenia.md
+      - Posters.md
       - Sponsor and Exhibitor Profiles.md
