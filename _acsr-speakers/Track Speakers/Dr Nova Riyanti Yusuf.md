@@ -25,3 +25,10 @@ is a member of the World Psychiatric Association (WPA) – AFPA – SAARC Psychi
 Federation (SPF) Steering Committee on Task Force Initiative for the Advancement
 of Child and Adolescent Mental Health Services for Low – Middle Income
 Countries.</p>
+<hr>
+<p><strong>Topic:</strong> The Psychiatric Rehabilitation Landscape in Indonesia,
+Now and the Future
+<br><strong>Date:</strong> 20 November 2024, Wednesday
+<br><strong>Time: </strong>11.00 AM
+<br><strong>Breakout Session: </strong>Track 5 – Rehabilitation</p>
+<p></p>

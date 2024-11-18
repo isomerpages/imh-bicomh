@@ -20,4 +20,10 @@ early intervention service of psychosis, treatment-resistant schizophrenia,
 study of psychopathologies and social cognition. She has published over
 100 peer-reviewed journal articles, including high-impact journals such
 as JAMA Psychiatry, Lancet Psychiatry and the British Journal of Psychiatry.</p>
+<hr>
+<p><strong>Topic:</strong> Neurobiological Impact of Clozapine Use in Patients
+with Schizophrenia
+<br><strong>Date:</strong> 19 November 2024, Tuesday
+<br><strong>Time: </strong>3.45 PM
+<br><strong>Breakout Session: </strong>Track 2 – Treatment Resistance</p>
 <p></p>

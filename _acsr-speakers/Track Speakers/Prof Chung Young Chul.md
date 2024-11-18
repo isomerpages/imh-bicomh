@@ -22,4 +22,9 @@ for Psychological and Social approaches to Psychosis</p>
 <p>Prof Chung’s major research interests are psychopharmacology, cognitive-behavioral
 therapy and epigenetics. ProfChung has published more than 120 scientific
 articles in peer-reviewed journals.</p>
+<hr>
+<p><strong>Topic:</strong> VR Intervention in Early Psychosis
+<br><strong>Date:</strong> 19 November 2024, Tuesday
+<br><strong>Time: </strong>3.45 PM
+<br><strong>Breakout Session: </strong>Track 1 – Detection and Early Intervention</p>
 <p></p>

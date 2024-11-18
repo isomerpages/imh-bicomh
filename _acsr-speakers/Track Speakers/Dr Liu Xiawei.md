@@ -16,4 +16,10 @@ early detection and intervention.</p>
 <p>As a resident, Dr Liu primarily engages in patient assessments and assists
 in developing treatment plans. She is passionate about clinical work and
 psychotherapy.</p>
+<hr>
+<p><strong>Topic:</strong> A Connectome-Based Model of Delusion in Schizophrenia
+Using Functional Connectivity Under Working Memory Task
+<br><strong>Date:</strong> 19 November 2024, Tuesday
+<br><strong>Time: </strong>1.45 PM
+<br><strong>Breakout Session: </strong>Track 3A – Cognition and Schizophrenia</p>
 <p></p>

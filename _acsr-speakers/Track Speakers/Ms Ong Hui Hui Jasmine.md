@@ -17,4 +17,9 @@ part of the Inpatient team as well as the Community Mental Health Team
 (CMHT). In her current role, she adopts the recovery care model when delivering
 patient care and strives to provide continuity of care as patients transit
 from their inpatient stay to adapting in the community.</p>
-<p></p>
+<hr>
+<p><strong>Topic:</strong> Psychosocial Rehabilitation by a CMHT “Community
+Mental Health Team”
+<br><strong>Date:</strong> 20 November 2024, Wednesday
+<br><strong>Time: </strong>2.00 PM
+<br><strong>Breakout Session: </strong>Track 5 – Rehabilitation</p>

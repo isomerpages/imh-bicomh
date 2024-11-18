@@ -21,3 +21,8 @@ for Health and Care Research, UK and has coordinated several high-impact
 research projects. She is a psychologist dedicated to improving mental
 health care in low-resource settings through innovative models of care
 and advocacy for mental health awareness.</p>
+<hr>
+<p><strong>Topic:</strong> Early Psychosis Services – SCARF Perspective
+<br><strong>Date:</strong> 20 November 2024, Wednesday
+<br><strong>Time: </strong>11.00 AM
+<br><strong>Breakout Session: </strong>Track 4 – Early Onset/ Early Psychosis</p>

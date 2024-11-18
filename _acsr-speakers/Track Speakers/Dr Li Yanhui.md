@@ -23,3 +23,9 @@ patient outcomes. She has previously authored papers examining the impact
 of varied symptomatology on quality of life and functioning in schizophrenia,
 and is currently investigating immunological changes associated with treatment
 resistance.</p>
+<hr>
+<p><strong>Topic:</strong> Immunotypes in Schizophrenia
+<br><strong>Date:</strong> 19 November 2024, Tuesday
+<br><strong>Time: </strong>3.45 PM
+<br><strong>Breakout Session: </strong>Track 2 – Treatment Resistance</p>
+<p></p>

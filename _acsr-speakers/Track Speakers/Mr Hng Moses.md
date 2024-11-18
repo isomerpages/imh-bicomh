@@ -18,3 +18,9 @@ Moses ensures the solution is seamlessly integrated into real-world settings,
 promoting early intervention and patient empowerment. Driven by a passion
 for patient-centered care, Mr Moses continues to seek ways to enhance digital
 tools that support sustainable recovery and self-management.</p>
+<hr>
+<p><strong>Topic:</strong> Project HOPES: A Digital Solution to Empower Mental
+Health Recovery
+<br><strong>Date:</strong> 20 November 2024, Wednesday
+<br><strong>Time: </strong>2.00 PM
+<br><strong>Breakout Session: </strong>Track 6B – Digital Mental Health</p>

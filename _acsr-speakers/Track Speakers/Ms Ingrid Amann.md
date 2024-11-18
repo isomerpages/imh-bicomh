@@ -25,4 +25,8 @@ Services and partners with sixteen PARCs Victoria-wide. After completing
 a Masters Degree in Leadership, Ingrid now oversees Wellways Australia
 Mental Health Services in the Eastern Region Melbourne Australia. Ingrid’s
 passion is developing teams to know how to collaborate.</p>
-<p></p>
+<hr>
+<p><strong>Topic:</strong> A Collaborative Approach to Recovery Post Psychosis
+<br><strong>Date:</strong> 20 November 2024, Wednesday
+<br><strong>Time: </strong>11.00 AM
+<br><strong>Breakout Session: </strong>Track 5 – Rehabilitation</p>

@@ -23,3 +23,13 @@ Decluttering framework to CMHT, significantly improving the living spaces
 of individuals struggling with hoarding. Driven by her commitment to quality
 care, Ms Sng has led clinical practice improvement projects, earning her
 the NHG Quality Improvement Award in 2022.</p>
+<hr>
+<p><strong>Topic:</strong> Psychosocial Rehabilitation by a CMHT “Community
+Mental Health Team”
+<br><strong>Date:</strong> 20 November 2024, Wednesday
+<br><strong>Time: </strong>2.00 PM
+<br><strong>Breakout Session: </strong>Track 5 – Rehabilitation</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>

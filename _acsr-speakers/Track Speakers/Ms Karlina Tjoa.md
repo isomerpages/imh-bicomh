@@ -18,3 +18,9 @@ relapses. With a strong academic background in Computer Engineer and Statistics,
 along with practical experience in business analysis, IT consulting, and
 software engineering, Ms Karlina brings a unique blend of technical expertise
 and user-centric design to her work.</p>
+<hr>
+<p><strong>Topic:</strong> Project HOPES: A Digital Solution to Empower Mental
+Health Recovery
+<br><strong>Date:</strong> 20 November 2024, Wednesday
+<br><strong>Time: </strong>2.00 PM
+<br><strong>Breakout Session: </strong>Track 6B – Digital Mental Health</p>

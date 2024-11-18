@@ -26,4 +26,9 @@ she provides trainings sessions for community partners with the aim of
 increasing community mental health literacy and social health integration,
 to benefit persons with mental health conditions. Ms Teo is caring for
 a Bichonpoo puppy named Bonito and enjoys travelling to other countries.</p>
-<p></p>
+<hr>
+<p><strong>Topic:</strong> An Inpatient Rehabilitation Programme – Stepping
+Stones Rehabiltiation Centre
+<br><strong>Date:</strong> 20 November 2024, Wednesday
+<br><strong>Time: </strong>2.00 PM
+<br><strong>Breakout Session: </strong>Track 5 – Rehabilitation</p>

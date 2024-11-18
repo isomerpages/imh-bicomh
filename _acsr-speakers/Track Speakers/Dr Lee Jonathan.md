@@ -23,3 +23,8 @@ schools in Singapore. Dr Lee earned his MBBS from the Yong Loo Lin School
 of Medicine and holds an MRCPsych from the Royal College of Psychiatry
 in the UK. His contributions to psychiatry have been recognised with the
 Dr Ang Ah Ling Award for Advanced Psychiatric Trainees.</p>
+<hr>
+<p><strong>Topic:</strong> Overview of Digital Mental Health
+<br><strong>Date:</strong> 20 November 2024, Wednesday
+<br><strong>Time: </strong>2.00 PM
+<br><strong>Breakout Session: </strong>Track 6B – Digital Mental Health</p>

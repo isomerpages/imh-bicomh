@@ -26,4 +26,8 @@ supervision and assisting them in their professional development.</p>
 <p>Having the privilege of being in the helping profession for the past 20
 years, she remains committed to the youth mental health scene, believing
 in the untapped potential in every individual.</p>
-<p></p>
+<hr>
+<p><strong>Topic:</strong> Early Onset Psychosis in EPIP – A Story of Hope
+<br><strong>Date:</strong> 20 November 2024, Wednesday
+<br><strong>Time: </strong>11.00 AM
+<br><strong>Breakout Session: </strong>Track 4 – Early Onset/ Early Psychosis</p>

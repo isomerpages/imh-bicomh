@@ -19,3 +19,10 @@ on early intervention in mental health areas.</p>
 of China, Beijing Municipal Health Commission, and Beijing Municipal Hospital
 Management Center. He has published more than sixty articles in peer-reviewed
 academic journals in English and Chinese languages.</p>
+<hr>
+<p><strong>Topic: </strong>Prospective Memory Impairments and the Neuromodulatory
+Interventions in Schizophrenia
+<br><strong>Date:</strong> 19 November 2024, Tuesday
+<br><strong>Time: </strong>1.45 PM
+<br><strong>Breakout Session: </strong>Track 3A – Cognition and Schizophrenia</p>
+<p></p>
