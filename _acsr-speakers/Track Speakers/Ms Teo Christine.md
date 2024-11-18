@@ -26,7 +26,7 @@ is also actively involved in the mental health community through her volunteer
 work, board memberships and guest lecturing, reflecting her deep commitment
 to advancing mental health care and support for all.</p>
 <hr>
-<p><strong>Track Session:</strong> Australia’s Mental Health Eco-system
+<p><strong>Topic:</strong> Australia’s Mental Health Eco-system
 <br><strong>Date:</strong> 20 November 2024, Wednesday
 <br><strong>Time: </strong>11.00 AM
 <br><strong>Breakout Session: </strong>Track 5 – Rehabilitation</p>
