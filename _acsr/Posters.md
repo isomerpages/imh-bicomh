@@ -4,7 +4,11 @@ permalink: /acsr-posters/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<p><a href="/files/P1.pdf" rel="noopener noreferrer nofollow" target="_blank">Poster 1</a>
+</p>
+<p>Poster 2</p>
+<p>Poster 3</p>
+<p>Poster 4</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -13,8 +17,12 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/poster-1/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1.png"></a>
-<p>Poster 1</p>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1.png">
+</div>
+<p><a href="/files/P1.pdf" rel="noopener noreferrer nofollow" target="_blank">Poster 1</a>
+</p>
 <p>The Effects Of Antipsychotics on Two Month Cortical Thickness and Two
 Year Clinical Outcomes Among Populations at Clinical High Risk Of Psychosis</p>
 <p></p>
