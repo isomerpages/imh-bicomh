@@ -24,8 +24,8 @@ and Neuroscience and as a guest Editor for Frontiers in Psychiatry. He
 is the Vice President of the Asia Pacific region in the International Early
 Intervention and Prevention in Mental Health Association (IEPA).</p>
 <hr>
-<p><strong>Track Session:</strong> Psychosocial Intervention and Online Case
-Management of Young People with Psychosis in Mindlink
+<p><strong>Topic:</strong> Psychosocial Intervention and Online Case Management
+of Young People with Psychosis in Mindlink
 <br><strong>Date:</strong> 20 November 2024, Wednesday
 <br><strong>Time: </strong>11.00 AM
 <br><strong>Breakout Session: </strong>Track 4 – Early Onset/ Early Psychosis</p>
