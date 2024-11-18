@@ -54,7 +54,9 @@ Study</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Posters/P4.png">
+</div>
 <p><strong><a href="/files/P4.pdf" rel="noopener noreferrer nofollow" target="_blank">Poster 4</a></strong>
 </p>
 <p></p>
