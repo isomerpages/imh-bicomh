@@ -66,7 +66,9 @@ Koreans</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Posters/P5.png">
+</div>
 <p><strong><a href="/files/P5.pdf" rel="noopener noreferrer nofollow" target="_blank">Poster 5</a></strong>
 </p>
 <p></p>
@@ -78,7 +80,9 @@ with Clinical Outcomes in Patients with Schizophrenia Spectrum Disorders
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Posters/P6.png">
+</div>
 <p><strong><a href="/files/P6_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Poster 6</a></strong>
 </p>
 <p></p>
