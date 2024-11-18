@@ -68,7 +68,7 @@ with Clinical Outcomes in Patients with Schizophrenia Spectrum Disorders
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><strong>Poster 6</strong>
+<p><strong><a href="/files/P6_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Poster 6</a></strong>
 </p>
 <p></p>
 <p>Distinct Signatures Of OSSOs Compared To SSDs And Healthy Controls Using
@@ -174,7 +174,7 @@ By Nurses In Singapore (Icons) Study</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><strong>Poster 15</strong>
+<p><strong><a href="/files/p15_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Poster 15</a></strong>
 </p>
 <p></p>
 <p>Development Of The 8 Dimensions Of Wellness Assessment Tool For Rehabilitation
