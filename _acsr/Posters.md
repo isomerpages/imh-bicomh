@@ -68,7 +68,8 @@ with Clinical Outcomes in Patients with Schizophrenia Spectrum Disorders
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>Poster 6</p>
+<p><strong>Poster 6</strong>
+</p>
 <p></p>
 <p>Distinct Signatures Of OSSOs Compared To SSDs And Healthy Controls Using
 Graph Theory Analysis</p>
