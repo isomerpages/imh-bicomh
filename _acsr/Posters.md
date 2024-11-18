@@ -29,7 +29,7 @@ Interactions with the Risk of Schizophrenia Spectrum Disorders</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/P1.png">
 </div>
-<p><strong>Poster 2</strong>
+<p><strong><a href="/files/P2.pdf" rel="noopener noreferrer nofollow" target="_blank">Poster 2</a></strong>
 </p>
 <p></p>
 <p>The Effects Of Antipsychotics On Two Month Cortical Thickness And Two
@@ -41,7 +41,7 @@ Year Clinical Outcomes Among Populations At Clinical High Risk Of Psychosis</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/P1.png">
 </div>
-<p><strong>Poster 3</strong>
+<p><strong><a href="/files/P3.pdf" rel="noopener noreferrer nofollow" target="_blank">Poster 3</a></strong>
 </p>
 <p></p>
 <p>Effectiveness Of Cariprazine In First-Episode Schizophrenia Patients With
@@ -64,7 +64,8 @@ Koreans</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>Poster 5</p>
+<p><strong><a href="/files/P5.pdf" rel="noopener noreferrer nofollow" target="_blank">Poster 5</a></strong>
+</p>
 <p></p>
 <p>Association of the Korean-Polyenvironmental Risk Score for Psychosis (K-PERS)
 with Clinical Outcomes in Patients with Schizophrenia Spectrum Disorders
@@ -87,7 +88,8 @@ Graph Theory Analysis</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>Poster 7</p>
+<p><strong><a href="/files/P7.pdf" rel="noopener noreferrer nofollow" target="_blank">Poster 7</a></strong>
+</p>
 <p></p>
 <p>Trends in Psychotic Experiences in Thailand: Informing the Planned Early
 Intervention Service at Somdet Chaopraya Institute of Psychiatry</p>
@@ -98,7 +100,8 @@ Intervention Service at Somdet Chaopraya Institute of Psychiatry</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>Poster 8</p>
+<p><strong><a href="/files/P8.pdf" rel="noopener noreferrer nofollow" target="_blank">Poster 8</a></strong>
+</p>
 <p></p>
 <p>Regional Neural Functional Efficiency Across Schizophrenia, Bipolar Disorder,
 and Major Depressive Disorder: A Transdiagnostic Resting-state fMRI Study</p>
@@ -120,7 +123,8 @@ Not Otherwise Specified</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>Poster 10</p>
+<p><strong>Poster 10</strong>
+</p>
 <p></p>
 <p>Identifying Neurobiological Heterogeneity in Clinical High-Risk Psychosis:
 A Data-Driven Biotyping Approach Using Resting-State Functional Connectivity</p>
@@ -130,7 +134,8 @@ A Data-Driven Biotyping Approach Using Resting-State Functional Connectivity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>Poster 11</p>
+<p><strong>Poster 11</strong>
+</p>
 <p></p>
 <p>Personalized repetitive transcranial magnetic stimulation with dual-target
 in cerebellum and rDLPFC for the treatment of negative symptom of schizophrenia:
@@ -140,7 +145,8 @@ A multicenter, randomized, double-blinded, placebo-controlled trial</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>Poster 12</p>
+<p><strong><a href="/files/P12.pdf" rel="noopener noreferrer nofollow" target="_blank">Poster 12</a></strong>
+</p>
 <p></p>
 <p>Thalamo-cortical white matter connectivity as an indicator of electroconvulsive
 therapy response in patients with schizophrenia spectrum disorder</p>
@@ -151,7 +157,8 @@ therapy response in patients with schizophrenia spectrum disorder</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>Poster 13</p>
+<p><strong>Poster 13</strong>
+</p>
 <p></p>
 <p>Abnormal morphology and connectome of neural networks in schizophrenia
 and unaffected sibling: a study involving PRS specific to neurotransmitter
@@ -162,7 +169,8 @@ pathways</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>Poster 14</p>
+<p><strong>Poster 14</strong>
+</p>
 <p></p>
 <p>A Transdisciplinary Model For Cbtp Delivery And Positive Symptom Reduction
 In Psychosis: The Investigation Of Cognitive Behavioural Therapy For Psychosis
@@ -172,7 +180,8 @@ By Nurses In Singapore (Icons) Study</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>Poster 15</p>
+<p><strong>Poster 15</strong>
+</p>
 <p></p>
 <p>Development Of The 8 Dimensions Of Wellness Assessment Tool For Rehabilitation
 In People Living With Common Serious Mental Illness In Thailand (8dow)</p>
@@ -182,7 +191,8 @@ In People Living With Common Serious Mental Illness In Thailand (8dow)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>Poster 16</p>
+<p><strong>Poster 16</strong>
+</p>
 <p></p>
 <p>Assessing The Recovery Orientation Of Services At An Asian Tertiary Psychiatric
 Hospital: Service User Perspectives</p>
