@@ -29,7 +29,8 @@ Interactions with the Risk of Schizophrenia Spectrum Disorders</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/P1.png">
 </div>
-<p>Poster 2</p>
+<p><strong>Poster 2</strong>
+</p>
 <p></p>
 <p>The Effects Of Antipsychotics On Two Month Cortical Thickness And Two
 Year Clinical Outcomes Among Populations At Clinical High Risk Of Psychosis</p>
@@ -40,7 +41,8 @@ Year Clinical Outcomes Among Populations At Clinical High Risk Of Psychosis</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/P1.png">
 </div>
-<p>Poster 3</p>
+<p><strong>Poster 3</strong>
+</p>
 <p></p>
 <p>Effectiveness Of Cariprazine In First-Episode Schizophrenia Patients With
 Comorbid Cannabis Use Disorder: Post-Hoc Analysis Of A Spanish Observational
@@ -63,6 +65,13 @@ Koreans</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <p>Poster 5</p>
+<p></p>
+<p>Association of the Korean-Polyenvironmental Risk Score for Psychosis (K-PERS)
+with Clinical Outcomes in Patients with Schizophrenia Spectrum Disorders
+(SSDs)</p>
+<p></p>
+<p><strong>Ariana Setiani</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
