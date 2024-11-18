@@ -16,4 +16,9 @@ holds a BS in Life Sciences from Gwangju Institute of Science and Technology
 (GIST). Her research expertise spans clinical neuroscience, neuroimaging,
 and biology. Currently, she continues to investigate the pathophysiology
 of schizophrenia using neuroimaging techniques.</p>
-<p>&nbsp;</p>
+<hr>
+<p><strong>Topic:</strong> Schizophrenia and Reactive Astrocytes in the Frontal
+Cortex
+<br><strong>Date:</strong> 20 November 2024, Wednesday
+<br><strong>Time: </strong>2.00 PM
+<br><strong>Breakout Session: </strong>Track 4 – Early Onset/ Early Psychosis</p>
