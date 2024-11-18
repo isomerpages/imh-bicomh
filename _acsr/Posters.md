@@ -162,16 +162,28 @@ pathways</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <p>Poster 14</p>
+<p></p>
+<p>A Transdisciplinary Model For Cbtp Delivery And Positive Symptom Reduction
+In Psychosis: The Investigation Of Cognitive Behavioural Therapy For Psychosis
+By Nurses In Singapore (Icons) Study</p>
+<p>Jeanette Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <p>Poster 15</p>
+<p></p>
+<p>Development Of The 8 Dimensions Of Wellness Assessment Tool For Rehabilitation
+In People Living With Common Serious Mental Illness In Thailand (8dow)</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <p>Poster 16</p>
+<p></p>
+<p>Assessing The Recovery Orientation Of Services At An Asian Tertiary Psychiatric
+Hospital: Service User Perspectives</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
