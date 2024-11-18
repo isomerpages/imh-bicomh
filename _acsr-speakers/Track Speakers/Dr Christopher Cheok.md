@@ -20,3 +20,10 @@ His commitment to mental health extends to his volunteer work, where he
 has served as President of the Singapore Psychiatric Association and Chairman
 of Clarity Singapore Pte Ltd, a mental health charity that supports over
 1,000 beneficiaries.</p>
+<hr>
+<p><strong>Topic:</strong> Psychosocial Rehabilitation by a CMHT “Community
+Mental Health Team”
+<br><strong>Date:</strong> 20 November 2024, Wednesday
+<br><strong>Time: </strong>2.00 PM
+<br><strong>Breakout Session: </strong>Track 6B – Digital Mental Health</p>
+<p></p>
