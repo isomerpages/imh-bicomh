@@ -153,6 +153,11 @@ therapy response in patients with schizophrenia spectrum disorder</p>
 <p></p>
 <p>Poster 13</p>
 <p></p>
+<p>Abnormal morphology and connectome of neural networks in schizophrenia
+and unaffected sibling: a study involving PRS specific to neurotransmitter
+pathways</p>
+<p>Wenjian Tan</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -180,6 +185,3 @@ therapy response in patients with schizophrenia spectrum disorder</p>
 </table>
 <p></p>
 <p></p>
-<p></p>
-<p>Thalamo-cortical white matter connectivity as an indicator of electroconvulsive
-therapy response in patients with schizophrenia spectrum disorder</p>
