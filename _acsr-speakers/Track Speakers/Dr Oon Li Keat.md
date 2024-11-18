@@ -14,4 +14,9 @@ in Psychiatry by Singapore Ministry of Health (MOH) and Singapore Medical
 Council in 2019. He has been a psychiatrist at the Institute of Mental
 Health since 2019, and has worked with adolescents who first presented
 with psychosis ranging from age 12 to 17 since 2020.</p>
-<p></p>
+<hr>
+<p><strong>Track Session:</strong> Diagnostic Complexities in Early Onset
+Psychosis
+<br><strong>Date:</strong> 19 November 2024, Tuesday
+<br><strong>Time: </strong>3.45 PM
+<br><strong>Breakout Session: </strong>Track 4 – Early Onset/ Early Psychosis</p>
