@@ -186,7 +186,8 @@ In People Living With Common Serious Mental Illness In Thailand (8dow)</p>
 <p></p>
 <p>Assessing The Recovery Orientation Of Services At An Asian Tertiary Psychiatric
 Hospital: Service User Perspectives</p>
-<p>Roger Tan</p>
+<p><strong>Roger Tan</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
