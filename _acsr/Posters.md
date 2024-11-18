@@ -127,7 +127,7 @@ A Data-Driven Biotyping Approach Using Resting-State Functional Connectivity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><strong>Poster 11</strong>
+<p><strong><a href="/files/P11.pdf" rel="noopener noreferrer nofollow" target="_blank">Poster 11</a></strong>
 </p>
 <p></p>
 <p>Personalized repetitive transcranial magnetic stimulation with dual-target
@@ -150,7 +150,7 @@ therapy response in patients with schizophrenia spectrum disorder</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><strong>Poster 13</strong>
+<p><strong><a href="/files/P13.pdf" rel="noopener noreferrer nofollow" target="_blank">Poster 13</a></strong>
 </p>
 <p></p>
 <p>Abnormal morphology and connectome of neural networks in schizophrenia
@@ -162,7 +162,7 @@ pathways</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><strong>Poster 14</strong>
+<p><strong><a href="/files/P14.pdf" rel="noopener noreferrer nofollow" target="_blank">Poster 14</a></strong>
 </p>
 <p></p>
 <p>A Transdisciplinary Model For Cbtp Delivery And Positive Symptom Reduction
