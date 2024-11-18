@@ -22,3 +22,12 @@ She has an impressive publication record. To date, she has published over
 100 articles in top-tier international peer-reviewed journals in public
 health, psychiatry, and digital health, such as JAMA Internal Medicine,
 Psychiatry Research, and the British Journal of Psychiatry.</p>
+<hr>
+<p><strong>Topic:</strong> Relationship Between Striatal Dopamine Synthesis
+Capacity, Anterior Cingulate Glutamate and Formal thought Disorder in First-Episode
+Psychosis
+<br><strong>Date:</strong> 19 November 2024, Tuesday
+<br><strong>Time: </strong>3.45 PM
+<br><strong>Breakout Session: </strong>Track 1 – Detection and Early Intervention</p>
+<p></p>
+<p></p>
