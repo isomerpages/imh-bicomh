@@ -137,7 +137,9 @@ Not Otherwise Specified</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Posters/P10.png">
+</div>
 <p><strong><a href="/files/P10.pdf" rel="noopener noreferrer nofollow" target="_blank">Poster 10</a></strong>
 </p>
 <p></p>
@@ -148,7 +150,9 @@ A Data-Driven Biotyping Approach Using Resting-State Functional Connectivity</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Posters/P11.png">
+</div>
 <p><strong><a href="/files/P11.pdf" rel="noopener noreferrer nofollow" target="_blank">Poster 11</a></strong>
 </p>
 <p></p>
@@ -159,7 +163,9 @@ A Multicenter, Randomized, Double-Blinded, Placebo-Controlled Trial</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Posters/P12.png">
+</div>
 <p><strong><a href="/files/P12.pdf" rel="noopener noreferrer nofollow" target="_blank">Poster 12</a></strong>
 </p>
 <p></p>
