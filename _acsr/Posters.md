@@ -99,6 +99,12 @@ Intervention Service at Somdet Chaopraya Institute of Psychiatry</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <p>Poster 8</p>
+<p></p>
+<p>Regional Neural Functional Efficiency Across Schizophrenia, Bipolar Disorder,
+and Major Depressive Disorder: A Transdiagnostic Resting-state fMRI Study</p>
+<p></p>
+<p><strong>Jun Yang</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
