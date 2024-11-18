@@ -131,9 +131,9 @@ A Data-Driven Biotyping Approach Using Resting-State Functional Connectivity</p>
 <p><strong><a href="/files/P11.pdf" rel="noopener noreferrer nofollow" target="_blank">Poster 11</a></strong>
 </p>
 <p></p>
-<p>Personalized repetitive transcranial magnetic stimulation with dual-target
-in cerebellum and rDLPFC for the treatment of negative symptom of schizophrenia:
-A multicenter, randomized, double-blinded, placebo-controlled trial</p>
+<p>Personalized Repetitive Transcranial Magnetic Stimulation With Dual-Target
+In Cerebellum and rDLPFC for the Treatment of Negative Symptom Of Schizophrenia:
+A Multicenter, Randomized, Double-Blinded, Placebo-Controlled Trial</p>
 <p><strong>Wei Yanyan</strong>
 </p>
 </td>
