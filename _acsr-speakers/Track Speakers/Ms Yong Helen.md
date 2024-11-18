@@ -26,4 +26,10 @@ and conferences, both locally and overseas. She is fluent in English and
 conversant in Mandarin, Hokkien and Cantonese. In her free time, Ms Yong
 enjoys the presence of family and friends and give herself 'me' days to
 recharge and cultivate inner peace.</p>
+<hr>
+<p><strong>Topic:</strong> Psychiatric Rehabilitation Services in a Residential
+Step-down Setting
+<br><strong>Date:</strong> 20 November 2024, Wednesday
+<br><strong>Time: </strong>2.00 PM
+<br><strong>Breakout Session: </strong>Track 5 – Rehabilitation</p>
 <p></p>
