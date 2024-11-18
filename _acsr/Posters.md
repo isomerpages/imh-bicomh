@@ -156,7 +156,8 @@ therapy response in patients with schizophrenia spectrum disorder</p>
 <p>Abnormal morphology and connectome of neural networks in schizophrenia
 and unaffected sibling: a study involving PRS specific to neurotransmitter
 pathways</p>
-<p>Wenjian Tan</p>
+<p><strong>Wenjian Tan</strong>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -166,7 +167,8 @@ pathways</p>
 <p>A Transdisciplinary Model For Cbtp Delivery And Positive Symptom Reduction
 In Psychosis: The Investigation Of Cognitive Behavioural Therapy For Psychosis
 By Nurses In Singapore (Icons) Study</p>
-<p>Jeanette Lim</p>
+<p><strong>Jeanette Lim</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -184,7 +186,7 @@ In People Living With Common Serious Mental Illness In Thailand (8dow)</p>
 <p></p>
 <p>Assessing The Recovery Orientation Of Services At An Asian Tertiary Psychiatric
 Hospital: Service User Perspectives</p>
-<p></p>
+<p>Roger Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
