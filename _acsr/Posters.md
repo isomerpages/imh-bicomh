@@ -109,6 +109,12 @@ and Major Depressive Disorder: A Transdiagnostic Resting-state fMRI Study</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <p>Poster 9</p>
+<p></p>
+<p>Altered Auditory Network Functional Connectivity In Psychotic Disorder
+Not Otherwise Specified</p>
+<p></p>
+<p><strong>Woo-Sung Kim</strong>
+</p>
 </td>
 </tr>
 <tr>
