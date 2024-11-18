@@ -26,3 +26,11 @@ He was one of the keynote speakers at the Refocus on Recovery Conference
 in 2019 in Nottingham, England and a speaker for the International Mental
 Health Virtual Conference hosted by Thailand and the UK government in 2020-2021
 on mental health resilience.</p>
+<hr>
+<p><strong>Track Session: </strong>Social Inclusion: The Singapore Story
+in Community Mental Health Development, Psychiatric Rehabilitation and
+Recovery
+<br><strong>Date:</strong> 20 November 2024, Wednesday
+<br><strong>Time: </strong>11.00 AM
+<br><strong>Breakout Session: </strong>Track 5 – Rehabilitation</p>
+<p></p>
