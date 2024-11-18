@@ -46,7 +46,8 @@ Study</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>Poster 4</p>
+<p><strong><a href="/files/P4.pdf" rel="noopener noreferrer nofollow" target="_blank">Poster 4</a></strong>
+</p>
 <p></p>
 <p>Comparison Of Clinical Outcomes Between North Korean Defectors And South
 Koreans</p>
@@ -102,7 +103,8 @@ and Major Depressive Disorder: A Transdiagnostic Resting-state fMRI Study</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>Poster 9</p>
+<p><strong><a href="/files/P9.pdf" rel="noopener noreferrer nofollow" target="_blank">Poster 9</a></strong>
+</p>
 <p></p>
 <p>Altered Auditory Network Functional Connectivity In Psychotic Disorder
 Not Otherwise Specified</p>
@@ -114,7 +116,7 @@ Not Otherwise Specified</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><strong>Poster 10</strong>
+<p><strong><a href="/files/P10.pdf" rel="noopener noreferrer nofollow" target="_blank">Poster 10</a></strong>
 </p>
 <p></p>
 <p>Identifying Neurobiological Heterogeneity in Clinical High-Risk Psychosis:
