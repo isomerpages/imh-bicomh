@@ -95,7 +95,9 @@ Graph Theory Analysis</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Posters/P7.png">
+</div>
 <p><strong><a href="/files/P7.pdf" rel="noopener noreferrer nofollow" target="_blank">Poster 7</a></strong>
 </p>
 <p></p>
@@ -107,7 +109,9 @@ Intervention Service at Somdet Chaopraya Institute of Psychiatry</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Posters/P8.png">
+</div>
 <p><strong><a href="/files/P8.pdf" rel="noopener noreferrer nofollow" target="_blank">Poster 8</a></strong>
 </p>
 <p></p>
@@ -118,7 +122,9 @@ and Major Depressive Disorder: A Transdiagnostic Resting-state fMRI Study</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Posters/P9.png">
+</div>
 <p><strong><a href="/files/P9.pdf" rel="noopener noreferrer nofollow" target="_blank">Poster 9</a></strong>
 </p>
 <p></p>
