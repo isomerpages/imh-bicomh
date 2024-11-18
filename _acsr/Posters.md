@@ -55,7 +55,10 @@ Study</p>
 <p></p>
 <p>Poster 4</p>
 <p></p>
-<p></p>
+<p>Comparison Of Clinical Outcomes Between North Korean Defectors And South
+Koreans</p>
+<p><strong>Thi-Hung Le</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
