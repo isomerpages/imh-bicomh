@@ -28,7 +28,9 @@ Interactions with the Risk of Schizophrenia Spectrum Disorders</p>
 <p></p>
 <p>Poster 2</p>
 <p></p>
-<p></p>
+<p>The Effects Of Antipsychotics On Two Month Cortical Thickness And Two
+Year Clinical Outcomes Among Populations At Clinical High Risk Of Psychosis</p>
+<p>Zheng Wensi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
