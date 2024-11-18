@@ -19,3 +19,10 @@ been accepted for publication with the Journal of Medical Internet Research.
 Ms Loh's work has been recognized as a NTU President Research Scholar with
 the mentorship of psychiatrist-scientist A/Prof Jimmy Lee; she was also
 invited to share her insights as a guest speaker at the MOHT Learning Sessions.</p>
+<hr>
+<p><strong>Topic:</strong> Psychosis-focused mHeatlh Interventions: Characteristics
+and Evaluated Outcomes
+<br><strong>Date:</strong> 20 November 2024, Wednesday
+<br><strong>Time: </strong>2.00 PM
+<br><strong>Breakout Session: </strong>Track 6B – Digital Mental Health</p>
+<p></p>
