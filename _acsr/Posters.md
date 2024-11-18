@@ -177,7 +177,9 @@ Therapy Response In Patients With Schizophrenia Spectrum Disorder</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Posters/P13.png">
+</div>
 <p><strong><a href="/files/P13.pdf" rel="noopener noreferrer nofollow" target="_blank">Poster 13</a></strong>
 </p>
 <p></p>
@@ -189,7 +191,9 @@ Pathways</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Posters/P14.png">
+</div>
 <p><strong><a href="/files/P14.pdf" rel="noopener noreferrer nofollow" target="_blank">Poster 14</a></strong>
 </p>
 <p></p>
@@ -200,7 +204,9 @@ By Nurses In Singapore (Icons) Study</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Posters/P15.png">
+</div>
 <p><strong><a href="/files/p15_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Poster 15</a></strong>
 </p>
 <p></p>
@@ -212,7 +218,9 @@ In People Living With Common Serious Mental Illness In Thailand (8dow)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSR Posters/P16.png">
+</div>
 <p><strong><a href="/files/P16.pdf" rel="noopener noreferrer nofollow" target="_blank">Poster 16</a></strong>
 </p>
 <p></p>
