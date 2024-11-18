@@ -25,7 +25,9 @@ Interactions with the Risk of Schizophrenia Spectrum Disorders</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/P1.png">
+</div>
 <p>Poster 2</p>
 <p></p>
 <p>The Effects Of Antipsychotics On Two Month Cortical Thickness And Two
@@ -33,9 +35,16 @@ Year Clinical Outcomes Among Populations At Clinical High Risk Of Psychosis</p>
 <p>Zheng Wensi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/P1.png">
+</div>
 <p>Poster 3</p>
 <p></p>
+<p>Effectiveness Of Cariprazine In First-Episode Schizophrenia Patients With
+Comorbid Cannabis Use Disorder: Post-Hoc Analysis Of A Spanish Observational
+Study</p>
+<p></p>
+<p>Gilbert Madriaga</p>
 </td>
 </tr>
 <tr>
@@ -114,6 +123,7 @@ Year Clinical Outcomes Among Populations At Clinical High Risk Of Psychosis</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
