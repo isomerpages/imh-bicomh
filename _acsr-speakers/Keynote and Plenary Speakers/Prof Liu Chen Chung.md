@@ -74,4 +74,9 @@ monitoring of factors related to successful or failed tapering, are anticipated
 to improve outcomes of dose-reduction trials. The lessons to be learned
 from GARMED trial are not about how low the absolute dosage you can attain,
 but how to reach a relatively lower dosage safely.</p>
-<p></p>
+<hr>
+<p><strong>Track Session:</strong> Asian Perspective of Long-Term Antipsychotics
+Maintenance Strategies Following First Episode Psychosis
+<br><strong>Date:</strong> 19 November 2024, Tuesday
+<br><strong>Time: </strong>3.45 PM
+<br><strong>Breakout Session: </strong>Track 3B – Relapse Prevention</p>
