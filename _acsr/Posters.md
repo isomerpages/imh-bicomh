@@ -154,9 +154,9 @@ therapy response in patients with schizophrenia spectrum disorder</p>
 <p><strong><a href="/files/P13.pdf" rel="noopener noreferrer nofollow" target="_blank">Poster 13</a></strong>
 </p>
 <p></p>
-<p>Abnormal morphology and connectome of neural networks in schizophrenia
-and unaffected sibling: a study involving PRS specific to neurotransmitter
-pathways</p>
+<p>Abnormal Morphology and Connectome of Neural Networks in Schizophrenia
+and Unaffected Sibling: A Study Involving PRS Specific To Neurotransmitter
+Pathways</p>
 <p><strong>Wenjian Tan</strong>
 </p>
 <p></p>
