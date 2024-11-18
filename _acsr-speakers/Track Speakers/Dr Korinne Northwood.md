@@ -19,3 +19,10 @@ bioinformatics with experience in complex analysis of large data sets.
 She has authored a number of papers, with a h-index of 14 (as of 2024).
 She has been Chief Investigator on several grants, funded through Metro
 South Health, UQ and the National Health and Medical Research Council.</p>
+<hr>
+<p><strong>Topic: </strong>Clozapine Neutropenia: Rates, Risks and Recommendations
+<br><strong>Date:</strong> 19 November 2024, Tuesday
+<br><strong>Time: </strong>1.45 PM
+<br><strong>Breakout Session: </strong>Track 2 – Treatment Resistance</p>
+<p></p>
+<p></p>
