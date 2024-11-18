@@ -18,3 +18,11 @@ Bulletin, Psychological Medicine).She also serves as a early editorial
 board member for the Asian Journal of Psychiatry, as well as an editorial
 board member and guest associate editor for Frontiers in Neurology and
 Frontiers in Psychiatry.</p>
+<hr>
+<p><strong>Topic:</strong> Aberrant Controllability of Functional Connectome
+During Working Memory Tasks in Persons with Schizophrenia and Unaffected
+Siblings
+<br><strong>Date:</strong> 19 November 2024, Tuesday
+<br><strong>Time: </strong>1.45 PM
+<br><strong>Breakout Session: </strong>Track 3A – Cognition and Schizophrenia</p>
+<p></p>
