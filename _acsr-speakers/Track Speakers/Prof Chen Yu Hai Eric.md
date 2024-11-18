@@ -44,7 +44,7 @@ Internal Medicine, and Nature. EC has also</p>
 <p>published three books on early Intervention in psychiatry (Oxford University
 Press, Hong Kong University Press).</p>
 <hr>
-<p><strong>Track Session:</strong> Spurious Autobiographical Memory in Psychosis
+<p><strong>Topic:</strong> Spurious Autobiographical Memory in Psychosis
 <br><strong>Date:</strong> 19 November 2024, Tuesday
 <br><strong>Time: </strong>3.45 PM
 <br><strong>Breakout Session: </strong>Track 3B – Relapse Prevention</p>
