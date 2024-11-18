@@ -4,11 +4,6 @@ permalink: /acsr-posters/
 variant: tiptap
 description: ""
 ---
-<p><a href="/files/P1.pdf" rel="noopener noreferrer nofollow" target="_blank">Poster 1</a>
-</p>
-<p>Poster 2</p>
-<p>Poster 3</p>
-<p>Poster 4</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
