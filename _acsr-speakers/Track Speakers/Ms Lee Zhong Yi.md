@@ -19,4 +19,9 @@ and volunteers. She was part of the “Collaborate and Co-create with Patients,
 Caregivers and Partners for Care Delivery” Aspiration workgroup where she
 contributed to the education and consultancy of the process of co-production
 in IMH. Outside of work, she is pursuing her masters in counselling.</p>
+<hr>
+<p><strong>Topic:</strong> Evaluating the Effectiveness of Peer Support Groups
+<br><strong>Date:</strong> 20 November 2024, Wednesday
+<br><strong>Time: </strong>11.00 AM
+<br><strong>Breakout Session: </strong>Track 6A – Peer Support and Community</p>
 <p></p>
