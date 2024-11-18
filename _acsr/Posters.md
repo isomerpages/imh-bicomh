@@ -185,7 +185,7 @@ In People Living With Common Serious Mental Illness In Thailand (8dow)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><strong>Poster 16</strong>
+<p><strong><a href="/files/P16.pdf" rel="noopener noreferrer nofollow" target="_blank">Poster 16</a></strong>
 </p>
 <p></p>
 <p>Assessing The Recovery Orientation Of Services At An Asian Tertiary Psychiatric
