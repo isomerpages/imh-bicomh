@@ -17,6 +17,6 @@ with psychosis ranging from age 12 to 17 since 2020.</p>
 <hr>
 <p><strong>Track Session:</strong> Diagnostic Complexities in Early Onset
 Psychosis
-<br><strong>Date:</strong> 19 November 2024, Tuesday
-<br><strong>Time: </strong>3.45 PM
+<br><strong>Date:</strong> 20 November 2024, Wednesday
+<br><strong>Time: </strong>11.00 AM
 <br><strong>Breakout Session: </strong>Track 4 – Early Onset/ Early Psychosis</p>
