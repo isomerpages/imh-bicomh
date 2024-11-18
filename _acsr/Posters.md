@@ -142,8 +142,8 @@ A Multicenter, Randomized, Double-Blinded, Placebo-Controlled Trial</p>
 <p><strong><a href="/files/P12.pdf" rel="noopener noreferrer nofollow" target="_blank">Poster 12</a></strong>
 </p>
 <p></p>
-<p>Thalamo-cortical white matter connectivity as an indicator of electroconvulsive
-therapy response in patients with schizophrenia spectrum disorder</p>
+<p>Thalamo-cortical White Matter Connectivity As An Indicator Of Electroconvulsive
+Therapy Response In Patients With Schizophrenia Spectrum Disorder</p>
 <p><strong>Minah Kim</strong>
 </p>
 </td>
