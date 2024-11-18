@@ -20,3 +20,12 @@ skills that enable him to synthesise knowledge from diverse perspectives,
 including data-driven insights, clinical practices, and social determinants.
 Dr Zhou has also participated in several government-funded projects, as
 well as in teaching and research supervision activities.</p>
+<hr>
+<p><strong>Topic: </strong>Incidence and Risk Factors of Clozapine-Associated
+Neutropenia in Patients with Schizophrenia: A Population-Based Study in
+Hong Kong
+<br><strong>Date:</strong> 19 November 2024, Tuesday
+<br><strong>Time: </strong>1.45 PM
+<br><strong>Breakout Session: </strong>Track 2 – Treatment Resistance</p>
+<p></p>
+<p></p>
