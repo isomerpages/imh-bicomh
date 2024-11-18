@@ -179,7 +179,8 @@ By Nurses In Singapore (Icons) Study</p>
 <p></p>
 <p>Development Of The 8 Dimensions Of Wellness Assessment Tool For Rehabilitation
 In People Living With Common Serious Mental Illness In Thailand (8dow)</p>
-<p></p>
+<p><strong>Supasaek Virojanapa</strong>
+</p>
 </td>
 </tr>
 <tr>
