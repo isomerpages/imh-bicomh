@@ -19,8 +19,8 @@ and gaining a deeper understanding of the progression of psychosis. She
 is passionate about clinical research and the long-term outcomes of psychiatric
 care.</p>
 <hr>
-<p><strong>Track Session:</strong> Predictors of Relapse After Discontinuing
-Antipsychotics in Patients with Schizophrenia Spectrum Disorders
+<p><strong>Topic:</strong> Predictors of Relapse After Discontinuing Antipsychotics
+in Patients with Schizophrenia Spectrum Disorders
 <br><strong>Date:</strong> 19 November 2024, Tuesday
 <br><strong>Time: </strong>3.45 PM
 <br><strong>Breakout Session: </strong>Track 3B – Relapse Prevention</p>
