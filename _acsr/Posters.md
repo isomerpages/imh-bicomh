@@ -21,7 +21,8 @@ description: ""
 <p></p>
 <p>Associations of Polygenic Risk Score, Environmental Factors, and Their
 Interactions with the Risk of Schizophrenia Spectrum Disorders</p>
-<p>Fatima Zahra</p>
+<p><strong>Fatima Zahra</strong>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -32,7 +33,8 @@ Interactions with the Risk of Schizophrenia Spectrum Disorders</p>
 <p></p>
 <p>The Effects Of Antipsychotics On Two Month Cortical Thickness And Two
 Year Clinical Outcomes Among Populations At Clinical High Risk Of Psychosis</p>
-<p>Zheng Wensi</p>
+<p><strong>Zheng Wensi</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -44,7 +46,8 @@ Year Clinical Outcomes Among Populations At Clinical High Risk Of Psychosis</p>
 Comorbid Cannabis Use Disorder: Post-Hoc Analysis Of A Spanish Observational
 Study</p>
 <p></p>
-<p>Gilbert Madriaga</p>
+<p><strong>Gilbert Madriaga</strong>
+</p>
 </td>
 </tr>
 <tr>
