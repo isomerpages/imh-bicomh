@@ -21,7 +21,7 @@ description: ""
 <p>Associations of Polygenic Risk Score, Environmental Factors, and Their
 Interactions with the Risk of Schizophrenia Spectrum Disorders</p>
 <p></p>
-<p>Author Name</p>
+<p>Fatima Zahra</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
