@@ -26,4 +26,13 @@ psychosis (especially CBT for Psychosis), social anxiety disorder, cross-cultura
 psychiatry and medical education (especially growth mindset). Now, he is
 working as a clinical instructor, researcher and clinician at Prince of
 Songkla University, Thailand.</p>
+<hr>
+<p><strong>Topic:</strong> Social Mastery in Schizophrenia: Unravelling Challenges,
+Cultivating Understanding, and Elevating Skills
+<br><strong>Date:</strong> 19 November 2024, Tuesday
+<br><strong>Time: </strong>1.45 PM
+<br><strong>Breakout Session: </strong>Track 1 – Detection and Early Intervention</p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
