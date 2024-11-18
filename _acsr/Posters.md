@@ -122,6 +122,11 @@ Not Otherwise Specified</p>
 <p></p>
 <p>Poster 10</p>
 <p></p>
+<p>Identifying Neurobiological Heterogeneity in Clinical High-Risk Psychosis:
+A Data-Driven Biotyping Approach Using Resting-State Functional Connectivity</p>
+<p></p>
+<p><strong>Tang Xiaochen</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
