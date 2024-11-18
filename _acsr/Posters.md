@@ -18,8 +18,8 @@ description: ""
 </div>
 <p><a href="/files/P1.pdf" rel="noopener noreferrer nofollow" target="_blank">Poster 1</a>
 </p>
-<p>The Effects Of Antipsychotics on Two Month Cortical Thickness and Two
-Year Clinical Outcomes Among Populations at Clinical High Risk Of Psychosis</p>
+<p>Associations of Polygenic Risk Score, Environmental Factors, and Their
+Interactions with the Risk of Schizophrenia Spectrum Disorders</p>
 <p></p>
 <p>Author Name</p>
 </th>
