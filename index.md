@@ -24,7 +24,14 @@ sections:
           url: /isam-programme-d1/
         - title: Register your interest
           description: Click Here
-          url: /register-interest/
+          url: https://form.gov.sg/673fd782772439f5c7b8a4f5
+  - infobar:
+      title: THANK YOU!
+      id: infobar
+      description: Thank you for attending the inaugural Biennial International
+        Congress on Mental Health (BICOMH). See you again in in 2026!
+      button: Register your interest here
+      url: https://form.gov.sg/673fd782772439f5c7b8a4f5
   - infobar:
       title: About the Congress
       id: infobar
@@ -66,11 +73,4 @@ sections:
       id: infopic
       alt: Image alt text
       image: /images/organisedby_logo_v3.png
-  - infobar:
-      title: THANK YOU!
-      id: infobar
-      description: Thank you for attending the inaugural Biennial International
-        Congress on Mental Health (BICOMH). See you again in in 2026!
-      button: Register your interest here
-      url: /register-interest/
 ---
