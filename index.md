@@ -28,14 +28,6 @@ sections:
       subtitle: Thank you for attending the inaugural Biennial International Congress
         on Mental Health (BICOMH). See you again on 15 - 17 July 2026 in
         Singapore!
-  - infobar:
-      title: About the Congress
-      id: infobar
-      description: This congress features two conferences where we focus on optimising
-        psychosis recovery and fostering community support for behavioural
-        addiction recovery.
-      button: learn more
-      url: /bicomh-welcome/
   - infopic:
       id: infopic
       alt: Image alt text
