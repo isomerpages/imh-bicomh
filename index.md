@@ -9,12 +9,12 @@ sections:
   - hero:
       title: Biennial International Congress on Mental Health 2024
       background: /images/BG4.png
-      url: /registration/
+      url: https://www.bicomh.com/
       variant: center
       size: md
       alignment: left
       backgroundColor: gray
-      button: 19 - 22 November 2024, One Farrer Hotel, Singapore
+      button: Singapore
       subtitle: Building Bridges for an Effective Mental Health Ecosystem
       key_highlights:
         - title: ACSR Programme
@@ -23,12 +23,9 @@ sections:
         - title: ISAM Programme
           description: 21 - 22 Nov 2024
           url: /isam-programme-d1/
-        - title: Public Forum Registration
-          description: Registration is free!
-          url: /acsr-public-forum/
-        - title: Register now
-          description: Early bird rates extended!
-          url: /registration/
+        - title: Register your interest
+          description: Click Here
+          url: /register-interest/
   - infobar:
       title: About the Congress
       id: infobar
