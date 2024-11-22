@@ -7,15 +7,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Biennial International Congress on Mental Health 2024
+      title: Biennial International Congress on Mental Health 2026
       background: /images/BG4.png
       url: https://www.bicomh.com/
       variant: center
       size: md
       alignment: left
       backgroundColor: gray
-      button: Singapore
-      subtitle: Building Bridges for an Effective Mental Health Ecosystem
+      button: 15-17 July 2026, Singapore
       key_highlights:
         - title: ACSR Programme
           description: 19 -20 Nov 2024
@@ -67,4 +66,11 @@ sections:
       id: infopic
       alt: Image alt text
       image: /images/organisedby_logo_v3.png
+  - infobar:
+      title: THANK YOU!
+      id: infobar
+      description: Thank you for attending the inaugural Biennial International
+        Congress on Mental Health (BICOMH). See you again in in 2026!
+      button: Register your interest here
+      url: /register-interest/
 ---
