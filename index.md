@@ -14,7 +14,7 @@ sections:
       size: md
       alignment: right
       backgroundColor: gray
-      button: 15-17 July 2026, Singapore
+      button: Register your interest now
       key_highlights:
         - title: ACSR Programme
           description: 19 -20 Nov 2024
@@ -27,13 +27,6 @@ sections:
           url: https://form.gov.sg/673fd782772439f5c7b8a4f5
       subtitle: Thank you for attending the inaugural Biennial International Congress
         on Mental Health (BICOMH). See you again in in 2026!
-  - infobar:
-      title: THANK YOU!
-      id: infobar
-      description: Thank you for attending the inaugural Biennial International
-        Congress on Mental Health (BICOMH). See you again in in 2026!
-      button: Register your interest here
-      url: https://form.gov.sg/673fd782772439f5c7b8a4f5
   - infobar:
       title: About the Congress
       id: infobar
