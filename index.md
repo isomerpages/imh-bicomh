@@ -29,6 +29,13 @@ sections:
         on Mental Health (BICOMH). See you again on 15 - 17 July 2026 in
         Singapore!
   - infopic:
+      title: BICOMH 2024
+      subtitle: highlights
+      id: infopic
+      description: Building Bridges for an Effective Mental Health Ecosystem
+      image: /images/bicomh2024_highlights.png
+      alt: Image alt text
+  - infopic:
       id: infopic
       alt: Image alt text
       image: /images/organisedby_logo_v3.png
