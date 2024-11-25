@@ -14,8 +14,7 @@ sections:
       size: md
       alignment: right
       backgroundColor: gray
-      button: See you again on 15 - 17 July 2026 in Singapore. Register your interest
-        now!
+      button: Register your interest now!
       key_highlights:
         - title: ACSR Programme
           description: 19 -20 Nov 2024
