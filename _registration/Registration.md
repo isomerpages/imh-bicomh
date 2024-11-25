@@ -28,6 +28,4 @@ please email <a href="mailto:PCG_Enquiries@ncss.gov.sg" rel="noopener noreferrer
 <br><strong>Category B:</strong> (1) Bangladesh, (2) Cambodia, (3) India, (4)
 Laos, (5) Myanmar, (6) Nepal, (7) Pakistan, (8) Philippines, (9) Sri Lanka,
 (10) Vietnam</p>
-<p><em>By clicking the "Register Now" button, you have clicked on a link which leaves the BICOMH website and you will be directed to a third party website.</em>
-</p>
 <p></p>
