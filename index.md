@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Thank You!
       background: /images/hero_22nov.png
-      url: https://www.bicomh.com/
+      url: https://form.gov.sg/673fd782772439f5c7b8a4f5
       variant: floating
       size: md
       alignment: right
