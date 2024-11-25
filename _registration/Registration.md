@@ -4,8 +4,8 @@ permalink: /registration/
 variant: tiptap
 description: ""
 ---
-<h3>Registration is open!</h3>
-<p></p><a class="isomer-image-wrapper" href="https://www.gevme.com/BICOMH-ACSR-ISAM-2024"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/reg_now_v30sep.png"></a>
+<h3><strong>Registration has closed.</strong></h3>
+<p></p>
 <p>This congress features two conferences: the 8th Asian Congress of Schizophrenia
 Research (ACSR) and International Society of Addiction Medicine (ISAM)
 Regional Conference.</p>
@@ -27,7 +27,7 @@ please email <a href="mailto:PCG_Enquiries@ncss.gov.sg" rel="noopener noreferrer
 <p><strong>Category A:</strong> All countries not listed under category B
 <br><strong>Category B:</strong> (1) Bangladesh, (2) Cambodia, (3) India, (4)
 Laos, (5) Myanmar, (6) Nepal, (7) Pakistan, (8) Philippines, (9) Sri Lanka,
-(10) Vietnam</p><a class="isomer-image-wrapper" href="https://www.gevme.com/BICOMH-ACSR-ISAM-2024"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/reg_now_v30sep.png"></a>
+(10) Vietnam</p>
 <p><em>By clicking the "Register Now" button, you have clicked on a link which leaves the BICOMH website and you will be directed to a third party website.</em>
 </p>
 <p></p>
