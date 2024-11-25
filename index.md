@@ -7,14 +7,15 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Thank You!
+      title: Thank you for attending BICOMH 2024!
       background: /images/hero_22nov.png
       url: https://form.gov.sg/673fd782772439f5c7b8a4f5
       variant: floating
       size: md
       alignment: right
       backgroundColor: gray
-      button: Register your interest now
+      button: See you again on 15 - 17 July 2026 in Singapore. Register your interest
+        now!
       key_highlights:
         - title: ACSR Programme
           description: 19 -20 Nov 2024
