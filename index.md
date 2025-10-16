@@ -30,4 +30,12 @@ sections:
       id: infopic
       alt: Image alt text
       image: /images/Organised_By_2025.jpg
+  - infobar:
+      title: About BICOMH
+      id: infobar
+      description: Organised by the Institute of Mental Health (IMH Singapore) BICOMH
+        is a premier global platform dedicated to building bridges for the
+        mental health ecosystem.
+      button: learn more
+      url: /about-bicomh-2025/
 ---
