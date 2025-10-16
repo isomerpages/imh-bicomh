@@ -2,8 +2,4 @@ logo: /images/Logos/BICOMH_logo_3.png
 links:
   - title: About BICOMH
     url: /about-bicomh-2024/
-    sublinks:
-      - title: Welcome Message
-        url: /bicomh-welcome/
-      - title: Advisory Committee
-        url: /bicomh-ac/
+    sublinks: []
