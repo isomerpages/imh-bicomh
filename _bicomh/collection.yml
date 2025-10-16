@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - About BICOMH 2024.md
-      - Welcome Message.md
       - Advisory Committee.md
