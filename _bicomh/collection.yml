@@ -1,5 +1,4 @@
 collections:
   bicomh:
     output: true
-    order:
-      - About BICOMH 2024.md
+    order: []
