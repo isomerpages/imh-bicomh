@@ -20,6 +20,11 @@ sections:
           description: ""
           url: https://form.gov.sg/673fd782772439f5c7b8a4f5
   - infobar:
+      title: "Scientific Frontiers in Mood & Anxiety Disorders:"
+      subtitle: BICOMH 2025 Theme
+      id: infobar
+      description: Multimorbidity, Digital Innovation, and Therapeutic Transformation
+  - infobar:
       title: About BICOMH
       id: infobar
       description: Organised by the Institute of Mental Health (IMH Singapore) BICOMH
@@ -38,9 +43,4 @@ sections:
       id: infopic
       alt: Image alt text
       image: /images/Organised_By_2025.jpg
-  - infobar:
-      title: "Scientific Frontiers in Mood & Anxiety Disorders:"
-      subtitle: BICOMH 2025 Theme
-      id: infobar
-      description: Multimorbidity, Digital Innovation, and Therapeutic Transformation
 ---
