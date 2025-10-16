@@ -33,6 +33,10 @@ sections:
       button: learn more
       url: /about-bicomh-2025/
   - infopic:
+      title: Tracks
+      id: infopic
+      alt: Image alt text
+  - infopic:
       title: BICOMH 2024
       subtitle: highlights
       id: infopic
@@ -43,8 +47,4 @@ sections:
       id: infopic
       alt: Image alt text
       image: /images/Organised_By_2025.jpg
-  - infopic:
-      title: Tracks
-      id: infopic
-      alt: Image alt text
 ---
