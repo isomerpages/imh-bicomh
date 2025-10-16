@@ -43,4 +43,8 @@ sections:
       id: infopic
       alt: Image alt text
       image: /images/Organised_By_2025.jpg
+  - infopic:
+      title: Tracks
+      id: infopic
+      alt: Image alt text
 ---
