@@ -29,5 +29,5 @@ sections:
   - infopic:
       id: infopic
       alt: Image alt text
-      image: /images/organisedby_logo_v3.png
+      image: /images/Organised_By_2025.jpg
 ---
