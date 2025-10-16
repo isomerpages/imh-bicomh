@@ -37,6 +37,11 @@ sections:
       id: infopic
       alt: Image alt text
   - infopic:
+      title: Abstracts
+      id: infopic
+      description: Stay tuned for more information!
+      alt: Image alt text
+  - infopic:
       title: BICOMH 2024
       subtitle: highlights
       id: infopic
@@ -47,9 +52,4 @@ sections:
       id: infopic
       alt: Image alt text
       image: /images/Organised_By_2025.jpg
-  - infopic:
-      title: Abstracts
-      id: infopic
-      description: Stay tuned for more information!
-      alt: Image alt text
 ---
