@@ -42,6 +42,7 @@ sections:
       id: infopic
       description: Stay tuned for more information!
       alt: Image alt text
+      image: /images/image__15_.jpg
   - infopic:
       title: BICOMH 2024
       subtitle: highlights
