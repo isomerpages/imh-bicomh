@@ -36,7 +36,7 @@ sections:
       title: Tracks
       id: infopic
       alt: Image alt text
-      image: /images/BICOMH_2025_Tracks.jpg
+      image: /images/BICOMH_2025_Tracks_Enlarge.jpg
   - infopic:
       title: Abstracts
       id: infopic
