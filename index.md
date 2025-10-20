@@ -31,7 +31,7 @@ sections:
         is a premier global platform dedicated to building bridges for the
         mental health ecosystem.
       button: learn more
-      url: /about-bicomh-2025/
+      url: /about-bicomh-2026/
   - infopic:
       title: Tracks
       id: infopic
