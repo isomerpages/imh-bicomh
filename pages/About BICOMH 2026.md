@@ -15,18 +15,18 @@ the World Health Organization (WHO) estimates that one in four people will
 experience a mental health condition in their lifetime, underscoring the
 critical need for effective support systems.</p>
 <p>Inaugurated in 2024, BICOMH attracted more than 500 participants from
-16 countries. The 2nd edition is co-organised with Singapore's College
+16 countries. This 2nd edition is co-organised with Singapore's College
 of Psychiatry and the Singapore Psychiatric Association. It will bring
 together leading professionals to explore "Scientific Frontiers in Mood
 &amp; Anxiety Disorders: Multimorbidity, Digital Innovation, and Therapeutic
 Transformation".</p>
-<p>&nbsp;The Congress will bring together a diverse lineup of speakers, both
-local and international, whose expertise and varied perspectives aim to
-drive progress in the management of mood and anxiety disorders. Through
-the sharing of research findings and best practices, we strive to improve
-treatment outcomes and empower communities to provide more effective support
-systems for individuals on their recovery journey.</p>
-<p>&nbsp;Whether you are a clinician, service provider, or client, BICOMH
-offers a unique opportunity to learn, forge valuable connections, and contribute
+<p>The Congress will bring together a diverse lineup of speakers, both local
+and international, whose expertise and varied perspectives aim to drive
+progress in the management of mood and anxiety disorders. Through the sharing
+of research findings and best practices, we strive to improve treatment
+outcomes and empower communities to provide more effective support systems
+for individuals on their recovery journey.</p>
+<p>Whether you are a clinician, service provider, or client, BICOMH offers
+a unique opportunity to learn, forge valuable connections, and contribute
 to shaping a brighter future for mental health worldwide.</p>
 <p>&nbsp;</p>
