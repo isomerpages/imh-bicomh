@@ -19,7 +19,7 @@ critical need for effective support systems.</p>
 of Psychiatry and the Singapore Psychiatric Association. It will bring
 together leading professionals to explore "Scientific Frontiers in Mood
 &amp; Anxiety Disorders: Multimorbidity, Digital Innovation, and Therapeutic
-Transformation.</p>
+Transformation".</p>
 <p>&nbsp;The Congress will bring together a diverse lineup of speakers, both
 local and international, whose expertise and varied perspectives aim to
 drive progress in the management of mood and anxiety disorders. Through
