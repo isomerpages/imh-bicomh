@@ -7,36 +7,93 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Thank you for attending BICOMH 2024!
+      title: Biennial International Congress on Mental Health 2026
       background: /images/hero_22nov.png
       url: https://form.gov.sg/673fd782772439f5c7b8a4f5
       variant: floating
       size: md
       alignment: right
       backgroundColor: gray
-      button: See you again on 15 - 17 July 2026 in Singapore. Register your interest
-        now!
+      button: 15 – 17 July 2026, One Farrer Hotel Singapore
       key_highlights:
-        - title: ACSR Programme
-          description: 19 -20 Nov 2024
-          url: /acsr-programme-d1/
-        - title: ISAM Programme
-          description: 21 - 22 Nov 2024
-          url: /isam-programme-d1/
-        - title: Register your interest
-          description: Click Here
+        - title: Register your interest here!
+          description: ""
           url: https://form.gov.sg/673fd782772439f5c7b8a4f5
-      subtitle: Thank you for attending the inaugural Biennial International Congress
-        on Mental Health (BICOMH).
+  - infobar:
+      title: "Scientific Frontiers in Mood & Anxiety Disorders:"
+      subtitle: BICOMH 2025 Theme
+      id: infobar
+      description: Multimorbidity, Digital Innovation, and Therapeutic Transformation
+  - infobar:
+      title: About BICOMH
+      id: infobar
+      description: Organised by the Institute of Mental Health (IMH Singapore) BICOMH
+        is a premier global platform dedicated to building bridges for the
+        mental health ecosystem.
+      button: learn more
+      url: /about-bicomh-2026/
+  - textcards:
+      title: Tracks (Part 1)
+      id: textcards
+      description: The congress will feature 8 thematic tracks examining the
+        integration of scientific innovation and clinical practices for mood and
+        anxiety disorders.
+      cards:
+        - title: "1."
+          description: Multi-morbidity & Transdiagnostic Approaches
+          linktext: Stay tuned!
+          url: ""
+        - title: "2."
+          description: Advances in Psychosocial Interventions (Part 1)
+          linktext: Stay tuned!
+          url: ""
+        - title: "3."
+          description: Integrating Digital Tools with Traditional Care
+          linktext: Stay tuned!
+          url: ""
+        - title: "4."
+          description: Novel Development & Pharmacological / Neuromodulation Therapies
+          linktext: Stay tuned!
+          url: ""
+  - textcards:
+      title: Tracks (Part 2)
+      id: textcards
+      cards:
+        - title: "5."
+          description: Advances in Psychosocial Interventions (Part 2)
+          linktext: Stay tuned!
+          url: ""
+        - title: "6."
+          description: "Regulating Digital Therapeutics: Balancing Innovation and Safety"
+          linktext: Stay tuned!
+          url: ""
+        - title: "7."
+          description: "Upstream Solutions: Prevention, Digital Innovation, and Global
+            Mental Health"
+          linktext: Stay tuned!
+          url: ""
+        - title: "8."
+          description: "Creative Engagement: Expert Experience with PSS /
+            Patient-in-Recovery"
+          linktext: Stay tuned!
+          url: ""
+  - infopic:
+      title: Abstracts
+      id: infopic
+      description: Stay tuned for more information!
+      alt: Image alt text
+      image: /images/image__15_.jpg
   - infopic:
       title: BICOMH 2024
       subtitle: highlights
       id: infopic
-      description: Building Bridges for an Effective Mental Health Ecosystem
+      description: Thank you, delegates, for making BICOMH 2024 remarkable. We hope
+        you gained valuable insights and look forward to seeing you again in
+        2026!
       image: /images/bicomh2024_highlights.png
       alt: Image alt text
   - infopic:
       id: infopic
       alt: Image alt text
-      image: /images/organisedby_logo_v3.png
+      image: /images/Organised_By_2025.jpg
 ---
