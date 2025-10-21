@@ -14,12 +14,12 @@ mental health awareness and support. Mental health is a pressing issue;
 the World Health Organization (WHO) estimates that one in four people will
 experience a mental health condition in their lifetime, underscoring the
 critical need for effective support systems.</p>
-<p>Inaugurated in 2024, BICOMH is organised by the Institute of Mental Health
-(IMH) together with the College of Psychiatrists and the Singapore Psychiatric
-Association. The event attracted more than 500 participants from 16 countries
-/ regions. The 2nd edition will bring together leading professionals to
-explore "Scientific Frontiers in Mood &amp; Anxiety Disorders: Multimorbidity,
-Digital Innovation, and Therapeutic Transformation."</p>
+<p>Inaugurated in 2024, BICOMH attracted more than 500 participants from
+16 countries. The 2nd edition is co-organised with Singapore's College
+of Psychiatry and the Singapore Psychiatric Association. It will bring
+together leading professionals to explore "Scientific Frontiers in Mood
+&amp; Anxiety Disorders: Multimorbidity, Digital Innovation, and Therapeutic
+Transformation.</p>
 <p>&nbsp;The Congress will bring together a diverse lineup of speakers, both
 local and international, whose expertise and varied perspectives aim to
 drive progress in the management of mood and anxiety disorders. Through
