@@ -32,11 +32,51 @@ sections:
         mental health ecosystem.
       button: learn more
       url: /about-bicomh-2026/
-  - infopic:
-      title: Tracks
-      id: infopic
-      alt: Image alt text
-      image: /images/BICOMH_2025_Tracks_Long.png
+  - textcards:
+      title: Tracks (Part 1)
+      id: textcards
+      description: The congress will feature 8 thematic tracks examining the
+        integration of scientific innovation and clinical practices for mood and
+        anxiety disorders.
+      cards:
+        - title: "1."
+          description: Multi-morbidity & Transdiagnostic Approaches
+          linktext: Stay tuned!
+          url: ""
+        - title: "2."
+          description: Advances in Psychosocial Interventions (Part 1)
+          linktext: Stay tuned!
+          url: ""
+        - title: "3."
+          description: Integrating Digital Tools with Traditional Care
+          linktext: Stay tuned!
+          url: ""
+        - title: "4."
+          description: Novel Development & Pharmacological / Neuromodulation Therapies
+          linktext: Stay tuned!
+          url: ""
+  - textcards:
+      title: Tracks (Part 2)
+      id: textcards
+      cards:
+        - title: "5."
+          description: Advances in Psychosocial Interventions (Part 2)
+          linktext: Stay tuned!
+          url: ""
+        - title: "6."
+          description: "Regulating Digital Therapeutics: Balancing Innovation and Safety"
+          linktext: Stay tuned!
+          url: ""
+        - title: "7."
+          description: "Upstream Solutions: Prevention, Digital Innovation, and Global
+            Mental Health"
+          linktext: Stay tuned!
+          url: ""
+        - title: "8."
+          description: "Creative Engagement: Expert Experience with PSS /
+            Patient-in-Recovery"
+          linktext: Stay tuned!
+          url: ""
   - infopic:
       title: Abstracts
       id: infopic
