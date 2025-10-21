@@ -21,7 +21,7 @@ sections:
           url: https://form.gov.sg/673fd782772439f5c7b8a4f5
   - infobar:
       title: "Scientific Frontiers in Mood & Anxiety Disorders:"
-      subtitle: BICOMH 2025 Theme
+      subtitle: BICOMH 2026 Theme
       id: infobar
       description: Multimorbidity, Digital Innovation, and Therapeutic Transformation
   - infobar:
