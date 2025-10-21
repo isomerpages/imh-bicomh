@@ -47,7 +47,7 @@ sections:
       title: BICOMH 2024
       subtitle: highlights
       id: infopic
-      description: Thank you, delegates, for making BICOMH 2024 remarkable!   We hope
+      description: Thank you, delegates, for making BICOMH 2024 remarkable!  We hope
         you gained valuable insights and look forward to seeing you again in
         2026!
       image: /images/bicomh2024_highlights.png
