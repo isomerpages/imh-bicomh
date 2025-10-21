@@ -33,7 +33,7 @@ sections:
       button: learn more
       url: /about-bicomh-2026/
   - textcards:
-      title: Tracks (Part 1)
+      title: Tracks
       id: textcards
       description: The congress will feature 8 thematic tracks examining the
         integration of scientific innovation and clinical practices for mood and
@@ -56,7 +56,7 @@ sections:
           linktext: Stay tuned!
           url: ""
   - textcards:
-      title: Tracks (Part 2)
+      title: ""
       id: textcards
       cards:
         - title: "5."
