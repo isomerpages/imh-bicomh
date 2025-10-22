@@ -54,7 +54,7 @@ Disorders</p>
 <p>Regulating Digital Therapeutics: Balancing Innovation and Safety</p>
 </li>
 </ul>
-<p>&nbsp;<strong><u>Important:</u></strong>
+<p><strong><u>Important:</u></strong>
 </p>
 <p>Select the most appropriate track to ensure proper evaluation. Abstract
 content must align with the chosen track. The Programme Committee reserves
@@ -225,10 +225,10 @@ the complete terms and conditions via the online submission form.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>All abstract submission will be considered for <strong>Outstanding Abstract Awards</strong>.</p>
-<p>&nbsp;<strong>Abstract Evaluation Criteria</strong>
+<p><strong>Abstract Evaluation Criteria</strong>
 </p>
-<p>&nbsp;To assist authors in preparing high-quality submissions, abstracts
-will be evaluated according to the following criteria:</p>
+<p>To assist authors in preparing high-quality submissions, abstracts will
+be evaluated according to the following criteria:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>&nbsp;Relevance and Significance</strong>
