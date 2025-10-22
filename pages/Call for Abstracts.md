@@ -12,5 +12,5 @@ description: ""
 </p>
 <p></p>
 <p></p>
-<p>If you have trouble accessing the form, click here.</p>
+<p>If you have trouble accessing the form, click <a href="https://form.gov.sg/admin/form/68f7160117694275a646dd0f" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
