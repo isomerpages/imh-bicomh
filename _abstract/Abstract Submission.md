@@ -128,18 +128,29 @@ arise, a listed co-author must assume presentation responsibilities.</p>
 <p>Maximum length: 250 words (from introduction to conclusions). If the length
 exceeds the word limit, the Scientific Programme Committee reserves the
 right to reject the submission.</p>
-<p>&nbsp;</p>
-<p><strong><u>Required Structure:</u></strong>
+<p>&nbsp;<strong><u>Required Structure:</u></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Title (clearly indicating the nature
-of the research)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Introduction</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Objectives</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Methods</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Results</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conclusions</p>
-<p>&nbsp;</p>
-<p><strong><u>References and Citations</u></strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>Title (clearly indicating the nature of the research)</p>
+</li>
+<li>
+<p>Introduction</p>
+</li>
+<li>
+<p>Objectives</p>
+</li>
+<li>
+<p>Method</p>
+</li>
+<li>
+<p>Results</p>
+</li>
+<li>
+<p>Conclusions</p>
+</li>
+</ul>
+<p>&nbsp;<strong><u>References and Citations</u></strong>
 </p>
 <p>All citations must be referenced within the abstract text. Unreferenced
 elements will be removed before publication. Essential references should
@@ -152,8 +163,8 @@ follow this format: (Smith et al. J Mood Disord 2024; 15: 123-130).</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>Abstracts can be submitted through this link: <a href="https://form.gov.sg/68f7160117694275a646dd0f" rel="noopener noreferrer nofollow" target="_blank">BICOMH Abstract Submission</a> (
-<a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/68f7160117694275a646dd0f</a>)</p>
+<p>Abstracts can be submitted through this link: <a href="https://form.gov.sg/68f7160117694275a646dd0f" rel="noopener noreferrer nofollow" target="_blank">BICOMH Abstract Submission</a>
+</p>
 </li>
 <li>
 <p>Please submit in MS Word document file.</p>
