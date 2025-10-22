@@ -21,8 +21,8 @@ rejection within 4 to 6 weeks of submission.</p>
 <summary><strong>Submission Categories</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Abstracts may be submitted under one of the following nine conference
-tracks:</p>
+<p><strong>Abstracts may be submitted under one of the following nine conference tracks:</strong>
+</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
@@ -55,9 +55,11 @@ Disorders</p>
 </li>
 </ul>
 <p>&nbsp;</p>
-<p><u>Important:</u> Select the most appropriate track to ensure proper evaluation.
-Abstract content must align with the chosen track. The Programme Committee
-reserves the right to reassign abstracts to more suitable tracks if necessary.</p>
+<p><strong><u>Important:</u> </strong>
+</p>
+<p>Select the most appropriate track to ensure proper evaluation. Abstract
+content must align with the chosen track. The Programme Committee reserves
+the right to reassign abstracts to more suitable tracks if necessary.</p>
 <p>&nbsp;</p>
 </div>
 </details>
@@ -65,14 +67,14 @@ reserves the right to reassign abstracts to more suitable tracks if necessary.</
 <summary><strong>Submission Requirements</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><u>Presentation Format</u>
+<p><strong><u>Presentation Format</u></strong>
 </p>
 <p>Abstracts will be considered for Poster and Oral presentation. The Scientific
 Programme Committee will make final determinations regarding acceptance
 for Poster and selection for Oral presentation, considering the content
 and author preferences where possible.</p>
 <p>&nbsp;</p>
-<p><u>Language and Quality Standards</u>
+<p><strong><u>Language and Quality Standards</u></strong>
 </p>
 <p>All submissions must be prepared and presented in clear, professional
 English with proper grammar and spelling suitable for academic publication.
@@ -80,8 +82,9 @@ Authors are strongly encouraged to have their abstracts reviewed by native
 English speakers, institutional writing centres, or professional editors
 before submission. Abstracts will be published <em>exactly as submitted</em>.
 No editorial corrections will be made. <em>Modifications are not permitted after the submission deadline</em>.</p>
-<p>&nbsp;</p>
-<p><u>Ethical and Scientific Standards</u>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong><u>Ethical and Scientific Standards</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -109,13 +112,13 @@ publication guidelines</p>
 </li>
 </ul>
 <p>&nbsp;</p>
-<p><u>Conflict of Interest Declaration</u>
+<p><strong><u>Conflict of Interest Declaration</u></strong>
 </p>
 <p>To maintain educational integrity free from commercial influence, the
 submitting author must declare any potential conflicts of interest for
 all listed authors during the submission process.</p>
 <p>&nbsp;</p>
-<p><u>Submission Limits</u>
+<p><strong><u>Submission Limits</u></strong>
 </p>
 <p>Each individual may submit a maximum of 3 abstracts as presenting author.
 While organisers will attempt to prevent scheduling conflicts, if conflicts
