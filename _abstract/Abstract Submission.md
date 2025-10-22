@@ -266,6 +266,7 @@ reliability.</p>
 demonstrate valid interpretation of the data. Results should be clearly
 communicated with appropriate statistical analysis where applicable, ensuring
 conclusions are supported by the evidence presented.</p>
+<p></p>
 </li>
 <li>
 <p><strong>Scientific Conclusions</strong>
@@ -273,6 +274,7 @@ conclusions are supported by the evidence presented.</p>
 <p>Conclusions must logically follow from the presented results and directly
 address the original research objectives. Authors should avoid overstating
 findings or drawing conclusions that extend beyond what the data supports.</p>
+<p></p>
 </li>
 <li>
 <p><strong>Communication Quality</strong>
@@ -281,6 +283,7 @@ findings or drawing conclusions that extend beyond what the data supports.</p>
 correct writing that effectively communicates complex ideas. The structure
 should facilitate understanding whilst maintaining appropriate academic
 standards throughout.</p>
+<p></p>
 </li>
 <li>
 <p><strong>Innovation and Impact</strong>
@@ -289,6 +292,7 @@ standards throughout.</p>
 methodologies, generation of new insights, and potential impact on clinical
 practice, policy development, or advancement of scientific knowledge within
 mood and anxiety disorder research.</p>
+<p></p>
 </li>
 <li>
 <p><strong>Appropriateness for Academic Presentation</strong>
