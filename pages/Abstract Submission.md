@@ -54,8 +54,7 @@ Disorders</p>
 <p>Regulating Digital Therapeutics: Balancing Innovation and Safety</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p><strong><u>Important:</u> </strong>
+<p>&nbsp;<strong><u>Important:</u></strong>
 </p>
 <p>Select the most appropriate track to ensure proper evaluation. Abstract
 content must align with the chosen track. The Programme Committee reserves
@@ -73,8 +72,7 @@ the right to reassign abstracts to more suitable tracks if necessary.</p>
 Programme Committee will make final determinations regarding acceptance
 for Poster and selection for Oral presentation, considering the content
 and author preferences where possible.</p>
-<p>&nbsp;</p>
-<p><strong><u>Language and Quality Standards</u></strong>
+<p>&nbsp;<strong><u>Language and Quality Standards</u></strong>
 </p>
 <p>All submissions must be prepared and presented in clear, professional
 English with proper grammar and spelling suitable for academic publication.
@@ -82,9 +80,7 @@ Authors are strongly encouraged to have their abstracts reviewed by native
 English speakers, institutional writing centres, or professional editors
 before submission. Abstracts will be published <em>exactly as submitted</em>.
 No editorial corrections will be made. <em>Modifications are not permitted after the submission deadline</em>.</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong><u>Ethical and Scientific Standards</u></strong>
+<p><strong>&nbsp;<u>Ethical and Scientific Standards</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -111,14 +107,12 @@ publication guidelines</p>
 <p>Content must be balanced and free from commercial promotional material</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p><strong><u>Conflict of Interest Declaration</u></strong>
+<p>&nbsp;<strong><u>Conflict of Interest Declaration</u></strong>
 </p>
 <p>To maintain educational integrity free from commercial influence, the
 submitting author must declare any potential conflicts of interest for
 all listed authors during the submission process.</p>
-<p>&nbsp;</p>
-<p><strong><u>Submission Limits</u></strong>
+<p>&nbsp;<strong><u>Submission Limits</u></strong>
 </p>
 <p>Each individual may submit a maximum of 3 abstracts as presenting author.
 While organisers will attempt to prevent scheduling conflicts, if conflicts
