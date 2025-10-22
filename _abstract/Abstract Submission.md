@@ -229,6 +229,7 @@ the complete terms and conditions via the online submission form.</p>
 </p>
 <p>To assist authors in preparing high-quality submissions, abstracts will
 be evaluated according to the following criteria:</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>&nbsp;Relevance and Significance</strong>
@@ -238,6 +239,7 @@ theme "Scientific Frontiers in Mood &amp; Anxiety Disorders: Multimorbidity,
 Digital Innovation, and Therapeutic Transformation" and hold substantial
 importance for conference attendees and the broader scientific community
 working in mood and anxiety disorders.</p>
+<p></p>
 </li>
 <li>
 <p>&nbsp;<strong>Research Focus and Objectives</strong>
@@ -246,6 +248,7 @@ working in mood and anxiety disorders.</p>
 focused, and directly relevant to the chosen conference track. Objectives
 must be sufficiently specific and achievable within the scope of the presented
 work, avoiding overly broad or unfocused research questions.</p>
+<p></p>
 </li>
 <li>
 <p><strong>Methodological Rigour</strong>
@@ -254,11 +257,9 @@ work, avoiding overly broad or unfocused research questions.</p>
 objectives, scientifically sound, and clearly justified. Authors should
 provide sufficient detail regarding their approach, including analytical
 methods, to allow proper evaluation of the research design's validity and
-reliability.</p>
+reliability.&nbsp;</p>
+<p></p>
 </li>
-</ul>
-<p>&nbsp;</p>
-<ul data-tight="true" class="tight">
 <li>
 <p><strong>Results and Data Interpretation</strong>
 </p>
