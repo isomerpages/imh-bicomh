@@ -2,4 +2,5 @@ collections:
   abstract:
     output: true
     order:
+      - Guidelines.md
       - Call for Abstracts.md
