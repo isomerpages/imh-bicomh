@@ -214,16 +214,13 @@ the complete terms and conditions via the online submission form.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>All abstract submission will be considered for <strong>Outstanding Abstract Awards</strong>.</p>
-<p>&nbsp;</p>
-<p><strong>Abstract Evaluation Criteria</strong>
+<p>&nbsp;<strong>Abstract Evaluation Criteria</strong>
 </p>
 <p>&nbsp;To assist authors in preparing high-quality submissions, abstracts
 will be evaluated according to the following criteria:</p>
-<p><strong>&nbsp;</strong>
-</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Relevance and Significance</strong>
+<p><strong>&nbsp;Relevance and Significance</strong>
 </p>
 <p>The research topic must demonstrate clear relevance to the conference
 theme "Scientific Frontiers in Mood &amp; Anxiety Disorders: Multimorbidity,
@@ -231,22 +228,16 @@ Digital Innovation, and Therapeutic Transformation" and hold substantial
 importance for conference attendees and the broader scientific community
 working in mood and anxiety disorders.</p>
 </li>
-</ul>
-<p>&nbsp;</p>
-<ul data-tight="true" class="tight">
 <li>
-<p><strong>Research Focus and Objectives</strong>
+<p>&nbsp;<strong>Research Focus and Objectives</strong>
 </p>
 <p>Aims and research questions should be clearly articulated, appropriately
 focused, and directly relevant to the chosen conference track. Objectives
 must be sufficiently specific and achievable within the scope of the presented
 work, avoiding overly broad or unfocused research questions.</p>
 </li>
-</ul>
-<p>&nbsp;</p>
-<ul data-tight="true" class="tight">
 <li>
-<p><strong>Methodological Rigour </strong>
+<p><strong>Methodological Rigour</strong>
 </p>
 <p>The methodology must be appropriate for addressing the stated research
 objectives, scientifically sound, and clearly justified. Authors should
@@ -265,9 +256,6 @@ demonstrate valid interpretation of the data. Results should be clearly
 communicated with appropriate statistical analysis where applicable, ensuring
 conclusions are supported by the evidence presented.</p>
 </li>
-</ul>
-<p>&nbsp;</p>
-<ul data-tight="true" class="tight">
 <li>
 <p><strong>Scientific Conclusions</strong>
 </p>
@@ -275,9 +263,6 @@ conclusions are supported by the evidence presented.</p>
 address the original research objectives. Authors should avoid overstating
 findings or drawing conclusions that extend beyond what the data supports.</p>
 </li>
-</ul>
-<p>&nbsp;</p>
-<ul data-tight="true" class="tight">
 <li>
 <p><strong>Communication Quality</strong>
 </p>
@@ -286,9 +271,6 @@ correct writing that effectively communicates complex ideas. The structure
 should facilitate understanding whilst maintaining appropriate academic
 standards throughout.</p>
 </li>
-</ul>
-<p>&nbsp;</p>
-<ul data-tight="true" class="tight">
 <li>
 <p><strong>Innovation and Impact</strong>
 </p>
@@ -297,9 +279,6 @@ methodologies, generation of new insights, and potential impact on clinical
 practice, policy development, or advancement of scientific knowledge within
 mood and anxiety disorder research.</p>
 </li>
-</ul>
-<p>&nbsp;</p>
-<ul data-tight="true" class="tight">
 <li>
 <p><strong>Appropriateness for Academic Presentation</strong>
 </p>
