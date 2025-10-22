@@ -1,0 +1,6 @@
+collections:
+  abstract:
+    output: true
+    order:
+      - Abstract Submission.md
+      - Call for Abstracts.md

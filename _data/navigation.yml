@@ -2,3 +2,5 @@ logo: /images/Logos/BICOMH_logo_3.png
 links:
   - title: About BICOMH
     url: /about-bicomh-2026/
+  - title: Abstract
+    collection: abstract
