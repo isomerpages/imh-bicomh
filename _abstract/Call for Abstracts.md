@@ -4,7 +4,7 @@ permalink: /abstracts/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<h4>Submission closes on 31 Mar 2026</h4>
 <div class="iframe-wrapper">
 <iframe style="width: 105%; height: 1200px" allowfullscreen="true" frameborder="0" src="https://form.gov.sg/68f7160117694275a646dd0f"></iframe>
 </div>
