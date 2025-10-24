@@ -8,9 +8,9 @@ description: ""
 <h4><strong>Conference Theme</strong>: Scientific Frontiers in Mood &amp; Anxiety Disorders: Multimorbidity, Digital Innovation, and Therapeutic Transformation</h4>
 <p></p>
 <h4><strong>&nbsp;Abstract Submission Overview</strong></h4>
-<p>&nbsp;Please review all guidelines thoroughly before preparing your submission.
-Abstracts must be received by the specified deadline. Late submissions
-will not be considered under any circumstances.&nbsp;</p>
+<p>Please review all guidelines thoroughly before preparing your submission.
+Abstracts must be received by <strong><u>31st March 2026</u></strong>. Late
+submission will not be considered under any circumstances.</p>
 <p>All abstracts must be submitted exclusively through our online submission
 platform. Email submissions will not be accepted.&nbsp;</p>
 <p>Abstract contributors will receive notification regarding acceptance or
