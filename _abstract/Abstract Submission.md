@@ -9,7 +9,7 @@ description: ""
 <p></p>
 <h4><strong>&nbsp;Abstract Submission Overview</strong></h4>
 <p>Please review all guidelines thoroughly before preparing your submission.
-Abstracts must be received by <strong><u>31th March 2026</u></strong>. Late
+Abstracts must be received by <strong><u>31st March 2026</u></strong>. Late
 submission will not be considered under any circumstances.</p>
 <p>All abstracts must be submitted exclusively through our online submission
 platform. Email submissions will not be accepted.&nbsp;</p>
