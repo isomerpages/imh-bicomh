@@ -80,9 +80,12 @@ sections:
   - infopic:
       title: Abstracts
       id: infopic
-      description: Stay tuned for more information!
+      description: Submit your abstract today and join our lineup of visionary speakers!
       alt: Image alt text
       image: /images/image__15_.jpg
+      subtitle: "Submission closes: 31 Mar 2026"
+      button: Learn more
+      url: /abstract/
   - infopic:
       title: BICOMH 2024
       subtitle: highlights
