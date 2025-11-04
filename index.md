@@ -98,5 +98,6 @@ sections:
   - infopic:
       id: infopic
       alt: Image alt text
-      image: /images/Organised_By_2025.jpg
+      image: /images/Organised_by__2_.png
+      subtitle: ""
 ---
