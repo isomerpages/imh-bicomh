@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - Abstract Guidelines.md
-      - Call for Abstracts.md
+      - "Call for Abstracts: Submission.md"
