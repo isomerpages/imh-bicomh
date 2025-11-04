@@ -85,7 +85,7 @@ sections:
       image: /images/image__15_.jpg
       subtitle: "Submission closes: 31 Mar 2026"
       button: Learn more
-      url: /abstract-submission/
+      url: /abstract-guidelines/
   - infopic:
       title: BICOMH 2024
       subtitle: highlights
@@ -98,5 +98,5 @@ sections:
   - infopic:
       id: infopic
       alt: Image alt text
-      image: /images/Organised_By_2025.jpg
+      image: /images/Organised_by__2_.png
 ---

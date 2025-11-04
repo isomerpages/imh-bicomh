@@ -1,6 +1,6 @@
 ---
-title: Abstract Submission
-permalink: /abstract-submission/
+title: Abstract Guidelines
+permalink: /abstract-guidelines/
 variant: tiptap
 description: ""
 ---

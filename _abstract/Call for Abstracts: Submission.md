@@ -1,5 +1,5 @@
 ---
-title: Call for Abstracts
+title: "Call for Abstracts: Submission"
 permalink: /abstracts/
 variant: tiptap
 description: ""
