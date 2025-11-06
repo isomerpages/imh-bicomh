@@ -2,7 +2,7 @@
 layout: homepage
 title: Biennial International Congress on Mental Health 2026
 description: 15 - 17 July 2026
-image: /images/link_logo_with_dates.png
+image: /images/Logos/BICOMH_logo_3.png
 permalink: /
 notification: ""
 sections:
