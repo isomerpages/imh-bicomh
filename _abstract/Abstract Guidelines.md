@@ -7,7 +7,7 @@ description: ""
 <h1><strong>SCIENTIFIC ABSTRACT SUBMISSION GUIDELINES<br></strong></h1>
 <h4><strong>Conference Theme</strong>: Scientific Frontiers in Mood &amp; Anxiety Disorders: Multimorbidity, Digital Innovation, and Therapeutic Transformation</h4>
 <p></p>
-<h4><strong>&nbsp;Abstract Submission Overview</strong></h4>
+<h4><strong>Abstract Submission Overview</strong></h4>
 <p>Please review all guidelines thoroughly before preparing your submission.
 Abstracts must be received by <strong><u>31st March 2026</u></strong>. Late
 submission will not be considered under any circumstances.</p>
@@ -33,7 +33,7 @@ Disorders</p>
 <p>Neurobiological Advances in Mood and Anxiety Disorders</p>
 </li>
 <li>
-<p>Novel Development &amp; Pharmacological / Neuromodulation Therapies</p>
+<p>Novel Development in Biological and Neuromodulation Therapies</p>
 </li>
 <li>
 <p>Socio-Cultural Dimensions and Trauma-informed Care</p>
@@ -48,7 +48,7 @@ Disorders</p>
 <p>Integrating Digital Tools with Traditional Care</p>
 </li>
 <li>
-<p>Upstream Solutions: Prevention &amp; Digital Innovation</p>
+<p>Upstream Solutions: Prevention Medicine &amp; Global Mental Health</p>
 </li>
 <li>
 <p>Regulating Digital Therapeutics: Balancing Innovation and Safety</p>
