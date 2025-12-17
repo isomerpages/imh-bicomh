@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - ProgrammeACSR/.keep
-      - ProgrammeACSR/Day 1 ProgrammeACSR.md
       - ProgrammeACSR/Day 2 ProgrammeACSR.md
       - ProgrammeACSR/Sponsored Lunch Talk | 19 NovACSR.md
       - ProgrammeACSR/Sponsored Lunch  Talk | 20 NovACSR.md
