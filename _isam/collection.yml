@@ -2,7 +2,6 @@ collections:
   isam:
     output: true
     order:
-      - Organising CommitteeISAM.md
       - Speakers/.keep
       - Speakers/Keynote and Plenary Speakers.md
       - Speakers/Track Speakers.md
