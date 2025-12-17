@@ -2,6 +2,7 @@ collections:
   z-bicomh-2024:
     output: true
     order:
+      - BICOMH 2024 tnc.md
       - BICOMH 2024 Reg.md
       - ISAM Speakers.md
       - ACSR Speakers.md
