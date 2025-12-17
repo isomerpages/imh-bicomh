@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Programme/.keep
-      - Programme/Fireside ChatISAM.md
       - "Programme/Public Forum: Navigating Screen Time: ISAM.md"
