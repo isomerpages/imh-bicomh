@@ -4,7 +4,7 @@ collections:
     order:
       - Speakers/.keep
       - Speakers/Keynote and Plenary SpeakersISAM.md
-      - Speakers/Track Speakers.md
+      - Speakers/Track SpeakersISAM.md
       - Programme/.keep
       - Programme/Day 1 Programme.md
       - Programme/Day 2 Programme.md
