@@ -2,7 +2,6 @@ collections:
   acsr:
     output: true
     order:
-      - Welcome Message ACSR.md
       - Organising Committee ACSR.md
       - SpeakersACSR/.keep
       - SpeakersACSR/Keynote and Plenary Speakers.md
