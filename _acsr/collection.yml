@@ -4,9 +4,9 @@ collections:
     order:
       - Welcome Message ACSR.md
       - Organising Committee ACSR.md
-      - Speakers/.keep
-      - Speakers/Keynote and Plenary Speakers.md
-      - Speakers/Track Speakers.md
+      - SpeakersACSR/.keep
+      - SpeakersACSR/Keynote and Plenary Speakers.md
+      - SpeakersACSR/Track Speakers.md
       - Programme/.keep
       - Programme/Day 1 Programme.md
       - Programme/Day 2 Programme.md
