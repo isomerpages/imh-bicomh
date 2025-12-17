@@ -1,5 +1,4 @@
 collections:
   isam:
     output: true
-    order:
-      - Programme/.keep
+    order: []
