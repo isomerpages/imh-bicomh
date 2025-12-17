@@ -2,7 +2,6 @@ collections:
   acsr:
     output: true
     order:
-      - SpeakersACSR/.keep
       - ProgrammeACSR/.keep
       - ProgrammeACSR/Day 1 Programme.md
       - ProgrammeACSR/Day 2 Programme.md
