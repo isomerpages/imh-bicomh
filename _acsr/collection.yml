@@ -2,7 +2,6 @@ collections:
   acsr:
     output: true
     order:
-      - Organising Committee ACSR.md
       - SpeakersACSR/.keep
       - SpeakersACSR/Keynote and Plenary Speakers.md
       - SpeakersACSR/Track Speakers.md
