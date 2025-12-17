@@ -2,6 +2,7 @@ collections:
   bicomh-2024:
     output: true
     order:
+      - Register Your Interest.md
       - Outline.md
       - Dr Amelia Sim.md
       - About BICOMH 2024.md
