@@ -5,9 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h3>TERMS &amp; CONDITIONS</h3>
-<p>&nbsp;Your participation in the Biennial International Congress on Mental
-Health 2026 (“BICOMH 2026” or the “Congress”) is governed by the terms
-and conditions (“Terms”) herein.</p>
+<p>Your participation in the Biennial International Congress on Mental Health
+2026 (“BICOMH 2026” or the “Congress”) is governed by the terms and conditions
+(“Terms”) herein.</p>
 <p>&nbsp;You must accept these Terms issued by the National Healthcare Group
 Pte Ltd (“Organiser”) in order to register for the Congress, submit your
 respective abstracts and/or participate in the Congress. By registering
