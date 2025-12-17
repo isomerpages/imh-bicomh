@@ -2,7 +2,6 @@ collections:
   isam:
     output: true
     order:
-      - Welcome MessageISAM.md
       - Organising Committee.md
       - Speakers/.keep
       - Speakers/Keynote and Plenary Speakers.md
