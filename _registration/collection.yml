@@ -2,5 +2,5 @@ collections:
   registration:
     output: true
     order:
-      - Old BICOMH.md
+      - BICOMH 2024 Reg.md
       - Terms and Conditions.md
