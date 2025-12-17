@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - ProgrammeACSR/.keep
-      - ProgrammeACSR/Sponsored Lunch Talk | 19 NovACSR.md
       - ProgrammeACSR/Sponsored Lunch  Talk | 20 NovACSR.md
       - ProgrammeACSR/Public Forum on Understanding SchizophreniaACSR.md
