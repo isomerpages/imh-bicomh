@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Speakers/.keep
-      - Speakers/Track SpeakersISAM.md
       - Programme/.keep
       - Programme/Day 1 Programme.md
       - Programme/Day 2 Programme.md
