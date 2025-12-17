@@ -2,7 +2,6 @@ collections:
   acsr-speakers:
     output: true
     order:
-      - ACSR Speakers.md
       - Keynote and Plenary Speakers/.keep
       - Keynote and Plenary Speakers/Prof Peter Jones.md
       - Keynote and Plenary Speakers/Prof Liu Chen Chung.md
