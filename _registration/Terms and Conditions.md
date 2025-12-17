@@ -66,7 +66,8 @@ at the registration counters.</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp; Travel arrangement and accommodation are not
 included. Only payment via Credit Card and Paynow are accepted.</p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp; Payment of the registration fees must be received
-by the Congress Organiser by 06 July 2026, Monday, 2359hrs.</p>
+by the Congress Organiser by <strong>06 July 2026, Monday, 2359hrs.</strong>
+</p>
 <p>7.&nbsp;&nbsp;&nbsp;&nbsp; “Student Matriculation Card” or proof of qualifying
 full-time tertiary student status must be submitted online during registration.
 Only if a technical error had occurred during the registration process
@@ -111,9 +112,9 @@ for substitution.</p>
 or any other changes other than as set out in Clauses D1 and D2 above,
 a fee of Singapore Dollars Forty (S$40.00) plus 9% GST will be chargeable.</p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp; All substitution requests with full name and
-contact details must be emailed to the BICOMH Secretariat by 30 June 2026,
-Tuesday, 2359hrs. Request for transfers of registration will not be entertained
-after 30 June 2026.</p>
+contact details must be emailed to the BICOMH Secretariat by <strong>30 June 2026, Tuesday, 2359hrs</strong>.
+Request for transfers of registration will not be entertained after 30
+June 2026.</p>
 <p>&nbsp;E. PROHIBITED CONDUCT</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp; All Delegates are expected to conduct themselves
 professionally when attending the Congress.</p>
@@ -186,8 +187,8 @@ in accordance with this Privacy Policy.</p>
 Contact Information</p>
 <p>(i)&nbsp;&nbsp;&nbsp;&nbsp; A variety of information may be collected,
 including your first name, surname, Profession, Designation, Department,
-MCR/SNB/PRN number, Organisation, Institution, Institution Address, Business
-Email Address, and Payment Card Information (for payment).</p>
+MCR/SNB/PRN number, Organisation, Institution, Business Email Address,
+and Payment Card Information (for payment).</p>
 <p>(ii)&nbsp;&nbsp; For students who are representing your schools, your
 school email address is considered business contact information. Should
 you wish to provide your personal email address and contact number, please
