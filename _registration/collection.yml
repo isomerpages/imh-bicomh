@@ -2,5 +2,4 @@ collections:
   registration:
     output: true
     order:
-      - BICOMH 2024 Reg.md
       - BICOMH 2024 tnc.md
