@@ -1,5 +1,5 @@
 collections:
-  isam-speakers:
+  z-archive-isam-speakers:
     output: true
     order:
       - Keynote and Plenary Speakers/.keep
