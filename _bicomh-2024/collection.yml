@@ -2,6 +2,7 @@ collections:
   bicomh-2024:
     output: true
     order:
+      - Sponsor and Exhibitor ProfilesACSR.md
       - PostersACSR.md
       - Track SpeakersACSR.md
       - Keynote and Plenary SpeakersACSR.md
