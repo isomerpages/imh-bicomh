@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Programme/.keep
-      - Programme/Day 1 ProgrammeISAM.md
       - Programme/Day 2 ProgrammeISAM.md
       - Programme/Fireside ChatISAM.md
       - "Programme/Public Forum: Navigating Screen Time: ISAM.md"
