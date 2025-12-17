@@ -2,4 +2,5 @@ collections:
   bicomh-2024:
     output: true
     order:
+      - Dr Amelia Sim.md
       - About BICOMH 2024.md
