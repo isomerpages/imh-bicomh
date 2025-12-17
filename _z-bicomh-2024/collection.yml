@@ -2,6 +2,7 @@ collections:
   z-bicomh-2024:
     output: true
     order:
+      - ISAM Speakers.md
       - ACSR Speakers.md
       - Public Forum on Understanding SchizophreniaACSR.md
       - Sponsored Lunch  Talk | 20 NovACSR.md
