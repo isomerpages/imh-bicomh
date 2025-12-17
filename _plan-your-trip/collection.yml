@@ -1,4 +1,5 @@
 collections:
   plan-your-trip:
     output: true
-    order: []
+    order:
+      - Plan Your Trip.md
