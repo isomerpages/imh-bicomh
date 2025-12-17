@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Welcome Message ACSR.md
-      - Organising Committee.md
+      - Organising Committee ACSR.md
       - Speakers/.keep
       - Speakers/Keynote and Plenary Speakers.md
       - Speakers/Track Speakers.md
