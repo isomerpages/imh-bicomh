@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - SpeakersACSR/.keep
-      - SpeakersACSR/Keynote and Plenary SpeakersACSR.md
       - SpeakersACSR/Track SpeakersACSR.md
       - ProgrammeACSR/.keep
       - ProgrammeACSR/Day 1 Programme.md
