@@ -2,6 +2,7 @@ collections:
   bicomh-2024:
     output: true
     order:
+      - Sponsored Lunch Talk | 19 NovACSR.md
       - Day 2 ProgrammeACSR.md
       - Day 1 ProgrammeACSR.md
       - Sponsor and Exhibitor ProfilesACSR.md
