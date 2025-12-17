@@ -2,6 +2,7 @@ collections:
   bicomh-2024:
     output: true
     order:
+      - Test.md
       - RegistrationSample.md
       - Welcome Message.md
       - Register Your Interest.md
