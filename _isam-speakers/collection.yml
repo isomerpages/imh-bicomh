@@ -2,7 +2,6 @@ collections:
   isam-speakers:
     output: true
     order:
-      - ISAM Speakers.md
       - Keynote and Plenary Speakers/.keep
       - Keynote and Plenary Speakers/Prof Marc N Potenza.md
       - Keynote and Plenary Speakers/Prof David C Hodgins.md
