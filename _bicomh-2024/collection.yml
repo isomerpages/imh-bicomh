@@ -2,5 +2,6 @@ collections:
   bicomh-2024:
     output: true
     order:
+      - Outline.md
       - Dr Amelia Sim.md
       - About BICOMH 2024.md
