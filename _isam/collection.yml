@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Speakers/.keep
-      - Speakers/Keynote and Plenary Speakers.md
+      - Speakers/Keynote and Plenary SpeakersISAM.md
       - Speakers/Track Speakers.md
       - Programme/.keep
       - Programme/Day 1 Programme.md
