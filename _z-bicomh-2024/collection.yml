@@ -2,6 +2,7 @@ collections:
   z-bicomh-2024:
     output: true
     order:
+      - Day 1 ProgrammeISAM.md
       - Track SpeakersISAM.md
       - Keynote and Plenary SpeakersISAM.md
       - Sponsor and Exhibitor ProfilesISAM.md
