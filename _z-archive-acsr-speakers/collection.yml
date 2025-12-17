@@ -1,5 +1,5 @@
 collections:
-  archive-acsr-speakers:
+  z-archive-acsr-speakers:
     output: true
     order:
       - Keynote and Plenary Speakers/.keep
