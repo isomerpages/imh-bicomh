@@ -2,5 +2,5 @@ collections:
   registration:
     output: true
     order:
-      - Registration.md
+      - Old BICOMH.md
       - Terms and Conditions.md
