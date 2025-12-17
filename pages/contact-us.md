@@ -8,6 +8,6 @@ contacts:
       - phone: ""
       - email: bicomh@nhghealth.com.sg
       - other: ""
-    title: General Enquiries
+    title: Secretariat
 feedback: ""
 ---
