@@ -8,11 +8,12 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BICOMH_2026_Registration_Prices_v0_1.jpg">
 </div>
-<p>¹ Group rates apply to 2 or more registrations from the same billing organisation</p>
-<p>² Live streaming is only available for main ballroom presentations</p>
-<p>³ Student rates are for full-time tertiary students only</p>
+<p>¹ Group rates apply to 2 or more registrations from the same billing organisation.</p>
+<p>² Live streaming is only available for main ballroom presentations.</p>
+<p>³ Student rates are for full-time tertiary students only.</p>
 <p>All prices are in Singapore Dollars (SGD). A 9% Goods and Services Tax
 (GST) applies.</p>
+<p>Early Bird ends 15 April 2026.</p>
 <hr>
 <p><u>REGISTRATION ENQUIRIES</u>
 </p>
