@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Register_Now_Early_Bird__2_.png">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BICOMH_2026_Registration_Prices_v0_3.png">
