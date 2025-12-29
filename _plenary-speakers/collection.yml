@@ -1,0 +1,4 @@
+collections:
+  plenary-speakers:
+    output: true
+    order: []
