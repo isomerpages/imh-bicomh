@@ -20,7 +20,6 @@ description: ""
 </p>
 <p>All prices are in Singapore Dollars (SGD). A 9% Goods and Services Tax
 (GST) applies.</p>
-<p>Early Bird ends 15 April 2026.</p>
 <hr>
 <p><u>REGISTRATION ENQUIRIES</u>
 </p>
