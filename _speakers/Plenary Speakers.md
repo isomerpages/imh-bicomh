@@ -15,6 +15,9 @@ description: ""
 <th rowspan="1" colspan="1">
 <p>hi</p>
 <p>hi</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Micheal_Berk_Thumbnail.png">
+</div>
 <p>hi</p>
 </th>
 <th rowspan="1" colspan="1">
