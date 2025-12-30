@@ -18,18 +18,12 @@ description: ""
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/professor-nick-titov/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nick_Titov_Thumbnail.png"></a>
 <p>Professor Nick Titov</p>
 </th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/John_Torous_Thumbnail.png">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/professor-john-torous/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/John_Torous_Thumbnail.png"></a>
 <p>Professor John Torous</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maurizio_Fava_Thumbnail.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/professor-maurizio-fava/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maurizio_Fava_Thumbnail.png"></a>
 <p><strong>Professor Maurizio Fava</strong>
 </p>
 </td>
