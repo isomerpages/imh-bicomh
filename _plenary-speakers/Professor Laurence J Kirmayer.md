@@ -7,6 +7,55 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Professor_Laurence_J__Kirmayer.png">
 </div>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Plenary Topics</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p><strong>Ecologies of Mind: Bridging Meaning and Mechanism in Cultural Psychiatry and Mental Health&nbsp;</strong>
+</p>
+</td>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Track Topics</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Working with communities: Cultural consultation and mental health promotion</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Fireside Chat </strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>Laurence J. Kirmayer, MD, FRCPC, FCAHS, FRSC is Distinguished James McGill
 Professor and Director&nbsp;<a href="http://www.mcgill.ca/tcpsych" rel="noopener noreferrer nofollow" target="_blank">Division of Social and Transcultural Psychiatry</a>,
 Department of Psychiatry, McGill University. He is a Senior Investigator
