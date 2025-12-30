@@ -4,9 +4,8 @@ permalink: /professor-michael-berk/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Michael_Berk.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Professor_Michael_Berk.png">
 </div>
 <p></p>
 <table style="minWidth: 75px">
@@ -30,7 +29,7 @@ for Targeted Drug Repurposing</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Fireside chat </strong>
+<p><strong>Fireside chat</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
