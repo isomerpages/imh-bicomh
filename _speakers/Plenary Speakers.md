@@ -39,10 +39,7 @@ description: ""
 <p><strong>Professor Maurizio Fava</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Felice_N_Jacka_Thumbnail.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/professor-felice-n-jacka-oam/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Felice_N_Jacka_Thumbnail.png"></a>
 <p><strong>Professor Felice N Jacka</strong>
 </p>
 </td>
