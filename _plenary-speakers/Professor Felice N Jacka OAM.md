@@ -4,9 +4,8 @@ permalink: /professor-felice-n-jacka-oam/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Felice_N_Jacka.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Professor_Felice_N_Jacka_OAM.png">
 </div>
 <p></p>
 <table style="minWidth: 75px">
@@ -63,5 +62,6 @@ by Pan Macmillan in July 2020. She is a Clarivate Highly Cited researcher
 (2020-24), putting her in the top 0.1% of scientists worldwide. In 2021
 she was awarded the Medal of the Order of Australia (Queen’s honour) for
 her contributions to Nutritional Psychiatry.</p>
+<p></p>
 <p></p>
 <p></p>
