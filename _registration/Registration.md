@@ -10,7 +10,7 @@ description: ""
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BICOMH_2026_Registration_Prices_v0_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BICOMH_2026_Registration_Prices_v0_3_BIG.png">
 </div>
 <p><em>¹ Group rates apply to 2 or more registrations from the same billing organisation.</em>
 </p>
