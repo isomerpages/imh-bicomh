@@ -2,6 +2,7 @@ collections:
   plenary-speakers:
     output: true
     order:
+      - Professor Laurence J Kirmayer.md
       - Professor Nick Titov.md
       - Professor Michael Berk.md
       - Professor Felice N Jacka OAM.md
