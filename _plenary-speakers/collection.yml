@@ -2,5 +2,6 @@ collections:
   plenary-speakers:
     output: true
     order:
+      - Professor Nick Titov.md
       - Professor Michael Berk.md
       - Professor Felice N Jacka OAM.md
