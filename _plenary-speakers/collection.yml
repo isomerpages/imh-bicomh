@@ -2,7 +2,7 @@ collections:
   plenary-speakers:
     output: true
     order:
-      - Porfessor John Torous.md
+      - Professor John Torous.md
       - Professor Laurence J Kirmayer.md
       - Professor Nick Titov.md
       - Professor Michael Berk.md
