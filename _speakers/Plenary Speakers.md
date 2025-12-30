@@ -15,10 +15,7 @@ description: ""
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/professor-michael-berk/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Micheal_Berk_Thumbnail.png"></a>
 <p>Professor Micheal Berk</p>
 </th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nick_Titov_Thumbnail.png">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/professor-nick-titov/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nick_Titov_Thumbnail.png"></a>
 <p>Professor Nick Titov</p>
 </th>
 <th rowspan="1" colspan="1">
@@ -40,10 +37,7 @@ description: ""
 <p><strong>Professor Felice N Jacka</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Laurence_Kirmayer_Thumbnail.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/professor-laurence-j-kirmayer/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Laurence_Kirmayer_Thumbnail.png"></a>
 <p><strong>Professor Laurence Kirmayer</strong>
 </p>
 </td>
