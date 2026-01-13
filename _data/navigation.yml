@@ -2,5 +2,9 @@ logo: /images/Logos/BICOMH_logo_3.png
 links:
   - title: About BICOMH
     url: /about-bicomh-2026/
+  - title: Registration
+    collection: registration
   - title: Abstract
     collection: abstract
+  - title: Plan your trip
+    url: /plan-your-trip/

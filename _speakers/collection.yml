@@ -1,0 +1,6 @@
+collections:
+  speakers:
+    output: true
+    order:
+      - Track Speakers.md
+      - Plenary Speakers.md

@@ -1,7 +1,0 @@
-collections:
-  public-forum:
-    output: true
-    order:
-      - Public Forum on Understanding Schizophrenia.md
-      - "Navigating Screen Time: Supporting Healthy Digital Habits for
-        Children.md"

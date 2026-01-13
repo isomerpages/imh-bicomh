@@ -1,0 +1,10 @@
+collections:
+  plenary-speakers:
+    output: true
+    order:
+      - Professor Maurizio Fava.md
+      - Professor John Torous.md
+      - Professor Laurence J Kirmayer.md
+      - Professor Nick Titov.md
+      - Professor Michael Berk.md
+      - Professor Felice N Jacka OAM.md

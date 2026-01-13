@@ -1,0 +1,52 @@
+---
+title: Plenary Speakers
+permalink: /plenary-speakers/
+variant: tiptap
+description: ""
+---
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/professor-michael-berk/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Micheal_Berk_Thumbnail.png"></a>
+<p>Professor Micheal Berk</p>
+</th>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/professor-nick-titov/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nick_Titov_Thumbnail.png"></a>
+<p>Professor Nick Titov</p>
+</th>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/professor-john-torous/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/John_Torous_Thumbnail.png"></a>
+<p>Professor John Torous</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/professor-maurizio-fava/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maurizio_Fava_Thumbnail.png"></a>
+<p><strong>Professor Maurizio Fava</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/professor-felice-n-jacka-oam/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Felice_N_Jacka_Thumbnail.png"></a>
+<p><strong>Professor Felice N Jacka</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/professor-laurence-j-kirmayer/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Laurence_Kirmayer_Thumbnail.png"></a>
+<p><strong>Professor Laurence Kirmayer</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

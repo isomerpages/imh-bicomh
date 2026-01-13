@@ -1,0 +1,5 @@
+collections:
+  plan-your-trip:
+    output: true
+    order:
+      - Plan Your Trip.md

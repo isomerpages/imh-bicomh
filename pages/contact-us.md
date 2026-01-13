@@ -6,8 +6,8 @@ agency_name: the team.
 contacts:
   - content:
       - phone: ""
-      - email: bicomh@imh.com.sg
+      - email: bicomh@nhghealth.com.sg
       - other: ""
-    title: General Enquiries
+    title: Secretariat
 feedback: ""
 ---
